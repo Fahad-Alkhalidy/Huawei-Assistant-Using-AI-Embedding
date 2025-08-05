@@ -1,0 +1,70 @@
+HCIA-5G-RAN
+
+Type
+
+ICT Infrastructure (5G)
+
+Capabilities to be Certified
+
+Have the capability of independently completing the commissioning and deployment of Huawei 5G radio networks, performing routine operations and onsite maintenance for Huawei 5G wireless base stations, and handling Huawei 5G radio network faults under the guidance of others.
+
+Knowledge to Learn
+
+Basic 5G concepts, 3GPP-based standard 5G network architecture and key technologies, 5G air interface principles and protocol interface procedures, hardware and specifications of Huawei 5G wireless base station products, basic configurations and operations of Huawei 5G radio network, commissioning and deployment of Huawei 5G radio network equipment, 5G basic features, and network test of 5G.
+
+ObjectivesDescribe 5G radio network principles and functionsDescribe the basic functions of 5G base stationConfigure the 5G Base Station based on the typical scenariosDescribe the General Target of applying the RRM FeaturesUnderstand the Principles of the Basic Radio Network Functions and FeaturesDescribe how to use GENEX Probe to perform NR drive testDescribe how to configure different test plansDescribe how to collect test data by using the GENEX ProbeList basic test parameters in NR technologyDescribe the functions of the GENEX AssistantUse the GENEX Assistant to analyze DT log filesCompose common DT analysis reportsUnderstand the function test methods of the network test toolMaster the single-site verification test indicators and requirementsUnderstand the 5G NSA&SA access process and key pointsAnalyze and locate typical faults encountered during the test
+
+Target AudiencePeople who plan to participate in the HCIA-5G RAN trainingPeople who intend to learn basic concepts and principles of 5G, and basic operations and maintenance for the 5G radio network
+
+Prerequisites
+
+Master the basic knowledge about one type of mobile communication networks (2G/3G/4G)
+
+Training Content
+
+5G Radio Network Principle OverviewOverview of 5G Wireless Network Principles5G Overview5G Network Architecture and Interface5G Physical LayerOverview of 5G Basic Signaling Process
+
+5G Base Station Basic OperationHuawei 5G Base Station Product Overview5900 Series Base Station Function and Performance Introduction5900 Series Base Station Modules Introduction5900 Series Base Station Typical Configuration in 5G Scenarios5G Base Station Basic Operation5900 Base Station O&M System Structure5900 Base Station Equipment Management5900 Base Station Interface and Link Management5900 Base Station Wireless Basic Parameters Management5900 Base Station Basic Operation Practice
+
+5G Base Station Commissioning5G Base Station Commissioning Flow Introduction5G Base Station Commissioning Preparation5G Base Station Commissioning Local Operation5G Base Station Commissioning Remote OperationLocal and Remote CooperationgNodeB Commissioning Practice
+
+5G Radio Network Basic Feature OverviewOverview of 5G NR Radio Resource ManagementNSA Networking with Dual Connection Feature5G NR Power Control Feature5G NR Mobility Management Feature5G NR Scheduling Feature5G MIMO FeatureUplink Fallback to LTE
+
+5G RF Tools IntroductionGENEX Probe Operation GuideIntroduction of the GENEX ProbeGENEX Probe OperationTest parametersManage Log FilesGENEX Assistant Operation GuideIntroduction to the GENEX AssistantOperation Procedure of the GENEX AssistantOther Functions and OperationsCommon Analysis Report
+
+5G Network Test and Problem AnalysisIntroduction to Test DevicesTest Item and Requirements5G NSA&SA Access ProcedureCommon Fault Cases during the Test
+
+Exam
+
+HCIA-5G-RAN  
+Exam Code: H35-480  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false  
+Time: 90min  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 200USD  
+Language: Chinese, English
+
+Knowledge Content Distribution5G Principle Basics — 25%5G Base Station Product Basics — 30%Overview of Basic 5G Wireless Network Features — 20%5G Wireless Network Test and Problem Analysis — 25%
+
+Recertification Policy
+
+Certification
+
+HCIA-5G-RAN
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

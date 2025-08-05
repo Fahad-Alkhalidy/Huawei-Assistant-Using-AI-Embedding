@@ -1,0 +1,61 @@
+HCIP-Collaboration
+
+Type
+
+ICT Infrastructure (Collaboration)
+
+Capabilities to be Certified
+
+After passing the HCIP‑Collaboration V4.0 certification, you will be able to master the knowledge of Intelligent Collaboration solution, audiovisual technologies in the collaboration domain, H.323 and SIP protocols, video conferencing implementation principles, advanced system operations, system network design and implementation, system O&M and troubleshooting. This enables you to be competent as technical engineer or O&M engineer in the collaboration domain.
+
+Knowledge to Learn
+
+Intelligent Collaboration solution, audiovisual technologies, the Session Initiation Protocol (SIP), the H.323 protocol, video conferencing implementation principles, advanced system operations, system network design & deployment, and system O&M & troubleshooting.
+
+ObjectivesUnderstand the architecture, products, and functions of the collaboration solution.Have general knowledge of collaboration industry application scenarios.Master basic acoustics and key VoIP technologies.Master fundamental video imaging principles and processing.Be capable of using Wireshark for monitoring/analysis.Understand SIP protocol principles.Describe a typical SIP conference service workflow.Understand H.323 protocol principles.Describe a typical H.323 conference service workflow.Understand video conferencing implementation principles (e.g. MCU, SC clusters, virtual meetings).Master advanced operations of the video conferencing system.Master typical network planning and design of the video conferencing system.Master routine O&M tasks of the video conferencing system.Have foundational troubleshooting knowledge.Master the methodology and process for troubleshooting typical cases.
+
+Target AudienceThose who want to become senior collaboration engineersThose who want to obtain the HCIP‑Collaboration V4.0 certificate
+
+PrerequisitesBasic knowledge of video conferencing, network, and securityFamiliarity with HCIA‑Collaboration content
+
+Training Content
+
+Intelligent Collaboration Solution OverviewOverviewCollaboration Products IntroductionSolution FeaturesIndustry Application Scenarios
+
+Deep Dive into Audiovisual TechnologiesBasic AcousticsKey VoIP TechnologiesVideo Imaging FundamentalsVideo Image Processing
+
+Deep Dive into SIP and H.323 ProtocolsSIP PrinciplesWireshark TechniquesTypical SIP Conference WorkflowH.323 PrinciplesTypical H.323 Conference Workflow
+
+Video Conferencing Implementation PrinciplesVirtual Meeting RoomSC ClusterMCU Operation Modes & PrinciplesSMC Resource Dispatching
+
+Advanced Operations of the Video Conferencing SystemAdvanced Endpoint OperationsAdvanced MCU OperationsAdvanced SMC Operations
+
+Network Design and Implementation of the Video Conferencing SystemDeployment Scenario PlanningPublic‑Private Network Traversal BasicsTypical Video Conferencing Network Topologies
+
+Video Conferencing System O&M and TroubleshootingO&MUser & Conference Room ManagementDevice ManagementMaintenance ManagementTroubleshootingTroubleshooting FundamentalsTypical Case Analyses
+
+ExamExam Code: H11-861Exam Type: Written examinationFormat: Single‑answer, Multiple‑answer, True/False, Short Response ItemTime: 90 minutesPassing Score / Total Score: 600 / 1000Cost: 300 USDLanguage: English
+
+Knowledge Content DistributionIntelligent Collaboration Solution Overview – 7%Deep Dive into Audiovisual Technologies – 7%SIP Protocol Deep Dive – 14%H.323 Protocol Deep Dive – 14%Video Conferencing Implementation Principles – 7%Advanced System Operations – 14%Network Design & Implementation – 14%System O&M – 15%Troubleshooting – 8%
+
+Recertification Policy
+
+Certification
+
+HCIP-Collaboration
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+You can renew the certificate before expiry by:Passing any exam of the current certificationPassing any exam of the same or higher-level certification within the same technology track
+
+Period of Invalidity
+
+Same as initial certification

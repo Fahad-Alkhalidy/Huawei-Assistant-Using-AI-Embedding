@@ -1,0 +1,67 @@
+HCIP-5G-Security Solution
+
+Type
+
+ICT Infrastructure (5G)
+
+Capabilities to be Certified
+
+Acquiring HCIP-5G-Security Solution certification proves you have a systematic understanding and mastery of the knowledge about 5G infrastructure cyber security deployment and maintenance capabilities and 5G to industry private network security planning and design capabilities, and be able to complete 5G cyber security planning and deployment.
+
+Knowledge to Learn
+
+HCIP-5G-Security Solution certification includes but is not limited to:  
+5G cyber security concept and industry consensus,  
+5G cyber security standards and certifications,  
+5G cyber security threat analysis and countermeasures,  
+5G Network Security Solution introduction (such as RAN, core, slicing, and MEC),  
+5G industry security solution case study.
+
+ObjectivesUnderstand 5G cyber security concepts and global industry consensus.Learn about major 5G cyber security standards and international/national certifications.Perform threat analysis for 5G infrastructure and apply effective countermeasures.Understand 5G network security solutions including RAN, Core, Slicing, and MEC.Analyze real-world industry 5G security deployment case studies.Gain skills in planning, designing, deploying, and maintaining 5G cyber security infrastructures.
+
+Target Audience
+
+This professional certification is only intended for carrier customers and Huawei engineers. Conduct centralized training by offline invitation.
+
+Prerequisites
+
+There are no formal prerequisites, but experience or certification in HCIA-5G is recommended.
+
+Training Content5G Cyber Security Concepts and Industry Consensus5G Cyber Security Standards and Certifications5G Cyber Security Threat Analysis and Countermeasures5G Network Security Solution IntroductionRAN securityCore network securityNetwork slicing securityMEC (Multi-access Edge Computing) security5G Industry Security Solution Case StudiesPractical case study analysisSecurity solution planning
+
+Exam
+
+HCIP-5G-Security Solution  
+Exam Code: H35-665  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false  
+Time: 90 min  
+Passing Score / Total Score: 600 / 1000  
+Exam Cost: 300 USD  
+Language: Chinese, English
+
+Knowledge Content Distribution5G Cyber Security Concept and Industry Consensus – 7%5G Cyber Security Standards and Certifications – 13%5G Cyber Security Threat Analysis and Countermeasures – 24%5G Network Security Solution – 44%5G Industry Security Solution Case Study – 12%
+
+Recertification Policy
+
+Certification
+
+HCIP-5G-Security Solution
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification which is from the same technology track as the current certification.
+
+Period of Invalidity
+
+Same as the initial certification.

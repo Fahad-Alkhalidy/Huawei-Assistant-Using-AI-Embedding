@@ -1,0 +1,58 @@
+HCIA-Access
+
+Type
+
+ICT Infrastructure (access)
+
+Capabilities to be Certified
+
+Master the basic principles and service configurations of access networks. Have the ability to commission Huawei access network devices and configure basic services, plan ODN networks, and troubleshoot basic faults.
+
+Knowledge to Learn
+
+Access network overview, xPON principles, Network communication principles, Data service configuration, ODN engineering implementation and maintenance, and NMS basics.
+
+ObjectivesBe familiar with the concept, position, and typical scenarios of the access network.Understand the deployment solutions, common technical features, and differences of the access network.Understand the principles of GPON and 10G GPON.Understand the principles of xDSL & Vectoring & G.fast.Describe the basic principles of TCP/IP.Be familiar with the basic principles of switches and routers.Understand VLAN basics, features, configurations, and applications of access network.Understand the basic features, configuration, and application of the PPP/PPPoE and DHCP protocols.Understand the ODN product features and applications. Be familiar with the common detection tools and parameters.Be familiar with common access network devices and application scenarios.Understand the basic OLT operations and data service configuration and maintenance.Understand the basic knowledge of SNMP, eSight, U2000, and NCE (Access Domain).
+
+Target AudiencePersonnel who want to become access network engineers.Personnel who want to obtain HCIA-Access certification.
+
+Prerequisites
+
+Basic understanding of IT technologies and network knowledge.
+
+Training ContentAccess Network Evolution and ApplicationOverview and Technology Evolution of Wired Communication Access NetworkCharacteristics, Advantages, and Typical Applications of PONData Encapsulation Process for PON AccessNetwork Communication BasicsOverview of Data CommunicationTCP/IP protocol stackEthernet OverviewVLAN Technology PrincipleCauses of VLANVLAN Division MethodVLAN Configuration and ImplementationVLAN routeFeatures of VLANs in the Access NetworkRouting BasicsIP routing tableRoute classificationIntroduction to Static RoutesInter-VLAN routingPON System OverviewPON Network OverviewIntroduction to PON DevicesGPON PrinciplesGPON Network ArchitectureGPON Protocol AnalysisKey GPON TechnologiesManagement and Service Provisioning Modes of the GPON SystemGPON Network ProtectionXG(S) - PON PrinciplesSystem OverviewXG(S)-PON Technical PrinciplesTypical XG(S)-PON NetworkingEvolution from GPON to XG(S)-PONxDSL Principles and ApplicationsxDSL Technology OverviewADSL/ADSL2+ Technical PrinciplesIntroduction to the VDSL/VDSL2 TechnologyGPON MxU HSI Service Configuration ExampleVectoring and G.fast PrinciplesxDSL DevelopmentVectoring Principle and ApplicationG.fast Principle and ApplicationPPP and PPPoE ProtocolsPPP protocolPPPoE protocolDHCP PrinciplesBasic DHCP PrinciplesDHCP Relay PrinciplesDHCP Networking ApplicationONU Service InterfacesOverview of ONU Deployment Scenarios and Interface TypesONU Interface DescriptionVLANs and Service Flows of Huawei Access NetworkAccess Network VLANService FlowLayer 2 InteroperationGPON OLT Basic OperationsDevice ConnectionIntroduction to Command Line FeaturesBasic System OperationsManagement Environment ConfigurationGPON ONU Basic OperationsONU Profile TypesProcess of adding an ONUONU Service Deployment ExampleONU Maintenance and QueryGPON Data Service ConfigurationIntroduction to Data ServicesTypical Scenarios and Configurations of Data ServicesData Service MaintenanceODN Engineering and MaintenanceODN ComponentsODN Engineering ImplementationODN Test and AcceptanceODN O&MNMS BasicsNMS ArchitectureSNMPOverview of Huawei Access NMSseSightiManager U2000NCE (Access Domain)
+
+Exam
+
+HCIA-Access  
+Exam Code: H35-210  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop Item  
+Time: 90min  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 200USD  
+Language: Chinese, English
+
+Knowledge Content DistributionAccess Network Overview — 3%Network Communication Basics — 18%xPON and xDSL Principles — 27%Service Implementation Basics — 21%Data Service Implementation — 16%ODN Basics — 10%NMS Basics — 5%
+
+Recertification Policy
+
+Certification
+
+HCIA-Access
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

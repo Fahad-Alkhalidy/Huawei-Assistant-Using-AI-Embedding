@@ -1,0 +1,47 @@
+HCIA-Datacom
+
+Type
+
+ICT Infrastructure (Datacom)
+
+Capabilities to be Certified
+
+Passing the HCIA-Datacom V1.0 certification will indicate that you are capable of planning, design, deployment, O&M, and optimization of small- and medium-sized campus networks.
+
+Knowledge to Learn
+
+HCIA-Datacom V1.0 includes the following contents: Routing and switching principles, basic WLAN principles, basic knowledge of network security, basic knowledge of network management and O&M, and basic knowledge of SDN and programming automation.
+
+ObjectivesUnderstand the definition of data communication and the capability model of data communication engineers.Understand the network reference model and the entire data communication process.Be familiar with the VRP system and be able to perform basic operations.Understand IPv4 address protocol and related concepts.Understand the forwarding principles of Layer 3 devices such as routers and Layer 3 switches.Understand the concept of routing and use static route or OSPF to build a Layer 3 network.Understand basic Ethernet concepts and describe the functions and working principles of Layer 2 switching devices.Be familiar with common Ethernet protocols, such as VLAN, Spanning Tree Protocol, link aggregation and stacking.Configure ACLs and AAA to provide basic security solutions for the network.Be familiar with the NAT protocol and master the NAT configuration in different scenarios.Master the configuration of common services on enterprise networks, such as DHCP, FTP and Telnet.Understand basic WLAN concepts and complete basic configurations of small or medium-sized WLAN networks.Understand basic WAN concepts and WAN solutions such as MPLS and SR.Have general knowledge of basic concepts of enterprise network management.Be familiar with traditional network management and SDN-based network management solutions.Have a good command of IPv6 protocols and be able to build small-scale IPv6 networks.Have a good command of the campus network construction process. Be able to independently construct small-sized campus networks.Understand the basic concepts of SDN and programming automation and master the basics of Python.
+
+Target AudienceWho wants to become Data Communication EngineersWho wants to obtain the HCIA-Datacom Certification
+
+PrerequisitesBe familiar with PC operations.Basic understanding of IT technologies and network knowledge
+
+Training ContentData Communication and Network BasicsBasic Concepts of Data CommunicationData Transfer ProcessNetwork Devices and Basic FunctionsNetwork Type and Topology TypeNetwork EngineeringNetwork EngineersWhat is Data and Data TransferCommon Standard ProtocolsLayered Model ConceptApplication Layer and Related ProtocolsTransport Layer and Related ProtocolsNetwork Layer and Related ProtocolsData Link Layer and Related ProtocolsPhysical Layer and Related ProtocolsData Transfer, Encapsulation and DecapsulationCommon Network DevicesVRP BasicsCLI Command ViewsBasic Commands and Function Keys of the CLIConstructing an Interconnected IP NetworkNetwork Layer ProtocolConcept, Classification, and Special IP Addresses of IPv4IP Network and IP Subnet CalculationIP Network Address PlanningBasic Working Principles of RoutersRouting Table ConceptsRouting and Forwarding FeaturesStatic Route ConfigurationBasic Features of OSPFOSPF Application ScenariosWorking Principle of OSPFBasic OSPF ConfigurationsConstructing an Ethernet Switching NetworkBasic Concepts of EthernetConcept of MAC AddressWorking Process and Principles of Layer 2 SwitchesComposition and Formation of a MAC Address TableBackground of VLANBasic Concepts and Principles of VLANVLAN Data Communication Process on a Layer 2 NetworkBasic VLAN ConfigurationBackground of STPBasic Concepts and Working Principles of STPBasic Concepts of RSTP and Improvements Compared with STPBasic STP ConfigurationOther Layer 2 Loop Elimination TechnologiesBasic Concepts of Link AggregationWorking Principles of Manual Link AggregationWorking Principles and Features of LACP ModeBasic Concepts of iStack and CSSWorking Principles of Sub-interfacesWorking Mechanism of Layer 3 SwitchesSub-interface ConfigurationVLANIF ConfigurationNetwork Security and Network Access BasicsBasic Principles and Functions of ACLsStructure and Matching Order of ACL RulesUsage of Wildcard MaskBasic ACL ConfigurationPrinciples and Application Scenarios of AAALocal AAA ConfigurationNAT Background, Classification, and Technical PrinciplesNAT Configuration in Different ScenariosNetwork Services and ApplicationsPrinciples of TFTP, FTP, DHCP, and HTTPConfiguration of FTP and DHCPWLAN BasicsWLAN Concepts and 802.11 Protocol Suite HistoryWLAN DevicesWLAN Networking ModeWLAN Working ProcessBasic WLAN ConfigurationWAN BasicsBasic WAN ConceptsCommon WAN TechnologiesWorking Principles of PPP and PPPoEConfiguring PPP and PPPoEBasic Concepts of MPLS/SRNetwork Management and O&MNMS and O&M ConceptsCommon NMS/O&M Methods and ToolsSNMP Working PrincipleSDN-based NMS/O&M SolutionIPv6 BasicsIPv6 vs. IPv4 ComparisonIPv6 ConceptsIPv6 Packet Header Format and PrincipleIPv6 Address Format and TypeIPv6 Address Configuration Method and ProcedureStatic and Dynamic IPv6 Address ConfigurationIPv6 Static Route ConfigurationSDN and Automation BasicsBasic SDN ConceptsHuawei SDN Products and SolutionsBasic NFV ConceptsHuawei NFV Products and SolutionsTraditional Network O&M AnalysisNetwork Automation ImplementationProgramming LanguagesPython Coding SpecificationsBasic Automatic O&M with Python telnetlibTypical Campus Network Architectures and PracticesCampus Network ArchitectureCampus Network LifecycleConstruction Case StudiesConstruction Practice
+
+ExamExam Code: H12-811Exam Type: Written examinationExam Format: Single-answer, Multiple-answer, True/False, Short Response, Drag and DropTime: 90 minutesPassing Score/Total Score: 600/1000Cost: 200 USDLanguages: Chinese, English, Spanish, French, Russian, Japanese
+
+Knowledge Content DistributionData communication and network basics – 8%Build an IP network with interconnection and interworking – 27%Ethernet switching network construction – 28%Cyber security infrastructure and network access – 8%Network services and applications – 5%WLAN basics – 10%WAN basics – 3%Network management and O&M – 3%IPv6 basics – 5%SDN and automation basics – 3%
+
+Recertification Policy
+
+Certification
+
+HCIA-Datacom
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher level certification from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

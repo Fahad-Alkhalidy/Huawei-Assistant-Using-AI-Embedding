@@ -1,0 +1,57 @@
+HCIE-Datacom
+
+Type
+
+ICT Infrastructure (Datacom)
+
+Capabilities to be Certified
+
+Passing the HCIE-Datacom certification will indicate that you have a solid theoretical knowledge of multi-scenario convergence solutions for enterprise networks, and be able to use Huawei Datacom products and solutions to plan, deploy, maintain, and optimize enterprise campus networks, WAN interconnection, and bearer WAN. You will be competent for the expert positions of full-scenario enterprise networks (including account managers, project managers, pre-sales experts, post-sales experts, network architects, etc.).
+
+Knowledge to Learn
+
+Routing and switching advanced technologies, panoramic view of enterprise network architecture, typical architecture and technologies of campus network, planning and deployment of Huawei CloudCampus solution, typical architecture and technologies of WAN interconnection, planning and deployment of Huawei SD-WAN solution, typical architecture and technologies of bearer WAN, planning and deployment of Huawei CloudWAN solution, network automation technologies and practice.
+
+ObjectivesDescribe OSPF and IS-IS fast convergence technologies.Configure OSPF and IS-IS equal-cost routes.Describe OSPF and IS-IS default routes advertisement.Describe the application scenarios of OSPF and IS-IS multi-process.Describe the GR and NSR principles of OSPF and IS-IS.Describe the application scenarios of OSPF forwarding addresses.Describe the working principles of IS-IS LSP fragment extension.Use AS_Path Filter and Community Filter to implement BGP route control.Apply the ORF function and peer group function of BGP.Understand basic configuration for implementing BGP security.Describe the concept and usage of the 4-byte AS number.Describe the networking of BGP RRs.Clarify the types and configurations of port isolation.Clarify the technical principles of port security.Detect MAC address flapping.Clarify switch traffic suppression and storm control functions.Describe application scenarios of DHCP snooping.Clarify how IP Source Guard works.Describe the working scenarios of dual-system hot backup.Describe the basic concepts and terms of MPLS.Describe the working principles of MPLS.Configure static LSPs.Describe the MPLS forwarding process.Describe the basic concepts and working mechanism of LDP.Describe the MPLS label distribution control mode, advertisement mode, and retention mode.Understand Basic LDP configuration.Describe the MPLS VPN model.Describe the basic concepts of MPLS VPN.Describe MPLS VPN routing and label distribution.Describe the MPLS VPN data forwarding process.Perform basic MPLS VPN configurations.Describe the principles of the three cross-domain solutions.Understand basic configuration of three cross-domain solutions.Describe the application scenarios of the three cross-domain solutions.Describe the development histories of EVPN.Describe how EVPN solves VPLS problems.Describe the common routing types and working principles of EVPN.Describe the principles of inter-AS EVPN.Describe typical application scenarios of EVPN.Configure IPv6 static routes.Analyze the differences between OSPFv3 and OSPFv2.Understand basic OSPFv3 configuration.Describes IS-IS extensions to IPv6.Understand basic IS-IS (IPv6) configuration.
+
+Target AudiencePersonnel who wants to become datacom expertsPersonnel who wants to achieve HCIE-Datacom certification
+
+PrerequisitesBe familiar with common operations on Huawei network devicesKnowledge skills described in the HCIP-Datacom-Core Technology course
+
+Training ContentAdvanced Routing and Switching TechnologyAdvanced IGP FeaturesAdvanced BGP FeaturesNetwork Security TechnologiesMPLS Fundamentals and ConfigurationMPLS LDP Fundamentals and ConfigurationMPLS VPN Fundamentals and ConfigurationMPLS VPN Deployment and ApplicationInter-AS MPLS L3VPNEVPN Fundamentals and ConfigurationIPv6 RoutingIPv6 Transition TechnologiesQoS FundamentalsNetwork O&MNetwork TroubleshootingNetwork MigrationCampus Network Planning and DeploymentEnterprise Network IntroductionEnterprise Campus Network OverviewVXLAN and Campus Network VirtualizationNetwork Admission ControlFree MobilityLarge- and Medium-Sized Virtualized Campus Network DesignVirtualized Campus Network Deployment GuideSmall- and Medium-Sized Cloud-Managed Campus Network DesignCampusInsight Intelligent O&MWAN Interconnection Network Planning and DeploymentWAN Interconnection Solution and Technologies OverviewKey Technologies of WAN InterconnectionSD-WAN Solution Planning and DesignBearer WAN Planning and DeploymentEnterprise Bearer WAN SolutionEnterprise Bearer WAN Architecture and Key TechnologiesSegment RoutingSRv6 Fundamentals and ConfigurationEnterprise Bearer WAN DesignIPE Key Technologies and Evolution TrendsNetwork AutomationNetwork Automation OverviewSSH Fundamentals and PracticeNETCONF YANG Fundamentals and PracticeTelemetry Fundamentals and PracticeOPS Fundamentals and PracticeRESTful Fundamentals and PracticeiMaster NCE-Campus Open APIs IntroductioniMaster NCE Service Openness And Programmability
+
+Exam
+
+HCIE-Datacom (Written)Exam Code: H12-891Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop ItemTime: 90 minPassing Score/Total Score: 600/1000Exam Cost: 300 USDLanguage: Chinese, English
+
+HCIE-Datacom (Lab)Exam Code: H12-892Exam Type: ExperimentsExam Format: Operation, Essay ItemTime: 480 minPassing Score/Total Score: 80/100Exam Cost: 1200 USDLanguage: Chinese, English
+
+Knowledge Content Distribution
+
+HCIE-Datacom (Written)Advanced Routing and Switching Technology — 37%Campus Network Planning and Deployment — 23%WAN Interconnection Network Planning and Deployment — 8%Bearer WAN Planning and Deployment — 15%Network Automation — 17%
+
+HCIE-Datacom (Lab)Advanced Routing and Switching Technology — 40%Campus Network Planning and Deployment — 20%WAN Interconnection Network Planning and Deployment — 5%Bearer WAN Planning and Deployment — 25%Network Automation — 10%
+
+Recertification Policy
+
+Certification
+
+HCIE-Datacom
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

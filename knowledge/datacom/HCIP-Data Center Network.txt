@@ -1,0 +1,49 @@
+HCIP-Data Center Network
+
+Type
+
+ICT Infrastructure (Datacom)
+
+Capabilities to be Certified
+
+Passing the HCIP-Data Center Network certification will prove that you have solid theoretical knowledge of data center network solutions and are able to use Huawei data center network products and solutions to plan, construct, maintain, and optimize data center networks. You are competent for the position related to the data center network scenario. (account manager, project manager, pre-sales engineer, after-sales engineer, O&M engineer, etc.)
+
+Knowledge to Learn
+
+Data center network technical knowledge, Huawei CloudFabric solution, data center network planning and deployment, and data center network O&M.
+
+ObjectivesDescribe the logical structure of network devices.Describe each functional module of network devices.Describe the forwarding process of network devices.Identify the IP routing table and FIB table.Analyze the route-based forwarding process.Describe the principles of route import.Understand application scenarios of route import.Describe the overall process of OSPF route calculation.Clarify functions of the DR and BDR.Describe OSPF packets and their functions.Configure basic OSPF functions.Distinguish the OSPF neighbor relationship and adjacency.Explain functions of key fields in link-state advertisements (LSAs).Describe common LSA types and functions.Illustrate the SPF algorithm.Describe the principles for calculating intra-area and inter-area OSPF routes.Describe the loop prevention mechanism of OSPF inter-area routes.Describe the principles for calculating OSPF external routes.Describe types and characteristics of OSPF special areas.Describe application scenarios and advantages of OSPF route summarization.Configure OSPF packet authentication.Describe basic concepts of IS-IS.Understand how IS-IS is implemented.Describe the differences between IS-IS and OSPF.Perform basic IS-IS configurations.Describe basic concepts of BGP.Describes BGP peer types.Learn how to set up a BGP peer relationship.Learn BGP state machine.Perform basic BGP configurations.Describe common BGP path attributes and their functions.Describe the concept and application scenarios of BGP RRs.Describe the rules and working mechanism of BGP RRs.Describe rules for selecting a preferred BGP route.Learn BGP route control.Understand basic MP-BGP concepts.Understand the origin of EVPN.Understand common EVPN route types.Understand typical EVPN usage scenarios.Use an ACL to filter routes.Use an IP prefix to filter routes.Use a filter-policy to filter routes.Use a route-policy to filter routes and modify route attributes.Describe the application scenarios of PBR.Describe the classification of PBR.Describe how to configure PBR in MQC mode.Describe how to filter packets in MQC mode.Describe the typical architecture of a large-scale campus network.Describe common Ethernet switching technologies.Describe common WLAN application scenarios.Describe common technologies used to ensure campus network reliability.Describe common technologies used for campus network service and management.Describe common technologies used to ensure campus network security.Describe common VPN technologies used on campus networks.Describe defects of STP technology.Describe RSTP improvements compared with STP.Describe the working mechanism of RSTP.Perform basic RSTP configurations.Describe weaknesses of RSTP/STP.Describe MSTP improvements compared with RSTP/STP.Describe concepts of MSTP.Describe the working mechanism of MSTP.Complete basic MSTP configurations.Describe basic concepts involved in stack and CSS.Learn about the process of setting up a stack and CSS.Understand the MAD mechanism of stack and CSS.Describe the definition and address structure of multicast.Describe multicast data forwarding implementation.Describe reverse path forwarding (RPF) implementation.Understand IGMP implementation and configurations.Understand the differences between different IGMP versions.Understand the implementation of IGMP snooping.Understand the implementation of IGMP SSM mapping.Understand the implementation of IGMP proxy.Describe the basic concepts of PIM.Describe the fundamentals of PIM-DM.Perform basic configurations of PIM-DM.Describe the fundamentals of PIM-SM.Perform basic configurations of PIM-SM.Describe the development status of IPv6.Explicate the advantages of IPv6 over IPv4.Describe the basic concepts of IPv6.Describe the format of an IPv6 packet header.Describe the IPv6 address format and types.Configure IPv6 addresses and routes.Describe the functions of ICMPv6.Describe the ICMPv6 message format.Describe ICMPv6 message types.Describe the functions of NDP.Describe the fundamentals of IPv6 stateless address autoconfiguration.Describe the fundamentals of DHCPv6 address autoconfiguration.Perform IPv6 address autoconfiguration.Describe the definition, type, and development history of firewalls.Distinguish firewalls from routers and switches.Describe basic firewall concepts, such as the security zone, security policy, session table, and server map.Perform basic firewall configurations.Learn common device security hardening policies.Configure STelnet.Configure local attack defense.Understand VPN classification.Understand VPN implementation modes.Understand basic VRF concepts.Understand typical VRF applications.Implement basic VRF configurations.Describe functions of BFD.Describe BFD implementation.Configure and apply BFD.Analyze problems faced by a single gateway on a LAN.Explain the basic concepts and working mechanism of VRRP.Describe the active/standby VRRP switchover process.Perform basic VRRP configurations.Describe DHCP implementation.Describe DHCP address allocation rules.Differentiate application scenarios of DHCP and DHCP relay.Perform basic DHCP configurations.Describe the development trend and functions of network management.Describe the functions of network management protocols.Describe the similarities and differences between the implementation mechanisms and application scenarios of different network management protocols.Describe the application scenarios of network management protocols.Describe the typical network architecture and characteristics of a large-scale WLAN.Describe key technologies for constructing a large-scale WLAN.Configure large-scale WLAN networking.Describe the functions of datacom networks in the digital world.Describe the scenario classifications and basic concepts of datacom network solutions.Describe Huawei's campus network, WLAN, data center network, and WAN solutions.
+
+Exam
+
+HCIP-Datacom-Core TechnologyExam Code: H12-821Exam Type: Written examinationExam Format: Single-answer, Multiple-answer, True or false, Short Response Item, Drag and Drop ItemTime: 90 minPassing Score/Total Score: 600/1000Exam Cost: 300 USDLanguage: Chinese, English, Japanese
+
+HCIP-Datacom-Data Center NetworkExam Code: H12-881Exam Type: Written examinationExam Format: Single-answer, Multiple-answer, True or false, Short Response Item, Drag and Drop ItemTime: 90 minPassing Score/Total Score: 600/1000Exam Cost: 180 USDLanguage: Chinese, English
+
+Knowledge Content Distribution
+
+HCIP-Datacom-Core TechnologyNetwork Device Management and Maintenance — 6%IP Routing Technologies — 17%IPv6 Technologies — 12%Routing Control and Route Selection — 9%Network Management and Monitoring Technologies — 7%Typical Datacom Network Technologies — 6%Network Security and VPN Technologies — 7%Network Reliability Technologies — 6%Multicast Technologies — 5%SDN and Virtualization Technologies — 10%Network Automation and Programmability — 10%Comprehensive Application and Experiment — 5%
+
+HCIP-Datacom-Data Center NetworkData Center Network Overview — 10%VXLAN and BGP EVPN Technologies — 20%Typical DCN Feature Deployment — 25%DCI Technologies — 15%Network Management and Maintenance — 15%Security and Reliability — 15%
+
+Recertification Policy
+
+Certification
+
+HCIP-Datacom-Data Center Network
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher level certification from the same technology track.
+
+Period of Invalidity
+
+Same as initial certification.

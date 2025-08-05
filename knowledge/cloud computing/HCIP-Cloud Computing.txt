@@ -1,0 +1,58 @@
+HCIP-Cloud Computing
+
+Type
+
+Cloud Platform & Cloud Services (Cloud Computing)
+
+Capabilities to be Certified
+
+Upon completion of this course, trainees will have learned the knowledge of open source OpenStack and basic IaaS services of HUAWEI CLOUD Stack, and be able to perform operations and O&M on open source OpenStack and HUAWEI CLOUD Stack.
+
+Knowledge to LearnOpen source OpenStack architectureWorking principles and invoking relationships of key componentsHUAWEI CLOUD Stack architecture, relationships and differences between HUAWEI CLOUD Stack and open source OpenStackWorking principles and usage of basic IaaS services, such as HUAWEI CLOUD Stack compute, storage, and network servicesConcepts and methods of HUAWEI CLOUD Stack operations and O&M
+
+ObjectivesUnderstand the OpenStack architecture and the working principles and invocation relationships of key OpenStack components.Understand the HUAWEI CLOUD Stack architecture and the relationship and differences between HUAWEI CLOUD Stack and open-source OpenStack.Have a good command of the principles and usage of basic IaaS services, such as computing, storage, and network services of HUAWEI CLOUD Stack.Understand HUAWEI CLOUD Stack operation and O&M concepts, and master HUAWEI CLOUD Stack operation and O&M management methods.
+
+Target AudienceBecome cloud computing engineers.Obtain HCIP-Cloud certificates.Understand cloud computing product management and maintenance.
+
+PrerequisitesServers and PC operating systemsNetworksStorageVirtualization
+
+Training Content
+
+HCIP-Cloud Computing V5.0OpenStack ArchitectureOpenStack OverviewOpenStack ArchitectureIntroduction to OpenStack Core ServicesExample of interaction between core OpenStack projectsOpenStack GUI ManagementHorizon OverviewHorizon ArchitectureIntroduction to the Horizon GUIOpenStack Authentication ManagementKeystone OverviewKeystone ArchitectureKeystone Object ModelKeystone Working Principle and ProcessOpenStack Image ManagementGlance OverviewGlance ArchitectureGlance Working Principle and ProcessCreating a Glance ImageOpenStack Computing ManagementNova OverviewNova ArchitectureNova Working Principle and ProcessTypical Nova OperationsOpenStack Storage ManagementOpenStack Storage OverviewCinder: Block StorageSwift: Object StoreOpenStack Network ManagementLinux Network Virtualization FoundationsNeutron OverviewNeutron ConceptsNeutron ArchitectureTypical Neutron Operations and ProcessesNeutron Network Traffic AnalysisOpenStack Orchestration ManagementHeat OverviewHeat ArchitectureTypical Heat Orchestration ScenariosOpenStack Metering ManagementCeilometer OverviewCeilometer ArchitectureCeilometer Data ManagementHUAWEI CLOUD Stack Architecture and ComponentsHUAWEI CLOUD Stack Solution and ArchitectureHUAWEI CLOUD Stack Components and Public ComponentsService OM Resource ManagementService OM OverviewService OM Computing Resource ManagementService OM Storage Resource ManagementService OM Network Resource ManagementHUAWEI CLOUD Stack Service OverviewIntroduction to Cloud ServiceIntroduction to HUAWEI CLOUD Stack IaaS ServicesCloudification CasesIntroduction to HUAWEI CLOUD Stack Computing ServiceHUAWEI CLOUD Stack Basic Computing Service OverviewIntroduction to HUAWEI CLOUD Stack Computing ServiceComputing Services PracticesIntroduction to HUAWEI CLOUD Stack Storage ServiceHUAWEI CLOUD Stack Basic Storage Service OverviewIntroduction to HUAWEI CLOUD Stack Storage ServiceStorage Solution DesignIntroduction to HUAWEI CLOUD Stack Network ServicesHUAWEI CLOUD Stack Network Service OverviewCommon Network Services on the CloudInterworking ServiceValue-added ServicesNetwork Solution DesignHUAWEI CLOUD Stack OperationOperation OverviewResource & OrganizationService SupplyMetering and PricingTenant O&MMulti-cloud ManagementHUAWEI CLOUD Stack O&MO&M OverviewO&M Function - Collection and Control LayerO&M Function - Platform LayerO&M Function - O&M Scenario Layer
+
+Exam
+
+HCIP-Cloud Computing  
+Exam Code: H13-527  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop Item  
+Time: 90min  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 300USD  
+Language: Chinese, English
+
+Knowledge Content DistributionOpen source OpenStack architecture, working principles and invoking relationships of key components 30%Introduction to the HUAWEI CLOUD Stack architecture, product components, and common components 20%Working principles and usage of basic IaaS services, such as HUAWEI CLOUD Stack compute, storage, and network services 20%HUAWEI CLOUD Stack operations 10%HUAWEI CLOUD Stack O&M 20%
+
+Recertification Policy
+
+Certification
+
+HCIP-Cloud Computing
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

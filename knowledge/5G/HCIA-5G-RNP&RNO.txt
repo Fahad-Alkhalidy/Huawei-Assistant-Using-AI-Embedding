@@ -1,0 +1,58 @@
+HCIA-5G-RNP&RNO
+
+Type
+
+ICT Infrastructure (5G)
+
+Capabilities to be Certified
+
+Have the capability to perform independently completing site survey, simple planning, testing, basic optimization, and performance monitoring for Huawei 5G radio networks.
+
+Knowledge to Learn
+
+5G air interface principle, 5G protocol and signaling analysis, 5G radio network planning, features related to Huawei 5G radio network optimization, 5G radio network performance management and optimization, 5G radio network problem analysis and handling, and 5G typical industry applications.
+
+Objectives
+
+On completion of this program, the participants will be able to:Describe 5G radio network principles and functionsDescribe the basic functions of 5G base stationDescribe the General Target of applying the RRM FeaturesUnderstand the Principles of the Basic Radio Network Functions and FeaturesUnderstand the objectives and basic planning process of 5G network planning at the early stageMaster the calculation rules and parameters of the 5G radio network coverage link budgetUnderstand the link budget for NR FDD wireless network coverage and the differences between NR FDD and NR TDDHave a good command of 5G wireless network capacity estimation and planningUnderstand the site solutionsUnderstand the design principles of the 5G antenna system in different regionsDescribe how to use GENEX Probe to perform NR drive testDescribe how to configure different test plansDescribe how to collect test data by using the GENEX ProbeList basic test parameters in NR technologyDescribe the functions of the GENEX AssistantUse the GENEX Assistant to analyze DT logfilesBe able to prepare common DT analysis reportsUnderstand the function test methods of the network test toolMaster the single-site verification test indicators and requirementsUnderstand the 5G NSA&SA access process and key pointsBe able to analyze and locate typical faults encountered during the testUnderstand the definition of 5G coverageUnderstand the analysis process of 5G coverage problemsUnderstand the key factors that affect the coverage of the 5GUnderstand the solutions to 5G coverage problemsDescribe 5G radio network KPI and its definitionCollect and define 5G radio network KPI in OSS system
+
+Target AudiencePeople who plan to participate in the HCIA-5G-RNP&RNO certificationPeople who intend to learn basic concepts and principles of 5G, and basic 5G radio network planning and optimization technology
+
+PrerequisitesMaster basic knowledge about one type of mobile communication networks (2G/3G/4G)
+
+Training Content5G Radio Network Principle OverviewOverview of 5G Wireless Network Principles5G Overview5G Network Architecture and Interface5G Physical LayerOverview of 5G Basic Signaling Process5G Base Station Basic Operation Overview5G Base Station Basic OperationHuawei 5G Base Station Product Overview5900 Series Base Station Function and Performance Introduction5900 Series Base Station Modules Introduction5900 Series Base Station Typical Configuration in 5G Scenarios5G Base Station Basic Operation5900 Base Station O&M System Structure5900 Base Station Equipment Management5900 Base Station Interface and Link Management5900 Base Station Wireless Basic Parameters Management5900 Base Station Basic Operation Practice5G Radio Network Basic Feature OverviewOverview of 5G NR Radio Resource ManagementNSA Networking with Dual Connection Feature5G NR Power Control Feature5G NR Mobility Management Feature5G NR Scheduling Feature5G MIMO FeatureUplink Fallback to LTE5G Wireless Network Coverage and Capacity Estimation5G Network Planning Objectives and ProcessLink Budget for 5G Wireless Network CoverageLink Budget for NR FDD Wireless Coverage5G Wireless Capacity Estimation5G Site Solution Overview5G NR Site Solution and Modernization Design OverviewNR Site Solution OverviewBBU and AAU Deployment and ModernizationFront-Haul and Power Supply Deployment and ModernizationSynchronization Solution and EHS5G Site Survey5G Site Selection5G Site Survey5G Network Test OverviewGENEX Probe Operation GuideGENEX Assistant Operation Guide5G Network Test and Problem AnalysisIntroduction to Test DevicesTest Item and Requirements5G NSA&SA Access ProcedureCommon Fault Cases during the Test5G Coverage Problem AnalysisOverview of 5G NR Coverage Analysis5G NR Coverage Analysis Process and OperationsCommon Coverage Problem Analysis5G Radio Network Performance Management OverviewBasic Concepts of 5G Counters5G KPI Description5G Radio Network Performance Management Practice5G KPI Problem AnalysisKPI Problem Analysis Procedure5G Accessibility KPI Analysis5G Mobility KPI Problem Analysis5G Retainability KPI Problem Analysis
+
+Exam
+
+Certification: HCIA-5G-RNP&RNO  
+Exam Code: H35-580  
+Exam Type: Written examination  
+Exam Format: Single-answer, Multiple-answer, True/False  
+Duration: 90 minutes  
+Passing Score / Total Score: 600 / 1000  
+Exam Cost: 200 USD  
+Languages: Chinese, English
+
+Knowledge Content Distribution5G radio network basics – 20%5G base station basic operation – 10%5G radio network basic feature – 20%5G network planning basics – 20%5G network testing and optimization – 30%
+
+Recertification Policy
+
+Certification
+
+HCIA-5G-RNP&RNO
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher level certification which belongs to the same technology track.
+
+Period of Invalidity
+
+Same as initial certification.

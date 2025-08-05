@@ -1,0 +1,80 @@
+HCIP-IoT Developer
+
+Type
+
+Cloud Platform & Cloud Services (IoT)
+
+Capabilities to be CertifiedA strong command of key features of the HUAWEI CLOUD IoT solution, product models and codec plug-in, technical principles of LwM2M/MQTT protocols, common IoT AT commands, and Huawei LiteOS.The ability to develop product models and codec plug-ins, use Huawei LiteOS to implement device-cloud interworking, flexibly use IoT protocols, and select different communication modes to develop product application capabilities.
+
+Knowledge to Learn
+
+Build data models for the IoT platform on HUAWEI CLOUD, customize codec plug-in, gain a deep understanding of RESTful APIs of the IoT platform and apply them to cloud services, and implement device-cloud interconnection based on the IoT operating system of Huawei LiteOS.
+
+ObjectivesUnderstand key features of the HUAWEI CLOUD IoT solutionHave a strong command of the technical principles of the LwM2M/MQTT protocol, common IoT AT commands, and Huawei LiteOSDevelop product models and codec plug-inUse Huawei LiteOS to implement device-cloud interconnectionFlexibly use IoT protocols and select different communication modes to develop product applications
+
+Target AudienceThose who wish to become senior IoT development engineersThose who wish to obtain the HCIP-IoT Developer V2.5 certification
+
+PrerequisitesBasic understanding of IoT technologies and C languageMastery of the content related to HCIA-IoT V2.5
+
+Training Content
+
+HUAWEI CLOUD IoT solutionIoT architectureHuawei Internet of Things (IoT) Solution
+
+Key Features of HUAWEI CLOUD IoT SolutionKey Features of HUAWEI CLOUD IoT Solution
+
+HUAWEI CLOUD IoT E2E DevelopmentOverall Solution DescriptionWhat Is a Product Model?What Is a Codec?Northbound Service Development
+
+About HUAWEI CLOUD ServicesElastic Cloud Server (ECS)Data Ingestion Service (DIS)Object Storage Service (OBS)ModelArtsHUAWEI CLOUD one-stop API Explorer
+
+NB-IoT Standards and SolutionsNB-IoT Architecture and Protocol EvolutionKey NB-IoT Technologies
+
+Huawei NB-IoT Chips and ModulesIntroduction to NB-IoT ChipsIntroduction to NB-IoT Modules
+
+Technical Principles of LwM2MLwM2M FeaturesLwM2M ObjectsLwM2M Interfaces
+
+Technical Principles of MQTTOverview and Development History of MQTTMQTT Publish/Subscribe ModeMQTT Topics and QoS LevelsMQTT Packet Structure and ConnectionMQTT Retained, LWT, and Keep Alive Messages
+
+AT Commands for Common IoT ModulesOverview of E2E Integration DevelopmentIntroduction to AT CommandsNB-IoT 3GPP CommandsNB-IoT Network AccessWi-Fi Commands
+
+Overview of the IoT OSIntroduction to RTOSIntroduction to LiteOSChallenges Faced by IoT SoftwareLiteOS Architecture Design
+
+Huawei LiteOS ArchitectureHuawei LiteOS ArchitectureHuawei LiteOS Kernel — TaskKernel Modules — Task SynchronizationKernel Modules — MemoryKernel Modules — InterruptKernel Modules — QueueKernel Modules — Time ManagementHuawei LiteOS MiddlewaresOpen APIDevice-Cloud Interconnection Component
+
+Common SensorsIntroduction to Common Sensors
+
+Exam
+
+HCIP-IoT Developer  
+Exam Code: H52-111  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop Item  
+Time: 90 minutes  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 300 USD  
+Language: Chinese, English
+
+Knowledge Content DistributionHUAWEI CLOUD IoT Solution — 3%Key Features of HUAWEI CLOUD IoT Solution — 8%HUAWEI CLOUD IoT E2E Development — 14%HUAWEI CLOUD Services — 3%NB-IoT Standards and Solutions — 8%Huawei NB-IoT Chips and Modules — 3%Technical Principles of LwM2M — 5%Technical Principles of MQTT — 8%AT Commands for Common IoT Modules — 3%IoT OS — 3%Huawei LiteOS Architecture — 40%Introduction to Common Sensors — 2%
+
+Recertification Policy
+
+Certification
+
+HCIP-IoT Developer
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as the initial certification.

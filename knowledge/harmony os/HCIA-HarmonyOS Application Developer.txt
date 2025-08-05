@@ -1,0 +1,51 @@
+HCIA-HarmonyOS Application Developer
+
+Type
+
+Basic Software & Hardware (HarmonyOS)
+
+Capabilities to be Certified
+
+Be able to master the basics of HarmonyOS technical features, HarmonyOS NEXT experience, ArkTS, Ability Kit, ArkUI, network service and ArkData, and Form Kit
+
+Knowledge to Learn
+
+Master basic knowledge of mobile application programming
+
+ObjectivesUnderstand HarmonyOS features and technical concepts.Master the basic process of developing HarmonyOS applications.Master ArkTS.Master Ability Kit.Master ArkUI.Master network service and data management.Master Form Kit.
+
+Target AudiencePersonnel who want to become HarmonyOS application developersPersonnel who want to obtain HCIA-HarmonyOS Application Developer certification
+
+PrerequisitesBasic knowledge of computersBasic knowledge of programming languages
+
+Training Content
+
+HCIA-HarmonyOS Application Developer TrainingIntroduction to HarmonyOSIntroduction to HarmonyOSHarmonyOS FeaturesHarmonyOS Technical ConceptsHarmonyOS Development SuiteHarmonyOS Use CasesIntroduction to Application DevelopmentDevEco StudioCompilation ToolsApplication PackageApplication Configuration FilesApplication ReleaseArkTSGetting Started with ArkTSBasic SyntaxUI Description SpecificationsCommon DecoratorsState ManagementRendering ControlAdaptation from TS to ArkTSConcurrencyContainer Class LibraryAbility KitIntroduction to Ability KitStage Model DevelopmentUIAbility ComponentLifecycle and Launch Types of UIAbility ComponentsUIAbility UsageData Synchronization Between UIAbility Components and UI PageStarting UIAbility in an ApplicationInter-Application RedirectionArkUIIntroduction to ArkUIGeneral InformationLayout ComponentsCommon ComponentsPage Routing and Component NavigationGraphics and AnimationsWindow ManagementNetwork Service and Data ManagementOverview of Network Management DevelopmentHTTP Data RequestArkData OverviewPreferencesKV StoreRDB StoreForm KitIntroduction to Form KitOperation Mechanism of ArkTS Widgets and Related ModulesCreating an ArkTS WidgetConfiguration File and Lifecycle of ArkTS WidgetsPage Development of ArkTS WidgetsEvent Development of ArkTS WidgetsData Exchange of ArkTS Widgets
+
+Exam
+
+HCIA-HarmonyOS Application DeveloperExam Code: H14-211Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or falseTime: 90minPassing Score/Total Score: 600/1000Exam Cost: 200USDLanguage: English
+
+Knowledge Content DistributionIntroduction to HarmonyOS - 10%Introduction to Application Development - 10%ArkTS - 20%Ability Kit - 20%ArkUI - 20%Network Service and Data Management - 10%Form Kit - 10%
+
+Recertification Policy
+
+Certification
+
+HCIA-HarmonyOS Application Developer
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Huawei certification consists of three technical domains: ICT infrastructure certification, platform and service certification, and ICT vertical certification. Examinees can update the validity date of the certificate in any of the following cases before the certificate expires:Participate and pass any exam of the current certification.Participate and pass any exam of the higher level certification from the same technical direction.Participate and pass any exam of the same or higher level certification from the same technical domain.
+
+Period of Invalidity
+
+Same as initial certification.

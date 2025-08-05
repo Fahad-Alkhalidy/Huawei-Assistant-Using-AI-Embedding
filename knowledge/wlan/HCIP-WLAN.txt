@@ -1,0 +1,53 @@
+HCIP-WLAN
+
+Type
+
+ICT Infrastructure (WLAN)
+
+Capabilities to be Certified
+
+Master WLAN technologies and be capable of professional planning, design, deployment, O&M, and optimization of large- and medium-sized enterprise WLANs using Huawei WLAN devices, ensuring secure, reliable, and stable operation of enterprise WLANs.
+
+Knowledge to Learn
+
+WLAN networking architecture, WLAN reliability technology, WLAN cloud management solution, user access and authentication technology, roaming technology, radio resource management, WLAN network planning basics, WLAN network planning tools, WLAN network planning process, network planning solutions in different scenarios, WLAN network optimization, WLAN network O&M, and WLAN network troubleshooting.
+
+ObjectivesDescribe WLAN networking modesConfigure WLAN servicesDescribe WLAN networking application scenariosUnderstand and configure WLAN reliability networking modes and solutionsUnderstand iMaster NCE-Campus architecture and functionsUnderstand cloud-based WAC and AP management network architectures and configurationsDescribe WLAN access basics, user access policies, and security configurationsUnderstand roaming concepts, data forwarding, optimization, and smart roamingUnderstand air interface performance and RRM technologies (radio calibration, band steering, load balancing, CAC)Understand WLAN coverage and capacity factorsUse WLAN Planner and CloudCampus APP for planningUnderstand WLAN planning process including site survey, device selection, channel/power/cabling/AP designPlan and deploy WLANs for various scenarios: enterprise office, education, hotel, healthcare, retail, warehouse, outdoor, high-density, and outdoor backhaulUnderstand WLAN optimization process and toolsUnderstand traditional and intelligent (CampusInsight) O&M solutionsUnderstand troubleshooting process, common faults, and their resolution
+
+Target AudienceSenior WLAN engineersWLAN planning and optimization expertsCandidates aiming for the HCIP-WLAN certificate
+
+PrerequisitesHCIA-WLAN certificate or equivalent knowledge
+
+Training Content
+
+WLAN Network FeaturesWLAN Networking ArchitecturesOverview, architectures, application scenariosWLAN Reliability TechnologyVRRP HSB, Dual-Link HSB, Cold Backup, N+1 BackupWLAN Cloud Management SolutioniMaster NCE-Campus, WAC and AP managementUser Access and AuthenticationSecurity, blacklist/whitelist, policy configuration, access controlWLAN RoamingRoaming overview, traffic forwarding, optimization, smart roamingWLAN Radio Resource ManagementRadio calibration, steering, load balancing, CAC
+
+WLAN Network PlanningPlanning BasicsCoverage and capacity designPlanning ToolsWLAN Planner, CloudCampus APPPlanning Process and CasesSite survey, requirements, design stagesScenario-Based PlanningEnterprise OfficeEducationHotelHealthcareRetail (shopping mall, supermarket)Shop floor and warehouseOutdoor coverageOutdoor backhaulHigh-density areas
+
+WLAN Optimization and TroubleshootingWLAN OptimizationProcess, tools, casesWLAN O&MTraditional and intelligent (CampusInsight)WLAN TroubleshootingReliability, cloud, wireless bridge, RRM, and roaming faults
+
+ExamCertification: HCIP-WLANExam Code: H12-323Exam Type: Written examinationFormat: Single-answer, Multiple-answer, True/False, Short Response, Drag and DropTime: 90 minutesPassing Score / Total: 600 / 1000Cost: 300 USDLanguages: Chinese, English
+
+Knowledge Content DistributionWLAN Networking Technologies – 16%User Access and Authentication – 8%WLAN Roaming – 8%WLAN Radio Resource Management – 8%WLAN Planning Basics – 8%WLAN Planning Tools – 6%WLAN Planning Process – 6%WLAN Planning Scenarios – 10%WLAN Optimization Overview and Tools – 7%WLAN Optimization Solution – 9%WLAN O&M – 8%WLAN Troubleshooting – 6%
+
+Recertification Policy
+
+Certification
+
+HCIP-WLAN
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity by either:Passing any exam of the current certification.Passing any exam of the same or higher-level certification within the same technology track.
+
+Period of Invalidity
+
+Same as initial certification.

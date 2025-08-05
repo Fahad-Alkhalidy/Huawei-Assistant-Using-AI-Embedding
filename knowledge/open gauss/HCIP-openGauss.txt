@@ -1,0 +1,70 @@
+HCIP-openGauss
+
+Type
+
+Basic Software & Hardware (OpenGauss)
+
+Capabilities to be Certified
+
+Be able to compile complex SQL statements, develop APIs, manage database systems and nodes, and design and manage databases.
+
+Knowledge to Learn
+
+openGauss product architectures, object permission management, routine database management and check, API development, database migration, and database security management.
+
+ObjectivesIndependently complete secondary development of a database.Perform O&M on a database system and its nodes.Perform database security management.Complete the database migration.Write complex SQL statements and develop APIs.
+
+Target AudienceThose aspiring to become database professionalsThose aspiring to obtain the HCIP-openGauss V1.0 certification
+
+PrerequisitesBasic knowledge of databasesBasic knowledge of Linux OSBasic knowledge of shell commandsSkill in compiling SQL statements
+
+Training Content
+
+HCIP-openGauss V1.0 Training
+
+openGauss ArchitecturesSystem architectureSoftware architectureLogical architectureThread architecture
+
+Database Object ManagementSystem catalogs and system viewsDatabase object permission managementScheduled jobs
+
+Database System ManagementRoutine checkChecking OS and openGauss healthChecking database performanceChecking and clearing logsMaintaining tables and reindexingExporting and viewing WDRs
+
+Advanced SQLAdvanced syntaxStored procedures and triggersApplication development
+
+Database Migration ManagementData migration overviewopenGauss migration toolsSyntax differences between heterogeneous databasesMySQL data migration practice
+
+Database Security ManagementClient access authenticationUsers and rolesDatabase auditEncrypted equality queryLedger databaseTransparent data encryption (TDE)
+
+Exam
+
+HCIP-openGauss  
+Exam Code: H14-321  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item  
+Time: 90 minutes  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 300 USD  
+Language: English
+
+Knowledge Content DistributionopenGauss architectures - 7%Database object management - 15%Database system management - 14%Advanced SQL syntax - 14%Stored procedures and triggers - 7%Application development - 14%Database migration management - 14%Database security management - 15%
+
+Recertification Policy
+
+Certification
+
+HCIP-openGauss
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Examinees can update the validity period of the certificate in any of the following ways before the certificate expires:Passing any exam of this certificationPassing an exam in any technical field at the same or a higher level
+
+Period of Invalidity
+
+Same as initial certification.

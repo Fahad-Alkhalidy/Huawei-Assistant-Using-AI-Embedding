@@ -1,0 +1,73 @@
+HCIE-openEuler
+
+Type
+
+Basic Software & Hardware (OpenEuler)
+
+Capabilities to be Certified
+
+HCIE-openEuler V1.0 certification validates your expertise in deploying, maintaining, and troubleshooting Ceph and OpenStack, and demonstrates your advanced understanding of Kubernetes and expertise in automation management. Furthermore, it signifies your competency in cloud computing operations, monitoring, and log management, making you well-equipped for roles such as SRE engineer and cloud architect.
+
+Knowledge to Learn
+
+Ceph Cloud Storage Management; Advanced Kubernetes; Automation Management and CI/CD; OpenStack Cluster Management; EFK Logging Stack; A-Ops Intelligent O&M Platform
+
+ObjectivesMaster deployment, maintenance, and troubleshooting of Ceph and OpenStack.Gain advanced understanding of Kubernetes and automation tools.Become proficient in cloud operations, monitoring, and logging.Prepare for roles such as SRE engineer and cloud architect.
+
+Target Audience
+
+Cloud architects proficient in utilizing the openEuler operating system for cloud computing and cloud-native platforms, including platform planning, design, deployment, maintenance, and migration.
+
+PrerequisitesHCIA-openEulerHCIP-openEulerHCIE-openEuler Pre-courses
+
+Training Content
+
+HCIE-openEuler Training
+
+Ceph Cloud Storage ManagementCeph Architecture and InstallationCeph Resource Pool ManagementCeph Cluster Configuration and User AuthorizationCeph Object Storage Gateway RGWCeph Block Storage RBD and File Storage CephFSCRUSH Map Overview and Configurations
+
+Advanced KubernetesKubernetes Cluster CreationKubernetes Network ComponentsKubernetes Persistent StorageKubernetes SchedulerKubernetes AutoscalingKubernetes Container UpgradeHybrid Deployment of Kubernetes ContainersKubernetes Optimization
+
+Automation Management and CI/CDIntroduction to the CI/CD Tool Chain and GitLabAdvanced Automation ManagementIntroduction to Jenkins CI/CD
+
+OpenStack Cluster ManagementKolla IntroductionOpenStack Resource ManagementOpenStack Service Management
+
+EFK Logging StackLogging SolutionsEFK StackEFK Installation on KubernetesCommon EFK Functions
+
+A-Ops Intelligent O&M PlatformIntroduction to sysmonitorA-Ops Intelligent O&M Platformgala Sub-health Diagnosis Tool
+
+Exam
+
+HCIE-openEuler (Written)Exam Code: H12-631Exam Type: Written examinationFormat: Single-answer, Multiple-answer, True/False, Short ResponseDuration: 90 minutesPassing Score/Total Score: 600/1000Cost: 300 USDLanguage: English
+
+HCIE-openEuler (Lab)Exam Code: H12-632Exam Type: Experimental (Hands-on)Format: Practical OperationDuration: 480 minutesPassing Score/Total Score: 80/100Cost: 1200 USDLanguage: English
+
+Knowledge Content Distribution
+
+HCIE-openEuler (Written)Ceph Cloud Storage Management – 20%Advanced Kubernetes – 27%Advanced Automation Management and CI/CD – 26%OpenStack Cluster Management – 7%EFK Logging Stack – 10%A-Ops Intelligent O&M Platform – 10%
+
+HCIE-openEuler (Lab)Ceph Cloud Storage Management – 20%Advanced Kubernetes – 27%Advanced Automation Management and CI/CD – 26%OpenStack Cluster Management – 7%EFK Logging Stack – 10%A-Ops Intelligent O&M Platform – 10%
+
+Recertification Policy
+
+Certification
+
+HCIE-openEuler
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

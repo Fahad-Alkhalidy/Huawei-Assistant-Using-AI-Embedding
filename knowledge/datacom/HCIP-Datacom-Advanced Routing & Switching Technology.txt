@@ -1,0 +1,75 @@
+HCIP-Datacom-Advanced Routing & Switching Technology
+
+Type
+
+ICT Infrastructure (Datacom)
+
+Capabilities to be Certified
+
+Passing HCIP-Datacom-Advanced Routing & Switching Technology V1.0 certificate indicates that you are competent for the position of network engineer in a medium-or large-sized enterprise, be capable of planning and designing, deploying and maintaining, and locating faults on a medium-or large-sized enterprise network by using Huawei datacom devices, and design solutions with high security, availability, and reliability for network applications.
+
+Knowledge to Learn
+
+Routing basics, OSPF, IS-IS, BGP, routing and traffic control, Ethernet switching technology, multicast, IPv6, network security, network reliability, network service and management, WLAN, and network solutions. Advanced IGP features, advanced BGP features, IPv6 routing, advanced Ethernet technologies, MPLS technologies, Network O&M, Network Troubleshooting, and Network Cutover.
+
+ObjectivesDescribe various fast convergence techniques of OSPF and IS-IS.Configure OSPF and IS-IS equal-cost routes.Configure OSPF and IS-IS to advertise default routes.Describe the application scenarios of OSPF and IS-IS multi-process.Describe the application scenarios of OSPF forwarding address (FA).Describe the implementation of IS-IS LSP fragment extension.Use regular expressions during the configurations of AS_Path and community filters.Use AS_Path and community filters to control BGP routes.Apply the ORF and peer group functions of BGP.Perform basic configurations of BGP security.Learn about the networking modes of BGP RRs.Configure IPv6 static routes.Analyze the differences between OSPFv3 and OSPFv2.Configure basic OSPFv3 functions.Describe the extension of IS-IS to IPv6.Configure basic IS-IS (IPv6) functions.Describe the extension of BGP to IPv6.Configure basic BGP4+ functions.Describe the working mechanism of VLAN aggregation.Describe application scenarios of MUX VLAN.Describe QinQ implementation.Perform configurations of VLAN aggregation, MUX VLAN, and QinQ.Describe types and configurations of port isolation.Illustrate the working mechanism of port security.Describe MAC address flapping detection.Explain traffic suppression and storm control functions of switches.Describe application scenarios of DHCP snooping.Illustrate the working mechanism of IP source guard.Understand basic MPLS concepts and terms.Understand the principles of MPLS.Configure static LSPs.Describe the MPLS forwarding process.Understand LDP's basic concepts and working mechanisms.Describe the MPLS label distribution control mode, advertisement mode, and retention mode.Perform basic LDP configurations.Describe the MPLS VPN model.Understand basic concepts of MPLS VPN.Describe the MPLS VPN route transmission and label distribution process.Describe the MPLS VPN data forwarding process.Perform basic MPLS VPN configurations.Understand the usage scenarios and networking types of MPLS VPN.Deploy the intranet solution with MPLS VPN.Deploy the MPLS VPN Hub&Spoke solution.Understand extended functions of OSPF for MPLS VPN.Understand check items in routine maintenance.Understand the functions and features of Huawei datacom product information center.Use common maintenance tools.Understand the troubleshooting methods.Analyze loop faults.Analyze failures to establish neighbor relationships of routing protocols.Write a troubleshooting guide.Clarify the operation procedure and specifications of the migration.Describe common migration scenarios.
+
+Target AudienceWho want to become senior Data Communication engineers.Who wants to obtain the HCIP-Datacom-Advanced Routing & Switching Technology Certification.
+
+PrerequisitesBe familiar with common operations of Huawei network devices.Have the knowledge and skills described in the HCIP-Datacom-Core Technology course.
+
+Training Content
+
+Advanced IGP FeaturesOSPF fast convergenceOSPF Route ControlOther OSPF FeaturesAdvanced IS-IS FeaturesAdvanced IGP Features Experiment
+
+Advanced BGP FeaturesBGP route controlIntroduction to BGP FeaturesNetworking of BGP RRsAdvanced BGP Features Experiment
+
+IPv6 RoutingIPv6 static routeOSPFv3 Principles and ConfigurationIS-IS (IPv6) Principles and ConfigurationBGP4+ Principles and ConfigurationIPv6 Routing Experiment
+
+Advanced Ethernet TechnologiesSuper-VLANMUX-VLANQinQAdvanced VLAN Technology Experiment
+
+Ethernet Switching SecurityPort IsolationMAC Table SecurityPort securityMAC Address Flapping Prevention and DetectionMACsecSwitch traffic controlDHCP SnoopingIP Source GuardEthernet Switching Security Experiment
+
+MPLS TechnologyMPLS OverviewMPLS ForwardingStatic LSPBasic Concepts of LDPWorking Principle of LDPBasic LDP ConfigurationsMPLS VPN OverviewMPLS VPN route exchangeMPLS VPN packet forwardingMPLS VPN Configuration and ImplementationMPLS VPN Application and Networking OverviewTypical Application Scenarios and Deployment of MPLS VPNOSPF VPN expansionBGP/MPLS IP VPN Experiment
+
+Network O&MRoutine MaintenanceInformation collection tool
+
+TroubleshootingStructured troubleshooting processCore Ideas and Methods of Network TroubleshootingTroubleshooting Common Network Faults
+
+Network MigrationBasic Concepts of MigrationMigration Process
+
+Exam
+
+HCIP-Datacom-Core TechnologyExam Code: H12-821Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop ItemTime: 90 minPassing Score/Total Score: 600/1000Exam Cost: 300 USDLanguage: Chinese, English, Japanese
+
+HCIP-Datacom-Advanced Routing & Switching TechnologyExam Code: H12-831Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop ItemTime: 90 minPassing Score/Total Score: 600/1000Exam Cost: 180 USDLanguage: Chinese, English, Japanese
+
+Knowledge Content Distribution
+
+HCIP-Datacom-Core TechnologyRouting Basics – 3%OSPF Core Knowledge – 16%IS-IS Core Knowledge – 8%BGP Core Knowledge – 17%Routing and Traffic Control – 10%Switching Core Knowledge – 7%Multicast Basics – 9%IPv6 Core Knowledge – 3%Network Security Basics – 9%Network Reliability Basics – 8%Network Service and Management – 2%Large-scale WLAN Architecture – 6%Network Solution – 2%
+
+HCIP-Datacom-Advanced Routing & Switching TechnologyAdvanced IGP Features – 17%Advanced BGP Features – 10%IPv6 Routing – 20%Advanced Ethernet Technologies – 10%MPLS Technologies – 19%Network O&M – 7%Troubleshooting – 10%Network Cutover – 7%
+
+Recertification Policy
+
+Certification
+
+HCIP-Datacom-Advanced Routing & Switching Technology
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

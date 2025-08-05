@@ -1,0 +1,65 @@
+HCIP-Storage Solution Architect
+
+Type
+
+ICT Infrastructure (Storage)
+
+Capabilities to be Certified
+
+Having a good command of the technologies, features, and application scenarios of flash storage and scale-out storage products. Being able to select products, plan solutions, and design architectures for storage solutions.
+
+Knowledge to Learn
+
+Knowledge about flash storage and scale-out storage, including storage product technologies and application scenarios, typical storage solutions, storage solution architecture and key technologies, and storage solution planning and design.
+
+ObjectivesUnderstand flash storage products.Get familiar with key software technologies.Get familiar with flash storage features.Describe typical application scenarios.Understand the concepts and development trends of scale-out storage.Understand the software and hardware architectures of OceanStor Pacific products.Understand the key technologies of OceanStor Pacific products.Understand the key features of OceanStor Pacific products.Understand the typical application scenarios of OceanStor Pacific products.Get familiar with the OceanProtect backup products.Get familiar with the technical features of OceanProtect.Get familiar with the OceanStor BCManager management software.Understand the application scenarios of data protection products.Understand HCI products.Be familiar with product features of FusionCube.Be familiar with key components of FusionCube.Be familiar with application scenarios of FusionCube.Understand the development trend of storage O&M management.Master the knowledge about Huawei data management system.Master technologies related to Huawei data management products.Understand the architecture of the storage backup solution.Master key technologies of the storage backup solution.Master the planning and design of the storage backup solution.Understand the Huawei storage DR solution.Master architecture of the active-standby DR and active-active DR solutions.Master key technologies of active-standby DR and active-active DR solutions.Master the design of active-standby DR and active-active DR solutions.Understand the architecture and components of DCS.Master the DCS service capabilities in data center virtualization scenarios.Master the DCS service capabilities in lightweight cloud scenarios.Understand the DCS virtualization migration solution.Understand the concepts and basic knowledge of containers.Have a grasp of the architecture and key features of Huawei container storage solution.Master the planning and design of Huawei container storage solution.
+
+Target AudienceHuawei engineers, Huawei channel partner engineers, college students, and ICT practitioners.
+
+PrerequisitesBasic understanding of storage, computer components, and Windows/Linux operating systems.Recommended to attend HCIA-IT or HCIA-Storage training first.
+
+Training Content
+
+Introduction to Flash Storage Product TechnologiesFlash storage productsKey technologies of flash storageMain features of flash storageTypical flash storage applications
+
+Introduction to Scale-Out Storage Product TechnologiesScale-out storage productsKey technologies of scale-out storageKey features of scale-out storageTypical application of scale-out storage
+
+Introduction to Data Protection Product TechnologiesOceanProtect backup productsOceanStor BCManager product introductionApplication scenarios of data protection products
+
+Introduction to Hyper-Converged Infrastructure TechnologiesFusionCube productsFusionCube key componentsData center solutionEnterprise branch solutions
+
+Introduction to Storage Data Management TechnologiesDevelopment trend of storage O&M managementHuawei storage data management systemData management and O&M products
+
+Storage Backup SolutionBackup solution introductionBackup solution architectureKey technologies of the backup solutionBackup solution planning and design
+
+Storage DR SolutionDR solution introductionDR solution architectureKey technologies of the DR solutionDR solution planning and design
+
+Datacenter Virtualization SolutionIntroduction to DCSDCS architecture and key componentsDCS service capabilitiesVirtualization migration to DCS
+
+Container Storage SolutionContainer basicsIntroduction to the container storage solutionContainer storage solution planning and design
+
+ExamExam Code: H13-625Exam Type: Written examinationExam Format:Single-answer QuestionMultiple-answer QuestionTrue or FalseShort Response ItemDrag and Drop ItemTime: 90 minutesPassing Score / Total Score: 600 / 1000Exam Cost: 300 USDLanguage: English
+
+Knowledge Content DistributionIntroduction to Flash Storage Product Technologies – 15%Introduction to Scale-Out Storage Product Technologies – 13%Introduction to Data Protection Product Technologies – 10%Introduction to Hyper-Converged Infrastructure Technologies – 10%Introduction to Storage Data Management Technologies – 8%Storage Backup Solution – 12%Storage DR Solution – 12%Datacenter Virtualization Solution – 12%Container Storage Solution – 8%
+
+Recertification Policy
+
+Certification
+
+HCIP-Storage Solution Architect
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher-level certification within the same technology track.
+
+Period of Invalidity
+
+Same as initial certification.

@@ -1,0 +1,69 @@
+HCIE-Transmission
+
+Type
+
+ICT Infrastructure (transmission)
+
+Capabilities to be Certified
+
+HCIE-Transmission certification covers the development of transmission network as well as solutions. Skills such as independently designing and deploying OTN, along with OAM capability will be evaluated. Candidates should be able to design and deploy highly expendable and reliable enterprise transmission networks based on the need of services and future requirements. Multiple capabilities will be tested with HCIE-Transmission V2.0, including technology awareness, planning and design, project implementation, troubleshooting, categorization, understanding and application, and system commissioning. Various testing formats will be applied, to comprehensively evaluate the issue analyzing and solving skills of the candidates.
+
+Knowledge to Learn
+
+Network Planning and Design, Network Structure Reconstruction, Network Protection Reconstruction, ASON Principles, Optical Doctor System, Fiber Doctor System, Comprehensive Troubleshooting Methods, as well as technology frontiers and solutions.
+
+Objectives
+
+Upon completion of the program training, you will be able to:Describe types of Huawei Transmission Network Products and application scenariosUnderstand characteristics of commonly used boardsDescribe the system structure of iMaster NCE-TList relevant functions and features of iMaster NCE-TPerform iMaster NCE-T OAMDescribe the basic concept of QoSList QoS Models & key technologiesDescribe typical application with QoS & HQoS in transmission networkUnderstand OSU theory and application scenariosList OSU featuresDescribe ASON concepts, protocols and working processList ASON features and application scenariosConfigure on Optical Doctor System & OAM NetworkList application scenarios and features of Fiber Doctor SystemPerform FD function and analyze resultsList key factors during network planningDescribe key factors of DCN designUnderstand mainstream SDH to OTN upgrade solutionsDescribe key technologies for 100G transmission and aboveUnderstand application value of extended C band and Super C bandList technologies involved with ULH solutionDescribe ULH solutionDescribe Huawei All-Optical Switching devices and applicationDescribe Huawei DCI solution and applicationDescribe PID network structure and applicationList board types and features used in PIDUnderstand the theory and application scenarios of Fiber Optic Sensing SolutionDescribe clock synchronization theoryUnderstand protocols used in time synchronization among OTN devicesUnderstand locations and functions of overheads in different OTN layersLocate fault and troubleshoot with electrical-layer overheadsDescribe WDM troubleshooting methodsPerform OTN device deployment and commissioningPerform MS-OTN service configuration, such as OTN electrical-layer service, SDH service, EoO service, EoS service, MPLS-TP service and OSU servicePerform optical-layer ASON service configuration (Diamond, Silver & Copper)Perform OTN Network Structure Reconstruction and Protection ReconstructionTroubleshoot various faults, such as optical power faults, service interruptions, protection faults, communication faults and bit error faults
+
+Target AudiencePersonnel attending HCIE-Transmission Certification TestPersonnel looking to better understand transmission network deployment commissioning, service configuration, network planning and design, network reconstruction, intelligent maintenance and troubleshootingSenior technical personnel interested in the latest technologies and solutions of transmission networks
+
+Prerequisites
+
+Individual with HCIP-Transmission Certification or equivalent skill set
+
+Training ContentTransmission Network ProductsOverview and Application Scenarios of Huawei Transmission Network ProductsCabinets and SubracksCommon BoardsIntroduction to iMaster NCE-TNCE-T System OverviewNCE-T Functions and FeaturesNCE-T Routine Operations and O&M ManagementDeploying and Commissioning OTN DevicesInitiation ConfigurationOSC CommissioningOptical Power CommissioningNE CommissioningData BackupTransmission Network QoSQoS OverviewQoS Key TechnologiesQoS Application on a Transmission NetworkHQoSMS-OTN Service ConfigurationOTN Service ConfigurationSDH Service ConfigurationEoO Service ConfigurationEoS Service ConfigurationMPLS-TP Service ConfigurationOSU Service ConfigurationNHP TechnologyIntroduction to NHPOSU Application ScenariosOSU PrinciplesOSU FeaturesASON Principles and ApplicationsASON OverviewASON Composition and ProtocolsASON Functions and FeaturesASON Application ScenariosNG WDM Optical Layer ASON Service ConfigurationEnabling Optical-Layer ASONManaging Optical-Layer Control PlanesCreating Optical-Layer Diamond ASON ServicesCreating Optical-Layer Silver ASON ServicesCreating Optical-Layer Copper ASON ServicesManaging Optical-Layer ASON ServicesNG WDM Electrical-Layer ASON Service ConfigurationEnabling Electrical-Layer ASONManaging Electrical-Layer Control PlanesCreating Electrical-Layer Diamond ASON ServicesCreating Electrical-Layer Silver ASON ServicesCreating Electrical-Layer Copper ASON ServicesManaging Electrical-Layer ASON ServicesOptical Doctor SystemComposition and Principles of the OD SystemNetworking Design and Configuration Rules of the OD SystemOD System ConfigurationNetwork O&M Using the OD SystemFiber Doctor SystemIntroduction to the FD SystemFD System Networking ScenariosFunctions and Features of the FD SystemLine Fiber Quality Detection ConfigurationNG WDM Network Planning and DesignNetwork Design ElementsNetwork Design ProcessDCN PlanningSDH-to-OTN Upgrade SolutionSDH-to-OTN Upgrade Solution OverviewSDH-to-OTN Upgrade Networking SchemesSDH-to-OTN Upgrade Solution Hardware SupportSDH-to-OTN Upgrade Solution Implementation ProcessSDH-to-OTN Upgrade CasesOTN Network ReconstructionNetwork Reconstruction ProcedureAdding a DirectionAdding an OLA SiteReconstructing an OLA Site into an OADM SiteReconstructing a Traditional OADM Node into a Colorless NodeReconstructing a Traditional OADM Node into a Directionless NodeAdding a Single Wavelength for Capacity ExpansionExpanding the Wavelength CapacityOTN Network Protection ReconstructionOptical-Layer Protection ReconstructionElectrical-Layer Protection ReconstructionNested ProtectionUltra-High Rate and Ultra-High Bandwidth Technologies for WDM NetworksCoherent Transmission TechnologiesExtended C-Band and Super C-Band TechnologiesULH Transmission Network SolutionULH Transmission TechnologiesULH SolutionsDeployment and Maintenance for the ULH Transmission SystemAll-Optical Switching TechnologyOXC Enables Transmission Networks to Evolve to All-Optical NetworksHuawei OXC SolutionApplication Scenarios of Huawei OXCTurbo WDM TechnologyTurbo WDM TechnologyTurbo WDM HardwareNetworking and ApplicationClock SynchronizationIntroduction to the Clock Synchronization NetworkClock Synchronization Network TechnologiesDCI SolutionDCI Driving Forces and ChallengesHuawei DCI SolutionDCI CasesFiber Optic Sensing SolutionOverview of Fiber Optic SensingBasic Principles of Distributed Fiber Optic SensingTypical Application Scenarios of Distributed Fiber Optic SensingProductsComprehensive Troubleshooting Methods for Transmission NetworksElectrical-Layer AlarmsOptical-Layer AlarmsFault Locating Principles and MethodsTroubleshooting Methods for Different FaultsTypical CasesComprehensive Troubleshooting Methods for Transmission Networks – Lab PracticeOptical Power FaultsService InterruptionsProtection FaultsCommunication FaultsBit Error FaultsInterconnection Faults
+
+Exam
+
+HCIE-Transmission (Written)  
+Exam Code: H12-931  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop Item  
+Time: 90min  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 300USD  
+Language: Chinese, English
+
+HCIE-Transmission (LAB)  
+Exam Code: H12-936  
+Exam Type: Experiments  
+Exam Format: Operation, Essay Item  
+Time: 480min  
+Passing Score/Total Score: 80/100  
+Exam Cost (Lab): 1200USD  
+Language: Chinese, English
+
+Knowledge Content DistributionTransmission Network Products — 4%Introduction to iMaster NCE-T — 6%Transmission Network QoS — 4%NHP Technology — 4%Deploying and Commissioning OTN Devices — 6%MS-OTN Service Configuration — 6%ASON Principles and Applications — 6%NG WDM Optical Layer ASON Service Configuration — 3%NG WDM Electrical-Layer ASON Service Configuration — 3%Optical Doctor System — 3%Fiber Doctor System — 3%NG WDM Network Planning and Design — 6%SDH-to-OTN Upgrade Solution — 4%OTN Network Reconstruction — 6%OTN Network Protection Reconstruction — 4%Ultra-High Rate and Ultra-High Bandwidth Technologies for WDM Networks — 4%ULH Transmission Network Solution — 3%All-Optical Switching Technology — 3%DCI Solution — 3%Turbo WDM Technology — 2%Fiber Optic Sensing Solution — 2%Clock Synchronization — 3%Comprehensive Troubleshooting Methods for Transmission Networks — 6%Comprehensive Troubleshooting Methods for Transmission Networks – Lab Practice — 6%
+
+Recertification Policy
+
+Certification
+
+HCIE-Transmission
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

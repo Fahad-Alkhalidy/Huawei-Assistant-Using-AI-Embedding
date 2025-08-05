@@ -1,0 +1,61 @@
+HCIA-Security
+
+Type
+
+ICT Infrastructure (security)
+
+Capabilities to be Certified
+
+Engineers master the basic information security knowledge and related technologies for small- and medium-sized networks, and are capable of building small-sized information security networks for enterprises to ensure the security of networks and applications of small- and medium-sized enterprises
+
+Knowledge to Learn
+
+Information security concept, information security standards and specifications, common attack methods, firewall security policy, firewall NAT technology, firewall hot standby technology, intrusion prevention technology, cryptography foundation, PKI mechanism, IPSec/SSL VPN technology
+
+ObjectivesDescribe the definition and characteristics of network securityDescribe the development history and trend of network securityUnderstand the data definition and transmission processDescribe the working principles of the TCP/IP protocol stackDescribe the working principles of common protocolsDescribe common security threats to enterprise networksDescribe how to cope with common network security threatsDescribe firewall security zonesDescribe the stateful inspection and session mechanisms of the firewallDescribe the technical background of NATKnow the classification and working principles of NATKnow the application scenarios of different types of NATUnderstand the hot standby fundamentalsMaster the basic hot standby configurationsDescribe user authentication technologiesDescribe the different types of intrusion preventionDescribe the fundamentals of intrusion preventionDeploy network antivirus policiesDevelopment of encryption and decryption technologiesProcesses of various encryption and decryption methodsPrinciples of encryption and decryption algorithmsDescribe data communication security technologiesDescribe the PKI certificate system architectureDescribe the PKI working mechanismApplication scenarios of encryption technologiesConfiguration methods for different VPN technologies
+
+Target Audience
+
+Cyber security junior engineer who hopes to have information security capabilities.
+
+Prerequisites
+
+Basic knowledge of TCP/IP
+Basic knowledge of Routing and Switching
+
+Training ContentSecurity information and security overviewNetwork Security Concepts and SpecificationsNetwork Security DefinitionFuture Network Security TrendsInformation Security Standards and SpecificationsNetwork BasicsNetwork Reference ModelCommon Network DevicesCommon Network Security Threats and Threat PreventionOverview of Enterprise Network Security ThreatsCommunication Network Security Requirements and SolutionsZone Border Security Threats and Threat PreventionComputing Environment Security Threats and Threat PreventionSecurity Requirements and Solutions of the Management CenterNetwork Security BasisFirewall Security PoliciesFirewall Basic PrinciplesApplication Scenarios of Firewalls in Cyber Security SolutionsFirewall NAT TechnologiesOverview of NATSource NATDestination NATBidirectional NATNAT ALG and NAT ServerFirewall Hot Standby TechnologiesHot Standby FundamentalsHot Standby Basic Networking and ConfigurationFirewall User Management TechnologiesAAA PrinciplesFirewall User Authentication and ApplicationFirewall IPSIntrusion OverviewIntrusion PreventionAntivirusApplication of Encryption and DecryptionFundamentals of Encryption and Decryption TechnologiesEncryption/Decryption Technology DevelopmentEncryption/Decryption Technology FundamentalsCommon Encryption/Decryption AlgorithmsHash AlgorithmsPKI Certificate SystemData Communication Security TechnologiesPKI System StructurePKI Working MechanismEncryption Technology ApplicationsApplication of CryptographyVPN OverviewVPN Configuration
+
+Exam
+
+HCIA-Security
+Exam Code: H12-711
+Exam Type: Written examination
+Exam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop Item
+Time: 90min
+Passing Score/Total Score: 600/1000
+Exam Cost: 200USD
+Language: Chinese, English, French
+
+Knowledge Content DistributionNetwork security concepts and specifications - 5%Network basics - 10%Common network security threats and threat prevention - 5%Firewall security policy - 10%Firewall NAT technologies - 10%Firewall hot standby technologies - 10%Firewall user management technologies - 10%Firewall intrusion prevention technologies - 10%Fundamentals of encryption technologies - 10%PKI certificate system - 5%Encryption technology applications - 15%
+
+Recertification Policy
+
+Certification
+
+HCIA-Security
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

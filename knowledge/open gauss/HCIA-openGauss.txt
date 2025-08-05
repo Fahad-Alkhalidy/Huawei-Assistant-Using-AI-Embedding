@@ -1,0 +1,67 @@
+HCIA-openGauss
+
+Type
+
+Basic Software & Hardware (OpenGauss)
+
+Capabilities to be CertifiedGood command of database basics, openGauss architecture, ecosystem, and theoretical knowledge, as well as networking and enterprise-level features of GaussDB.Capability to support enterprise businesses using openGauss for deployment and O&M.Competence in using and maintaining GaussDB in the role of a database engineer.
+
+Knowledge to Learn
+
+Computer basics; database basics; Linux basics
+
+ObjectivesMaster the openGauss architecture.Master database basics and SQL syntax.Master routine openGauss management methods.Understand GaussDB features.
+
+Target AudienceAspiring database administratorsDatabase application development engineersPre-sales & after-sales engineers / technical support personnelIndividuals aiming to obtain the HCIA-openGauss certification
+
+Prerequisites
+
+Computer basics; database basics; Linux basics
+
+Training Content
+
+HCIA-openGauss Training
+
+Chapter 1: openGauss OverviewDatabase overviewIntroduction to openGaussopenGauss technical specificationsBasic functions
+
+Chapter 2: Database Installation and DeploymentopenGauss installationDatabase connection and authenticationopenGauss toolsDatabase uninstallation
+
+Chapter 3: openGauss Architecture and Key FeaturesSystem architectureDeployment solutionsTypical networkingKey features
+
+Chapter 4: Database and Object ManagementopenGauss logical architectureStorage engine selectionTablespace creation and managementUsers and rolesSystem catalogs and system viewsData import and exportHigh-risk operations
+
+Chapter 5: SQL BasicsSQL syntax quick startSQL syntax classificationOperators and common functions
+
+Chapter 6: GaussDBIntroduction to GaussDBEnterprise-level features of GaussDBComprehensive tools and service-oriented capabilitiesApplication scenarios and cases
+
+Chapter 7: Database Scenario-based Comprehensive ExperimentFinancial data modelDatabase creation, configuration, and connectionUser and role permission creation and planningObject management (tablespaces, schemas, tables, indexes, views)Data insertionData queryingData updates and conditional deletions
+
+Exam
+
+HCIA-openGauss (Written)Exam Code: H14-311Exam Type: Written examinationFormat: Single-answer, Multiple-answer, True/False, Short Response, Drag and DropDuration: 90 minutesPassing Score/Total Score: 600/1000Cost: 200 USDLanguage: Chinese, English
+
+Knowledge Content DistributionopenGauss Overview – 12%Database Installation and Deployment – 11%Architecture and Key Features – 22%Database and Object Management – 21%SQL Basics – 22%GaussDB – 12%
+
+Recertification Policy
+
+Certification
+
+HCIA-openGauss
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

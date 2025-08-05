@@ -1,0 +1,82 @@
+HCIA-openEuler
+
+Type
+
+Basic Software & Hardware (OpenEuler)
+
+Capabilities to be Certified
+
+Have basic operation and management capabilities for core operating systems in enterprise data centers and be competent for Linux system O&M engineers.
+
+Knowledge to Learn
+
+openEuler user management, network management, permission management, storage management, software management, service management, shell basic knowledge, and Samba server setup and use.
+
+ObjectivesUnderstand the history of operating system development.Be familiar with basic openEuler commands, such as directory operations and file viewing.Be familiar with vi and vim text editors.Have a good command of openEuler user, user group, and permission management.Have a good command of the installation of openEuler operating system application software.Have a good command of openEuler storage space management.Master the planning tasks, network, and service management of the openEuler system.Familiar with shell script basics.
+
+Target Audience
+
+People who are interested in operating systems.
+
+Prerequisites
+
+None
+
+Training Content
+
+HCIA-openEuler V1.0 Training
+
+Getting Started with openEulerIntroduction to the Linux OSInstalling the Open Source openEuler OSUsing the openEuler OS
+
+CLI BasicsBasic Knowledge of Linux CommandsBasic Linux Commands
+
+Text Editors and Text ProcessingIntroduction to Common Linux Text EditorsVim Text EditorText Processing
+
+User and Permission ManagementUser and User Group ManagementFile Permission ManagementOther Permission Management
+
+Software Installation and Service ManagementSoftware Package ManagementSoftware Package Management with DNFInstallation Through Source CodeService Management with systemd
+
+File System and Storage ManagementBasic Concepts of File SystemsMounting and Using Drive StorageLogical Volume Management
+
+System ManagementTask ManagementNetwork ManagementProcess Management
+
+Shell ScriptsShell BasicsShell Programming BasicsShell Programming Best Practices
+
+Samba File Sharing Server ManagementSamba File Sharing Server SetupUser and Permission Configuration for SambaSamba Server O&M and Troubleshooting
+
+Exam
+
+HCIA-openEuler  
+Exam Code: H12-611  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop Item  
+Time: 90 minutes  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 200 USD  
+Language: English
+
+Knowledge Content DistributionGetting Started with openEuler — 4%CLI Basics — 8%Text Editors and Text Processing — 8%User and Permission Management — 18%Software Installation and Service Management — 10%File System and Storage Management — 27%System Management — 8%Shell Scripts — 15%Samba File Sharing Server Management — 2%
+
+Recertification Policy
+
+Certification
+
+HCIA-openEuler
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

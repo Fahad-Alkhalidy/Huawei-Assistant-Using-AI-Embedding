@@ -1,0 +1,58 @@
+HCIA-Big Data
+
+Type
+
+Cloud Platform & Cloud Services (Big Data)
+
+Capabilities to be Certified
+
+(1) Master the technical principles and architectures of common and important big data components, including HDFS, HBase, Hive, ClickHouse, MapReduce, YARN, Spark, Flink, Flume, Kafka, ElasticSearch and ZooKeeper, and capable of using Huawei big data platform MRS;  
+(2) Able to operate and develop services based on Huawei MRS;  
+(3) Competent for positions related to big data development engineers.
+
+Knowledge to Learn
+
+Technical principles and architecture of common and important big data components. Knowledge and skills required for big data pre-sales, big data project management, and big data development.
+
+ObjectivesMaster the technical principles and architectures of key big data components such as HDFS, HBase, Hive, ClickHouse, MapReduce, YARN, Spark, Flink, Flume, Kafka, ElasticSearch, and ZooKeeper.Operate and develop services using Huawei MRS.Be qualified for big data development roles.Understand essential knowledge and skills for pre-sales, project management, and development in big data.
+
+Target AudienceThose who desire to become big data engineersThose who desire to obtain the HCIA-Big Data certificationJunior big data engineers
+
+PrerequisitesBasic knowledge of network technologyFamiliarity with basic Linux operations
+
+Training ContentBig Data Development TrendsBig Data EraBig Data Application FieldsEnterprise Challenges and OpportunitiesHDFS and ZooKeeperHDFS Overview, Concepts, Architecture, and Key FeaturesHDFS Data Read/Write ProcessZooKeeper Overview and ArchitectureHBase and HiveHBase Overview, Data Models, Architecture, and Performance TuningCommon Shell Commands of HBaseHive Overview, Functions, Architecture, and Basic OperationsClickHouseOverview, Architecture, Basic and Enhanced FeaturesMapReduce and YARNOverview, Functions, and ArchitectureResource Management and Task SchedulingYARN Enhanced FeaturesSpark and FlinkSpark Overview, Data Structures, Principles, and ArchitectureFlink Principles, Architecture, Time & Window, Watermark, and Fault ToleranceFlume and KafkaFlume Overview, Architecture, Features, and Use CasesKafka Overview, Architecture, Features, and Data ManagementElasticsearchOverview, Architecture, and Key FeaturesHuawei MRS PlatformMRS Overview, Components, and Cloud-Native Data Lake SolutionHuawei DataArts StudioData Governance and Platform Overview
+
+Exam
+
+HCIA-Big Data  
+Exam Code: H13-711  
+Exam Type: Written examination  
+Exam Format: Single-answer, Multiple-answer, True/False, Short Response, Drag & Drop  
+Time: 90 minutes  
+Passing Score/Total Score: 600 / 1000  
+Exam Cost: 200 USD  
+Language: Chinese, English
+
+Knowledge Content DistributionBig Data Development Trends — 3%HDFS & ZooKeeper — 12%HBase & Hive — 20%ClickHouse — 8%MapReduce and YARN — 12%Spark & Flink — 20%Flume & Kafka — 12%Elasticsearch — 5%Huawei MRS Platform — 4%Huawei DataArts Studio — 4%
+
+Recertification Policy
+
+Certification
+
+HCIA-Big Data
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher-level certification from the same technology track.
+
+Period of Invalidity
+
+Same as the initial certification.

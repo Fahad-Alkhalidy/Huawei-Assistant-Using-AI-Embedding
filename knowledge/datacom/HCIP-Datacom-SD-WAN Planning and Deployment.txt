@@ -1,0 +1,65 @@
+HCIP-Datacom-SD-WAN Planning and Deployment
+
+Type
+
+ICT Infrastructure (Datacom)
+
+Capabilities to be Certified
+
+Passing the HCIP-Datacom-SD-WAN Planning and Deployment V1.0 certification will indicate that you:Understand and master Enterprise WAN interconnection scenario, GRE technology, IPsec VPN technology, QoS basic principles, HA technology, SD-WAN deployment, SD-WAN management and O&M, SD-WAN networking principles and planning, SD-WAN application experience, SD-WAN security, SD-WAN intelligent O&M, and SD-WAN Practice.Are qualified for the positions of SD-WAN (account manager, project manager, pre-sales engineer, post-sales engineer, and O&M engineer). You are capable of using Huawei datacom devices to design, deploy, and O&M of SD-WAN networks.
+
+Knowledge to Learn
+
+Enterprise SD-WAN scenario, GRE technology, IPsec VPN technology, QoS basic principles, HA technology, SD-WAN deployment, SD-WAN management and O&M, SD-WAN networking principles and planning, SD-WAN application experience, SD-WAN security, SD-WAN intelligent O&M.
+
+ObjectivesDescribe basic concepts of SD-WAN deployment planning.Describe the management boundary of SD-WAN multi-tenant.Describe SD-WAN deployment modes and application scenarios.Describe the overall process of implementing application experience.Describe the function of link quality detection.Describe HQoS application scenarios.Describe the basic principles and application scenarios of the service security function in the SD-WAN solution.Describe various visualized monitoring functions provided by iMaster NCE-WAN.Describe various fault diagnosis methods provided by iMaster NCE-WAN.Describe the basic concepts of tunnels.Describe the basic working principles of GRE.Describe the basic security mechanism of GRE.Describe the basic application scenarios of GRE.Describe the basic concepts of IPsec.Describe the basic working principles of IPsec.Describe the basic application scenarios of IPsec.Describe the basic concepts of MP-BGP.Describe the origin of EVPN.Describe common EVPN route types.Describe the background of QoS.Describe the working principle of the QoS DiffServ model.Describe the application scenarios of different QoS functions.Describe basic QoS configurations.Describe common technologies and principles of link detection.Describe common technologies and principles of link backup.Describe the basic working principles and application scenarios of the SAC.Describe the basic working principles and application scenarios of SPR.Describe the functions and features supported by AR routers.Describe the WLAN service features of AR routers.Describe the security service features of AR routers.Describe the disadvantages of the SNMP protocol.Describe how NETCONF flexibly controls devices.Describe the advantages of Telemetry collection of device status and performance.Describe the northbound RESTful interface of the NMS/controller.Describe the common network faults.Describe typical services in the financial industry.Describe the informatization development trend of the financial industry.Describe the network architecture of the financial industry.Describe the SD-WAN design roadmap for the financial industry.Describe the challenges of WAN interconnection in the cloud environment.Explain the basic concepts of SDN.Explain the basic concepts of SD-WAN.Describe the Huawei SD-WAN solution.Describe the traditional WAN interconnection solution.Describe technologies used in WANs.Describe the three application scenarios of SD-WAN.
+
+Target AudienceThose who want to be datacom SD-WAN senior engineers.Those who want to achieve the HCIP-Datacom-SD-WAN Planning and Deployment Certification.
+
+PrerequisitesSuggest to acquire HCIP-Datacom-Core Technology abilities.
+
+Training Content
+
+SD-WAN Solution Deployment and DesignHuawei SD-WAN Solution Technical OverviewArchitecture and Components of Huawei SD-WAN SolutionHuawei iMaster NCE-WAN ControllerHuawei SD-WAN Solution PrinciplesIntroduction to Huawei SD-WAN CPESD-WAN DeploymentSD-WAN Deployment OverviewSD-WAN Tenant ManagementSD-WAN Zero Touch ProvisioningSD-WAN Networking Principles and PlanningBasic Concepts of SD-WAN NetworkingSD-WAN Networking PrinciplesSD-WAN Networking DesignSD-WAN Application ExperienceApplication Experience Solution OverviewApplication identification and intelligent traffic steeringHQoSWAN optimizationSD-WAN SecuritySD-WAN Security OverviewSystem securityService securitySD-WAN Intelligent O&MIntelligent O&M OverviewMonitoringMaintenance
+
+Key Technologies for WAN InterconnectionGRE TechnologyBasic Principles of GREGRE Security MechanismGRE Application ScenarioGRE ConfigurationIPsec VPN TechnologyBasic Concepts of IPsecBasic Principles of IPsecIPsec Application ScenariosIPsec ConfigurationBGP EVPN BasicsMP-BGPEVPNBasic Principles of QoSQoS Technology OverviewQoS traffic classification and markingTraffic Rate LimitingCongestion avoidance technologyCongestion Management TechnologyIntroduction to HQoSHA TechnologyLink reliabilityNetwork reliabilityService reliabilityIntroduction to the Multi-Service GatewayAR Functions and FeaturesAR WLAN Service FeaturesAR Security Service FeaturesManagement and O&MIntroduction to Zero Touch ProvisioningIntroduction to Network MaintenanceNetwork O&M
+
+SD-WAN Design PracticeSD-WAN Design Practice (Financial Scenario)Background of the Finance IndustryOverall SD-WAN Design for the Finance IndustrySD-WAN Design Cases in the Finance Industry
+
+WAN Interconnection OverviewWAN Interconnection OverviewEnterprise WAN Interconnection StatusChallenges to Enterprise WAN InterconnectionBirth of SD-WANIntroduction to Huawei SD-WAN SolutionWAN Interconnection Technologies and Typical ScenariosTraditional enterprise WAN interconnection solutionEnterprise WAN Interconnection Technology ApplicationSD-WAN Application Scenarios
+
+Exam
+
+HCIP-Datacom-Core TechnologyExam Code: H12-821Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop ItemTime: 90 minPassing Score/Total Score: 600/1000Exam Cost: 300 USDLanguage: Chinese, English, Japanese
+
+HCIP-Datacom-SD-WAN Planning and DeploymentExam Code: H12-871Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop ItemTime: 90 minPassing Score/Total Score: 600/1000Exam Cost: 180 USDLanguage: Chinese, English
+
+Knowledge Content Distribution
+
+HCIP-Datacom-Core TechnologyRouting Basics – 3%OSPF Core Knowledge – 16%IS-IS Core Knowledge – 8%BGP Core Knowledge – 17%Routing and Traffic Control – 10%Switching Core Knowledge – 7%Multicast Basics – 9%IPv6 Core Knowledge – 3%Network Security Basics – 9%Network Reliability Basics – 8%Network Service and Management – 2%Large-scale WLAN Architecture – 6%Network Solution – 2%
+
+HCIP-Datacom-SD-WAN Planning and DeploymentWAN Interconnection Overview – 4%WAN Interconnection Scenarios and Technical Applications – 1%GRE Technology – 6%IPsec Technology – 5%EVPN Principles and Configurations – 6%QoS Technology – 10%HA Technology – 11%Multi-service Gateway – 2%Management and O&M – 10%Huawei SD-WAN Solution Technical Overview – 6%Huawei SD-WAN Deployment – 1%Huawei SD-WAN Flexible Networking – 12%Huawei SD-WAN Application Experience Optimization – 12%Huawei SD-WAN Security Hardening – 5%Huawei SD-WAN Intelligent O&M – 5%Huawei SD-WAN Design Practice (Financial Scenario) – 4%
+
+Recertification Policy
+
+Certification
+
+HCIP-Datacom-SD-WAN Planning and Deployment
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

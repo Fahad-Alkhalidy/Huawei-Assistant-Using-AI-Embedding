@@ -1,0 +1,71 @@
+HCIA-Data Center Facility
+
+Type
+
+ICT Infrastructure (Digital Power)
+
+Capabilities to be Certified
+
+Have basic deployment and O&M capabilities of the data center facility and be competent for positions such as junior implementation engineers and junior O&M engineers.
+
+Knowledge to Learn
+
+EHS safety knowledge, Development History and Trend of Data Center, Working principles and main product categories of the 8 Subsystems of the Data Center Facility. The 8 subsystems of the data center facility are as follows: power distribution system, cooling system, integrated cabling system, monitoring system, fire extinguishing system, lightning protection and grounding system, cabinet system, and interior decoration system.
+
+ObjectivesUnderstand the basic concepts of power distributionKnow the grounding systemKnow the common power distribution productsKnow the basic function of UPSKnow the basic working mode of UPSKnow the common configuration solution of UPSUnderstand working principles of air conditioning systemsUnderstand classification principles and types of air conditioning systemsHave general knowledge of some common air handling equipmentUnderstand basic knowledge of air conditioning air systemsUnderstand common air conditioner termsKnow the history of data center developmentKnow the common standards of data centersKnow the composition and energy consumption indicators of data centersKnow the Huawei data center productsUnderstand the battery development and application in the ICT fieldGet familiar with the classification and naming of batteriesGet familiar with the basic principles and structure of batteriesUnderstand the performance differences between lead-acid and lithium-ion batteriesUnderstand the main functions of Huawei DC power systemsUnderstand the architecture and basic composition of DC power systemsMaster the basic knowledge of DC power system battery managementGet familiar with the basic interfaces and communication protocolsUnderstand the overall architecture of the monitoring systemUnderstand systems of fire protection, fresh air, lightning protection and grounding, and integrated cabling in the data center infrastructureUnderstand working principles and main components of these systemsUnderstand the features of data center air conditioners and the differences between data center air conditioners and household air conditionersUnderstand the basic principles and main components of the air-cooled precision air conditionerUnderstand the basic principles and main components of the chilled water precision air conditionerUnderstand the basic principles and main components of the indirect evaporative cooling systemUnderstand the product architecture of Huawei precision air conditionersUnderstand the features and advantages of the monitoring systemUnderstand the main functions of the monitoring systemUnderstand the importance of safety trainingUnderstand causes of accidents in workUnderstand ways to avoid accidentsUnderstand how to implement protection
+
+Target AudiencePersonnel who want to become data center facility engineersPersonnel who want to obtain HCIA-Data Center Facility certificationChannel and agent engineer
+
+PrerequisitesNone
+
+Training Content
+
+Basic Knowledge of Power DistributionPower Distribution System OverviewBasic Concepts of the Power Distribution SystemCommon LV Electrical EquipmentCommon Grounding Systems
+
+Basic Knowledge of UPSWhat Is a UPSHuawei UPS SolutionsCommon Configuration SolutionsTypical Application Scenarios
+
+Air Conditioning System IntroductionWorking Principles of Air Conditioning SystemClassification of Air Conditioning SystemAir Handling EquipmentAir Conditioning Air SystemCommon Air Conditioner Terms
+
+Data Center Facility KnowledgeIntroduction to Data Center DevelopmentComposition of Data Center InfrastructureIntroduction to Data Center StandardsCommon Energy Consumption IndicatorsPanorama of Huawei Data Center Solutions
+
+Basic Knowledge of BatteriesBattery OverviewLead-acid BatteryLithium-ion BatteryComparison Between Lead-acid Batteries and Lithium-ion Batteries
+
+Basic Knowledge of Huawei DC Power SystemsAbstractArchitecture and ComponentsBattery ManagementApplication ScenariosHuawei DC Power Systems
+
+Basic Knowledge of Monitoring SystemsIntroduction to the Monitoring SystemBasic Interfaces and Communication ProtocolsIntroduction to the Data Center Monitoring System
+
+Introduction to Other Systems of Data Center FacilityFire Protection SystemFresh Air SystemCabinet SystemLightning Protection and Grounding SystemIntegrated Cabling SystemIndoor Decoration System
+
+Basic Knowledge of Precision Air Conditioners in Data CentersOverview of Data Center Air ConditionersAir-Cooled Precision Air ConditionerChilled Water Precision Air ConditionerIndirect Evaporative Cooling Air ConditionerOther Cooling Solutions for Equipment RoomsIntroduction to Huawei Air Conditioners
+
+Functions and Features of Monitoring SystemsOverview of the Monitoring SystemIntroduction to Main FunctionsIntroduction to Huawei Monitoring System
+
+EHS IntroductionIntroduction to EHSAccident Probability and Personnel QualificationPPE Protection OverviewEngineering Construction Safety
+
+ExamExam Code: H12-411Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or False, Short Response Item, Drag and Drop ItemTime: 90 minPassing Score/Total Score: 600/1000Exam Cost: 200 USDLanguage: Chinese, English, Spanish, Portuguese, Japanese
+
+Knowledge Content DistributionEHS Introduction – 5%Data Center Facility Knowledge – 8%Basic Knowledge of Power Distribution – 12%Basic Knowledge of UPS – 8%Basic Knowledge of Huawei DC Power Systems – 5%Basic Knowledge of Batteries – 13%Air Conditioning System Introduction – 12%Basic Knowledge of Precision Air Conditioners in Data Centers – 12%Basic Knowledge of Monitoring Systems – 8%Functions and Features of Monitoring Systems – 12%Introduction to Other Systems of Data Center Facility – 5%
+
+Recertification Policy
+
+Certification
+
+HCIA-Data Center Facility
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification from the same technology track.
+
+Period of Invalidity
+
+Same as initial certification.

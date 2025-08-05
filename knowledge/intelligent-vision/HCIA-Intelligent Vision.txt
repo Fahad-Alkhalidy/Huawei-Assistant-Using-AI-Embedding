@@ -1,0 +1,63 @@
+HCIA-Intelligent Vision
+
+Type
+
+ICT Infrastructure (Intelligent Vision)
+
+Capabilities to be Certified
+
+Complete the operation of Huawei intelligent vision camera and platform.
+
+Knowledge to Learn
+
+Know the typical application of video surveillance network and security, get product knowledge and installation skills about Huawei camera, understand technical principle and application of Huawei video surveillance platform.
+
+ObjectivesUnderstand the core technologies of video security and new technologies in the industryUnderstand industry standards and applicationsUnderstand the basics of the networkUnderstand the basics of the securityUnderstand the products and features of the network cameraMaster the basic installation of the network cameraMaster the basic parameter configuration of the cameraUnderstand video sitesUnderstand Huawei intelligent vision platforms and featuresMaster the video feature operation of the intelligent vision platformMaster the intelligent feature operation of the intelligent vision platform
+
+Target AudienceThose who hope to become an IV engineerThose who hope to obtain HCIA-IV
+
+PrerequisitesA general familiarity with PC operating systemsA basic understanding of computer technology
+
+Training Content
+
+Intelligent Video Technical Overview and Development TrendsVideo Security Technology Development TrendsCamera Technology IntroductionVideo Security Platform IntroductionVideo Security Center IntroductionTechnical StandardsApplication of New TechnologiesIndustry Applications
+
+Video Network Principle and Application ScenariosNetwork BasicsVideo Network SolutionFront-End Access NetworkBackbone Transmission NetworkData Center NetworkCases
+
+Video Security Principle and Application ScenariosBasic Knowledge of SecurityVideo Security Solution
+
+Huawei IP Camera Products and FeaturesIntroduction to IPCsIntroduction to HoloSens SDC Features
+
+Huawei IP Camera Installation BasicsInstallation Preparations and RequirementsMount InstallationLens InstallationCable Connection
+
+Huawei Video Site ProductsProduct PositioningSolution OverviewSite ComponentsSite Features
+
+Huawei Intelligent Vision System Introduction and ApplicationsOverall Introduction to Intelligent Vision SystemIntroduction to Intelligent Vision System ProductsIntroduction to Intelligent Vision System Features
+
+ExamExam Code: H12-511Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or False, Short Response Item, Drag and Drop ItemTime: 90 minPassing Score/Total Score: 600/1000Exam Cost: 200 USDLanguage: Chinese, English
+
+Knowledge Content DistributionBasic Knowledge about Video Security Technologies – 45%Video Network and Security Principles and Applications – 7%Huawei Camera Introduction and Application – 24%Huawei Intelligent Vision Platform Technologies and Application – 24%
+
+Recertification Policy
+
+Certification
+
+HCIA-Intelligent Vision
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification from the same technology track.
+
+Period of Invalidity
+
+Same as initial certification.

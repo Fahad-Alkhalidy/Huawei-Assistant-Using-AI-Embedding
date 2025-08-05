@@ -1,0 +1,78 @@
+HCIA-LTE
+
+Type
+
+ICT Infrastructure (LTE)
+
+Capabilities to be Certified
+
+Demonstrate the capabilities of independently performing the deployment and commissioning of Huawei LTE radio network, operations and onsite maintenance of eNodeBs, and general troubleshooting for Huawei LTE radio networks.
+
+Knowledge to Learn
+
+General knowledge about LTE network and the capability of LTE radio network O&M with Huawei products, aiming at standardizing entry-level skills in LTE radio network O&M.
+
+ObjectivesOutline principle of LTE.Describe the product feature of eNodeB.Use M2000/U2000 to do the operation.Operate eNodeB initial configuration.Use M2000/U2000 to do the commissioning.Grasp Field Maintenance operation.Describe and analyze the trouble of site, familiar with eNodeB site solution duration.
+
+Target AudienceThose who are to take the HCIA-LTE Certificate Exam.Those who hope to learn about basic LTE/SAE principles and Huawei LTE equipment.
+
+Prerequisites
+
+A general knowledge in cellular systems and radio technology.
+
+Training Content
+
+LTE System OverviewLTE System OverviewNetwork ArchitectureEvolution of Cellular Networks3GPP ReleasesE-UTRAN ArchitectureE-UTRAN Interfaces and ProtocolsEPC ArchitectureEPC Interfaces and Protocols
+
+LTE Air Interface PrinciplesRadio Interface TechniquesPrinciples of OFDMLTE Channel StructuresLTE Frame StructureDownlink OFDMAUplink SC-FDMAMultiple Input Multiple OutputMultimedia Broadcast Multicast Service
+
+eNodeB Product OverviewThe Huawei eNodeB familyProducts and application scenariosOperation and Maintenance
+
+eNodeB Product DescriptioneNodeB LTE Product DescriptioneNodeB System OvervieweNodeB System StructureeNodeB Auxiliary DeviceseNodeB Typical Networking
+
+eNodeB OperationStructure of operation and maintenance systemLogin eNodeB O&M systemeNodeB equipment managementeNodeB transport managementeNodeB Radio ManagementeNodeB clock managementeNodeB inventory and report managementSoftware Management
+
+eNodeB Data Introduction for Initial ConfigurationeNodeB Initial Configuration by CMEeNodeB Data Configuration by CME IntroductionPreparing eNodeB DataCreating eNodeB DataAdjusting eNodeB DataChecking eNodeB DataExporting eNodeB DataeNodeB LTE Initial Configuration by MML Practice GuidePractice oneNodeB data configuration preparationMML for common dataMML for device dataMML for transmission dataMML for radio dataMML for specific scenarioeNodeB LTE Data Introduction for Initial ConfigurationeNodeB Data Configuration IntroductionCommon Data Parameters IntroductionData Preparation in Specific Scenarios
+
+eNodeB Equipment CommissioningLTE eRAN Automatic OMCH EstablishmentAutomatic OMCH establishment phase during base station deployment by PnPDHCP introductionSchemes for Obtaining VLAN InformationProcedure for Obtaining Configuration Information in different ScenarioseNodeB LTE Equipment CommissioningeNodeB Commissioning OvervieweNodeB Remote Commissioning on the M2000
+
+eNodeB Field MaintenanceeNodeB LTE Field MaintenanceLocal Operation and Maintenance IntroductionCheck the status of board by LEDsRoutine Operation and MaintenanceReplacing boards and optical module of eNodeBRoutine Maintenance items for eNodeBPractice
+
+eNodeB TroubleshootingeNodeB LTE TOP Alarm HandlingAlarm OverviewTop AlarmeNodeB TroubleshootingTroubleshooting OverviewTroubleshooting Cell Unavailable FaultsTroubleshooting IP Transmission FaultsTroubleshooting Application Layer FaultsTroubleshooting Synchronization FaultsTroubleshooting Transmission Security FaultsTroubleshooting RF Unit FaultsTroubleshooting License FaultseNodeB LTE Site SolutionHuawei LTE Product IntroductionTypical Outdoor Site Coverage SolutionTypical Indoor Site Coverage SolutionHigh-Speed Railway and Road Coverage SolutionFDD+TDD Site SolutionEasy Macro Site SolutionTower Solution Related Cable Solution
+
+Exam
+
+HCIA-LTE  
+Exam Code: H31-411  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false  
+Time: 90 minutes  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 200 USD  
+Language: Chinese, English
+
+Knowledge Content DistributionLTE System Overview — 15%eNodeB LTE Product Description — 5%MBTS GUL Field Maintenance — 10%MBTS GUL Software Commissioning — 15%LTE eRAN Automatic OMCH Establishment — 3%MBTS GUL Field Operation and Maintenance — 10%eNodeB LTE Data Introduction for Initial Configuration — 10%eNodeB LTE Initial Configuration by CME — 5%eNodeB LTE Troubleshooting — 10%eNodeB LTE TOP Alarm Handling — 2%eNodeB LTE Site Solution — 15%
+
+Recertification Policy
+
+Certification
+
+HCIA-LTE
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as the initial certification.

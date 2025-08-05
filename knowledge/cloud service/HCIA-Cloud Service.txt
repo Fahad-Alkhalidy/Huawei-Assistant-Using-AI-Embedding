@@ -1,0 +1,60 @@
+HCIA-Cloud Service
+
+Type
+
+Cloud Platform & Cloud Services (Cloud Service)
+
+Capabilities to be Certified
+
+Have a good command of basic concepts of cloud and cloud service usage. Be able to use and manage cloud services for infrastructure construction.
+
+Knowledge to Learn
+
+The basics of cloud, HUAWEI CLOUD compute services, HUAWEI CLOUD network services, HUAWEI CLOUD storage services, HUAWEI CLOUD O&M services, and database & security services.
+
+ObjectivesUnderstand the basic concepts, application scenarios, modes, and values of cloud computing.Have a good command of Huawei infrastructure, basic concepts, and ecosystem construction.Have a good command of the definition, architecture, functions, and applications of compute services, network services, storage services, and O&M services.Have general knowledge of database services, security services, CDN services, artificial intelligence, big data services, and API gateway services.
+
+Target AudiencePersonnel who want to become cloud engineersPersonnel who want to obtain HCIA-Cloud Service certification
+
+PrerequisitesBasic IT knowledgeBe familiar with servers and common operating systems (Windows and Linux)Basic knowledge of storage and networking
+
+Training Content
+
+Huawei Certified ICT Associate-Cloud Service TrainingCloud BasicsCloud Computing BasicsPublic Cloud OverviewHUAWEI CLOUD OverviewCompute Cloud ServicesElastic Cloud Server (ECS)Image Management Service (IMS)Auto Scaling (AS)Bare Metal Server (BMS)Cloud Container Engine (CCE)Other Compute ServicesNetwork Cloud ServicesVirtual Private Cloud (VPC)Elastic IP (EIP)Elastic Load Balance (ELB)Virtual Private Network (VPN)NAT GatewayOther ServicesStorage Cloud ServicesElastic Volume ServiceObject Storage ServiceScalable File ServiceCloud Backup and Recovery ServiceHUAWEI CLOUD O&M BasicsO&M Basic Concepts and PrinciplesIdentity and Access Management (IAM)Simple Message Notification (SMS)Cloud Eye Service (CES)Log Tank Service (LTS)Cloud Trace Service (CTS)Database, Security, and other ServicesDatabase ServicesSecurity ServicesContent Delivery Network (CDN)API ServicesEI Services
+
+Exam
+
+HCIA-Cloud Service  
+Exam Code: H13-811  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop Item  
+Time: 90min  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 200USD  
+Language: English
+
+Knowledge Content DistributionCloud Basics 15%Compute Cloud Services 20%Network Cloud Services 20%Storage Cloud Services 20%HUAWEI CLOUD O&M Basics 15%Database, Security, CDN, and EI Services 10%
+
+Recertification Policy
+
+Certification
+
+HCIA-Cloud Service
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

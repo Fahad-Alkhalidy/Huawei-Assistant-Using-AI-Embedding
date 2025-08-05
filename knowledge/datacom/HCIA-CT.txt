@@ -1,0 +1,57 @@
+HCIA-CT
+
+Type
+
+ICT Infrastructure (Datacom)
+
+Capabilities to be Certified
+
+Passing the HCIA-CT V1.0 certification proves that you have acquired the ability to understand Communication Technology corresponding concepts and solutions.
+
+Knowledge to Learn
+
+Routing and switching technologies, WLAN technologies, network management and reliability technologies, cyber security technologies, and datacom network solution, as well as basics of optical fiber communication, overview of optical networks, optical transmission and access technology basics, optical network products and typical solutions, as well as enterprise wireless network fundamentals.
+
+ObjectivesUnderstand the general knowledge of scenario classification, basic concepts, and typical application scenarios of data communication network solutionsUnderstand the general knowledge of scenario classification, basic concepts, and typical application scenarios of Optical network solutionsDescribe the architecture and functions of the data communication networkDescribe the fundamentals of switches, VLAN and STPDescribe IPv4 and IPv6 address classificationUnderstand the basic working principles of routers and the content in routing tableDescribe the evolution process of 802.11 standards and basic concepts of WLANDescribe cyber security-related concepts, the basic working principles of firewalls and basic concepts of encryption and decryptionDescribe the basic concepts of network management, common network management modes, common network management technologies and common network reliability technologiesDescribe different types of network architectures and common technologiesDescribe the functions, key components, and application scenarios of Huawei datacom network solutionsDescribe the basic architecture and principles of optical fiber communicationUnderstand the transmission features of fibers, such as dispersion and attenuationBe familiar with common components such as optical modules, fibers, and fiber amplifiersBe familiar with the definition and architecture of optical transmission networks, main technologies and typical application scenarios of optical transmission networksBe familiar with the definition and architecture of optical access networks, main technologies and typical application scenarios of optical access networksBe familiar with optical transmission technology basicsBe familiar with optical access technology basicsUnderstand Optical Network Products and Typical SolutionsDescribe the basic concepts of enterprise wireless networksUnderstand the logical and physical architectures of enterprise wireless networksDescribe the architecture, main components, and functions of Huawei enterprise wireless network solutionsUnderstand the service platform, core network, wireless base station, microwave, and industry terminal
+
+Target AudiencePre-sales engineers of CT (Communication Technology) productsEnterprise CT architectsOther groups who wish to obtain the HCIA-CT certification
+
+Prerequisites
+
+Proficient in basic computer skills
+
+Training ContentOverview of Communication Network Technologies and SolutionsCommunication Network Technology TrendsData Communication Network OverviewOptical Communication Network OverviewEnterprise Wireless Network OverviewTechnologies and Solutions of Datacom NetworkDatacom Network OverviewFundamentals of SwitchesEthernet BasicsGenerating MAC Address EntriesFundamentals of VLANFundamentals of STPIPv4IPv6Overview of RoutingRoute TypesCommon Routing FeaturesWLAN OverviewBasic Concepts of WLANWLAN FundamentalsSTA Access ProcessCyber Security Concepts and SpecificationsFirewall Security PoliciesIPS on FirewallsEncryption Mechanism and ApplicationPKI Certificate SystemNetwork Management TechnologiesBasic ConceptsTraditional Network Management TechnologiesiMaster NCE-based Network ManagementNetwork Reliability TechnologiesDatacom Network Solution OverviewCampus Network and Solution IntroductionWAN Interconnection and Solution IntroductionDCN and Solution IntroductionWAN and Solution IntroductionNetwork Security and Solution IntroductionTechnologies and Solutions of Optical NetworkOptical Fiber Communication PrinciplesFiber TypesFiber Attenuation and DispersionOptical Fiber Communication ComponentsOverview and Technology Evolution of Optical NetworksOverview and Technology Evolution of Optical Transmission NetworksOverview and Technology Evolution of Optical Access NetworksApplication Scenarios of Optical NetworksApplication Scenarios of Optical Transmission NetworksApplication Scenarios of Optical Access NetworksSDH/MSTP Technology BasicsBasic Concepts of SDHSDH Frame Structure and Multiplexing ProcedureIntroduction to MSTP TechnologyWDM Technology BasicsWDM System OverviewKey Technologies of the WDM SystemBasic Elements of WDM NetworkingIntroduction to WDM Site TypesOTN Technology BasicsOTN OverviewOTN Interface Structure and Multiplexing/Mapping PrinciplesOTN Frame Structure and Trail LayersIntroduction to MS-OTNGPON Network ArchitectureService Mapping ModeKey GPON TechnologiesGPON System Management and Service Provisioning ModesGPON Networking ProtectionPON Network Specifications EvolutionIntroduction to Optical Transmission ProductsCommon SubracksBoardsTypical Optical Transmission Network SolutionsTypical Optical Transmission Solution for Power Transmission and TransformationTypical Optical Transmission Solution for Urban RailTypical Optical Network Solution for DCITypical E-government All-Optical Bearer SolutionIntroduction to Optical Access Network ProductsTypical Optical Access Network SolutionsFTTO SolutionFTTM SolutionHuawei MiniFTTO SolutionTechnologies and Solutions of Enterprise Wireless NetworkEnterprise Wireless OverviewEnterprise Wireless Industry Scenarios and SolutionsService Platform, Cloud Core, Wireless, Microwave, and Terminal Products and Solutions
+
+Exam
+
+Exam Code: H14-511  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop Item  
+Time: 90 minutes  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 200 USD  
+Language: English
+
+Knowledge Content DistributionOverview of Communication Network Technologies and Solutions – 10%Technologies and Solutions of Datacom Network – 40%Technologies and Solutions of Optical Network – 35%Technologies and Solutions of Enterprise Wireless Network – 15%
+
+Recertification Policy
+
+Certification
+
+HCIA-CT
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certificationParticipate and pass any exam of the same or higher level certification from the same technology track
+
+Period of Invalidity
+
+Same as initial certification.

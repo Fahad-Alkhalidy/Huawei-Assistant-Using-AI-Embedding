@@ -1,0 +1,58 @@
+HCIP-Access
+
+Type
+
+ICT Infrastructure (access)
+
+Capabilities to be Certified
+
+Have the advanced knowledge and service understanding and application skills required for relevant work, and have the advanced knowledge required for the pre-sales and after-sales of Huawei access network products.
+
+Knowledge to Learn
+
+SIP&H.248 principles and configuration, Multicast principles and configuration, PON Network protection, PON system security features, QoS features, eSight & NCE-FAN service O&M, POL&FTTx networking planning, and Typical Troubleshooting in Access Network.
+
+ObjectivesUnderstand the VoIP principles and service configuration.Master multicast principles and configure and query multicast services.Master the protection feature of the access network.Understand the security features of the access network.Understand the QoS features of the access network.Master the access network service configuration methods of the NMS, including eSight and NCE (Access Domain).Be able to complete the network design according to the requirement planning and POL&FTTx networking planning principles.Master the roadmap for troubleshooting access network faults and the methods for troubleshooting common service faults.
+
+Target AudiencePersonnel who want to obtain HCIP-Access certification.Personnel who want to become access network engineers.
+
+Prerequisites
+
+HCIA-Access V2.5 knowledge, Basic knowledge of IT technologies and network knowledge.
+
+Training ContentSIP Protocol and ApplicationNGN and IMS Network ArchitectureSIP OverviewVoIP Service NetworkingConfiguration Example of the VoIP ServiceVoIP Service MaintenanceH.248 Protocol and ApplicationH.248 OverviewVoIP Service NetworkingConfiguration Example of the VoIP ServiceVoIP Service MaintenancePON Multicast Principles and ConfigurationMulticast Principles and ImplementationProvisioning and Configuring the Multicast Service on the PON NetworkPON Multicast Service MaintenancePON QoS FeaturesQoS Technology OverviewPON QoS Features and ConfigurationPON QoS E2E ImplementationPON System Security FeaturesPON System Security OverviewPrinciples and Configuration of PON System Protection Technologies (Basic)Principles and Configuration of PON System Protection Technologies (Extended)PON Networking ProtectionPON Port Protection OverviewGPON type B protectionGPON Type C ProtectionOLT upstream protection technologyService Operation and Maintenance on eSightOverviewTypical NetworkingDeploymentRoutine O&MNCE-FAN Service Configuration and MaintenanceNCE-FAN System IntroductionNCE-FAN Service ConfigurationNCE-FAN Routine O&MPOL Network Planning and DesignPOL Design ProcessPOL Network PlanningPOL Data PlanningPOL Network Performance PlanningTypical POL SolutionPOL ODN Planning and DesignBasic Principles for POL ODN PlanningBasics of Traditional POL ODN Planning and Typical Devices and ComponentsTraditional POL ODN Planning Methodology and Typical Planning SuggestionsPre-connecting ODN Devices and ComponentsPre-connected ODN Planning Methodology and Typical Planning SuggestionsFTTx Network Planning and DesignFTTx Network Overview and Design ProcessFTTx Networking and Traffic PlanningFTTx Data PlanningFTTx Network Performance PlanningTroubleshooting in Full-Fiber Access ScenariosTroubleshooting Process and Analysis MethodsONU Fault Locating and Case AnalysisNetworking Protection Fault Locating and Case AnalysisData Service Fault Locating and Case AnalysisVoice Service Fault Locating and Case AnalysisMulticast Service Fault Locating and Case AnalysisODN Fault Locating
+
+Exam
+
+HCIP-Access  
+Exam Code: H35-211  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop Item  
+Time: 90min  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 300USD  
+Language: Chinese, English, Japanese
+
+Knowledge Content DistributionNetworking protection — 10%VoIP Principles and Configuration — 11%Multicast Principles and Configuration — 12%QoS Basics — 12%PON Security Basics — 12%NMS service configuration — 8%POL&FTTx Planning and Design — 22%Typical Troubleshooting Cases — 13%
+
+Recertification Policy
+
+Certification
+
+HCIP-Access
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

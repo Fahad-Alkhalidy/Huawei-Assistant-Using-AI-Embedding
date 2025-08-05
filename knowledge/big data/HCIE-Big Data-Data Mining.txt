@@ -1,0 +1,59 @@
+HCIE-Big Data-Data Mining
+
+Type
+
+Cloud Platform & Cloud Services (Big Data)
+
+Capabilities to be Certified
+
+Master the commonly used big data mining process (including data preprocessing, feature engineering, modeling, model evaluation and optimization); be familiar with the process of using PySpark for big data mining; master the basic concepts of data lakes and the operation skills of data entering the lake; master the data governance methodology and the characteristics of DataArts Studio, Huawei's data governance center
+
+Knowledge to Learn
+
+Data preprocessing and feature engineering, regression and classification problem modeling, clustering and dimensionality reduction problem modeling, association analysis and recommendation problem modeling, model evaluation and optimization, PySpark MLlib, Huawei big data platform MRS, Huawei data governance center DataArts Studio
+
+ObjectivesMaster common big data mining processes (including data preprocessing, feature engineering, modeling, model evaluation and optimization).Familiar with the process of using PySpark for big data mining.Master the basic concepts of data lakes and the operation skills of data entry into the lake.Master the methodology of data governance and the features of DataArts Studio, Huawei's data governance center.
+
+Target AudiencePeople who want to improve their skills in the field of big data.People who want to become data mining experts.
+
+PrerequisitesIt is necessary to master the knowledge and skills of Huawei big data HCIA and HCIP.It is necessary to master the knowledge and skills of Python data analysis.It is necessary to master the basics of linear algebra.It is recommended to have more than 5 years of relevant work experience.
+
+Training Content
+
+HCIE-Big Data-Data Mining V3.0 TrainingIntroduction to Data MiningData Mining OverviewProcess of Data MiningData Preprocessing and Feature EngineeringData PreprocessingFeature EngineeringRegression and ClassificationClassification AlgorithmsRegression AlgorithmsEnsemble AlgorithmsClustering and Dimensionality ReductionClustering AlgorithmsDimensionality Reduction AlgorithmsAssociation Analysis and RecommendationAssociation AlgorithmsRecommendation AlgorithmsModel Evaluation and OptimizationPrerequisites for Model Evaluation and OptimizationOptimization ModelsModel Evaluation and SelectionPython Data Mining Case AnalysisData ReadingFeature Understanding and AnalysisData PreprocessingModelingPySpark MLlibPySpark MLlib BasicsBasic Statistical Analysis of PySpark MLlibFeature Extraction and Transformation of PySpark MLlibClassification and Regression of PySpark MLlibClustering and Dimensionality Reduction of PySpark MLlibAssociation Rules and Recommendation Algorithms of PySpark MLlibEvaluation Matrix of PySpark MLlibHuawei Big Data Platform MRSMRS Cloud-Native Data Lake Baseline SolutionComponentsHuawei DataArts StudioData Governance Methodology
+
+Exam
+
+HCIE-Big Data-Data Mining (Written)Exam Code: H13-731Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop ItemTime: 90minPassing Score/Total Score: 600/1000Exam Cost: 300USDLanguage: Chinese, English
+
+HCIE-Big Data-Data Mining (LAB)Exam Code: H13-736Exam Type: ExperimentsExam Format: Operation, Essay ItemTime: 480minPassing Score/Total Score: 80/100Exam Cost: 8000CNYLanguage: Chinese, English
+
+Knowledge Content Distribution
+
+HCIE-Big Data-Data Mining (Written)Introduction to Data Mining – 5%Data Preprocessing and Feature Engineering – 13%Regression and Classification – 13%Clustering and Dimensionality Reduction – 13%Association Analysis and Recommendation – 13%Model Evaluation and Optimization – 8%Python Data Mining Case Analysis – 0%PySpark MLlib – 10%Huawei Big Data Platform MRS – 15%Huawei DataArts Studio – 10%
+
+HCIE-Big Data-Data Mining (LAB)Introduction to Data Mining – 0%Data Preprocessing and Feature Engineering – 10%Regression and Classification – 20%Clustering and Dimensionality Reduction – 10%Association Analysis and Recommendation – 20%Model Evaluation and Optimization – 10%Python Data Mining Case Analysis – 0%PySpark MLlib – 10%Huawei Big Data Platform MRS – 10%Huawei DataArts Studio – 10%
+
+Recertification Policy
+
+Certification
+
+HCIE-Big Data-Data Mining
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+With the development of technologies in various fields, the content of Huawei certification will be updated and optimized from time to time. Through re-certification, the validity of the certification can be guaranteed; and it shows that the certification is consistent with the latest development trends of various technologies. Candidates can refresh the validity period of the certificate through the following situations before the certificate expires:  
+(1) Take and pass any exam corresponding to the certification.  
+(2) Take and pass any exam corresponding to the same or higher level certification in the technical direction of the certification.
+
+Period of Invalidity
+
+Same as the initial certification.

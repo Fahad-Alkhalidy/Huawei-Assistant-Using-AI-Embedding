@@ -1,0 +1,83 @@
+HCIP-Datacom-WAN Planning and Deployment
+
+Type
+
+ICT Infrastructure (Datacom)
+
+Capabilities to be Certified
+
+Passing the HCIP-Datacom-WAN Planning and Deployment certification will indicate that you are qualified for the position of enterprise bearer WAN engineer (account manager, project manager, pre-sales engineer, post-sales engineer, and O&M engineer) and are capable of using Huawei datacom devices to design, deploy, and O&M of enterprise bearer WAN.
+
+Knowledge to Learn
+
+Enterprise bearer WAN solution, Enterprise bearer WAN architecture and key technologies, WAN VPN technologies, MPLS TE fundamentals and configuration, Segment Routing, SRv6, Huawei CloudWAN solution architecture and fundamentals, Huawei CloudWAN solution O&M and troubleshooting, and Huawei CloudWAN solution design practice (Financial Scenario).
+
+ObjectivesDescribe the logical structure of network devices.Describe each functional module of network devices.Describe the forwarding process of network devices.Identify the IP routing table and FIB table.Analyze the route-based forwarding process.Describe the principles of route import.Understand application scenarios of route import.Describe the overall process of OSPF route calculation.Clarify functions of the DR and BDR.Describe OSPF packets and their functions.Configure basic OSPF functions.Distinguish the OSPF neighbor relationship and adjacency.Explain functions of key fields in link-state advertisements (LSAs).Describe common LSA types and functions.Illustrate the SPF algorithm.Describe the principles for calculating intra-area and inter-area OSPF routes.Describe the loop prevention mechanism of OSPF inter-area routes.Describe the principles for calculating OSPF external routes.Describe types and characteristics of OSPF special areas.Describe application scenarios and advantages of OSPF route summarization.Configure OSPF packet authentication.Describe basic concepts of IS-IS.Understand how IS-IS is implemented.Describe the differences between IS-IS and OSPF.Perform basic IS-IS configurations.Describe basic concepts of BGP.Describe BGP peer types.Learn how to set up a BGP peer relationship.Learn BGP state machine.Perform basic BGP configurations.Describe common BGP path attributes and their functions.Describe the concept and application scenarios of BGP RRs.Describe the rules and working mechanism of BGP RRs.Describe rules for selecting a preferred BGP route.Learn BGP route control.Understand basic MP-BGP concepts.Understand the origin of EVPN.Understand common EVPN route types.Understand typical EVPN usage scenarios.Use an ACL to filter routes.Use an IP prefix to filter routes.Use a filter-policy to filter routes.Use a route-policy to filter routes and modify route attributes.Describe the application scenarios of PBR.Describe the classification of PBR.Describe how to configure PBR in MQC mode.Describe how to filter packets in MQC mode.Describe the typical architecture of a large-scale campus network.Describe common Ethernet switching technologies.Describe common WLAN application scenarios.Describe common technologies used to ensure campus network reliability.Describe common technologies used for campus network service and management.Describe common technologies used to ensure campus network security.Describe common VPN technologies used on campus networks.Describe defects of STP technology.Describe RSTP improvements compared with STP.Describe the working mechanism of RSTP.Perform basic RSTP configurations.Describe weaknesses of RSTP/STP.Describe MSTP improvements compared with RSTP/STP.Describe concepts of MSTP.Describe the working mechanism of MSTP.Complete basic MSTP configurations.Describe basic concepts involved in stack and CSS.Learn about the process of setting up a stack and CSS.Understand the MAD mechanism of stack and CSS.Describe the definition and address structure of multicast.Describe multicast data forwarding implementation.Describe reverse path forwarding (RPF) implementation.Understand IGMP implementation and configurations.Understand the differences between different IGMP versions.Understand the implementation of IGMP snooping.Understand the implementation of IGMP SSM mapping.Understand the implementation of IGMP proxy.Describe the basic concepts of PIM.Describe the fundamentals of PIM-DM.Perform basic configurations of PIM-DM.Describe the fundamentals of PIM-SM.Perform basic configurations of PIM-SM.Describe the development status of IPv6.Explicate the advantages of IPv6 over IPv4.Describe the basic concepts of IPv6.Describe the format of an IPv6 packet header.Describe the IPv6 address format and types.Configure IPv6 addresses and routes.Describe the functions of ICMPv6.Describe the ICMPv6 message format.Describe ICMPv6 message types.Describe the functions of NDP.Describe the fundamentals of IPv6 stateless address autoconfiguration.Describe the fundamentals of DHCPv6 address autoconfiguration.Perform IPv6 address autoconfiguration.Describe the definition, type, and development history of firewalls.Distinguish firewalls from routers and switches.Describe basic firewall concepts, such as the security zone, security policy, session table, and server map.Perform basic firewall configurations.Learn common device security hardening policies.Configure STelnet.Configure local attack defense.Understand VPN classification.Understand VPN implementation modes.Understand basic VRF concepts.Understand typical VRF applications.Implement basic VRF configurations.Describe functions of BFD.Describe BFD implementation.Configure and apply BFD.Analyze problems faced by a single gateway on a LAN.Explain the basic concepts and working mechanism of VRRP.Describe the active/standby VRRP switchover process.Perform basic VRRP configurations.Describe DHCP implementation.Describe DHCP address allocation rules.Differentiate application scenarios of DHCP and DHCP relay.Perform basic DHCP configurations.The development trend and functions of network management.The functions of network management protocols.The similarities and differences between the implementation mechanisms and application scenarios of different network management protocols.The application scenarios of network management protocols.Describe the typical network architecture and characteristics of a large-scale WLAN.Describe key technologies for constructing a large-scale WLAN.Configure large-scale WLAN networking.Describe the functions of datacom networks in the digital world.Describe the scenario classifications and basic concepts of datacom network solutions.Describe Huawei's campus network, WLAN, data center network, and WAN solutions.
+
+Target AudiencePersonnel who want to become senior datacom engineersPersonnel who want to master core knowledge and skills in the datacom field
+
+PrerequisitesBe familiar with common operations of Huawei network devicesHave the knowledge and skills described in the HCIA-Datacom course
+
+Training Content
+
+IP Routing BasicsIntroduction to Network DevicesIP Routing Basics
+
+OSPF Core KnowledgeOSPF BasicsOSPF Route CalculationOSPF Special Areas and Other Features
+
+IS-IS Core KnowledgeIS-IS Implementation and Configuration
+
+BGP Core KnowledgeBGP BasicsBGP Path Attributes and RRsPreferred BGP Route SelectionBGP EVPN Basics
+
+Routing and Traffic ControlRouting Policy and Routing ControlTraffic Filtering and Forwarding Path Control
+
+Switching Core KnowledgeIntroduction to Typical Campus Network TechnologiesRSTP Implementation and ConfigurationMSTP Implementation and ConfigurationStack and CSS Features of Switches
+
+Multicast BasicsIP Multicast BasicsIGMP Implementation and ConfigurationsPIM Implementation and Configurations
+
+IPv6 Core KnowledgeIntroduction to IPv6ICMPv6 and NDPIPv6 Address Configuration
+
+Network Security BasicsHuawei Firewall TechnologySecurity Features of Network DevicesIntroduction to VPN TechnologyIntroduction to VRF
+
+Network ReliabilityBFD Implementation and ConfigurationVRRP Implementation and Configuration
+
+Network Service and ManagementDHCP Implementation and ConfigurationIntroduction to Network Management Protocols
+
+Large-scale WLAN ArchitectureLarge-Scale WLAN Deployment
+
+Network SolutionIntroduction to Enterprise Datacom Solutions
+
+Exam
+
+HCIP-Datacom-Core TechnologyExam Code: H12-821Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or False, Short Response Item, Drag and Drop ItemTime: 90 minPassing Score/Total Score: 600/1000Exam Cost: 300 USDLanguage: Chinese, English, Japanese
+
+HCIP-Datacom-WAN Planning and DeploymentExam Code: H12-861Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or False, Short Response Item, Drag and Drop ItemTime: 90 minPassing Score/Total Score: 600/1000Exam Cost: 180 USDLanguage: Chinese, English
+
+Knowledge Content Distribution
+
+HCIP-Datacom-Core TechnologyRouting Basics – 3%OSPF Core Knowledge – 16%IS-IS Core Knowledge – 8%BGP Core Knowledge – 17%Routing and Traffic Control – 10%Switching Core Knowledge – 7%Multicast Basics – 9%IPv6 Core Knowledge – 3%Network Security Basics – 9%Network Reliability Basics – 8%Network Service and Management – 2%Large-scale WLAN Architecture – 6%Network Solution – 2%
+
+HCIP-Datacom-WAN Planning and DeploymentEnterprise Bearer WAN Solution – 5%Enterprise Bearer WAN Architecture and Key Technologies – 12%WAN VPN Technologies – 10%MPLS TE Fundamentals and Configuration – 15%Segment Routing – 20%SRv6 Overview – 10%Huawei CloudWAN Solution Architecture and Fundamentals – 15%Huawei CloudWAN Solution O&M and Troubleshooting – 3%Huawei CloudWAN Solution Design Practice (Financial Scenario) – 10%
+
+Recertification Policy
+
+Certification
+
+HCIP-Datacom-WAN Planning and Deployment
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

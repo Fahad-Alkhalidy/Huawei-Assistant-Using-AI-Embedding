@@ -1,0 +1,64 @@
+HCIP-Optical Solution Architect
+
+Type
+
+ICT Infrastructure (transmission)
+
+Capabilities to be Certified
+
+Familiar with advanced knowledge of optical transmission domain, including: WDM & OTN Networking and Site Signal Flow Diagram, WDM & OTN Protection Technology, MS-OTN Features, WDM & OTN Advanced Features and Technologies and WDM Network Planning and Design. Familiar with advanced knowledge of optical transport domain, including: PON Network Protection, PON VoIP and Multicast Service Principles, PON System Security Features, PON Advanced Features and Principles, PON QoS Feature, POL Planning and Design and POL ODN Planning and Design.
+
+Knowledge to Learn
+
+Basic knowledge of optical fiber communication, optical network technology and application scenarios, basic knowledge of optical transmission technology, basic knowledge of optical access technology, optical network products and typical solutions.
+
+ObjectivesDescribe the typical networking and site signal flow of the optical transmission network.Describe common protection technologies and MS-OTN features in optical transmission networks.Describe common advanced features and technologies in optical transmission networks.List the key elements and principles of optical transmission network design.Understand the optical transmission network planning and design process and tools.Describe the common networking protection technologies and implementation principles in the optical access network.Understand networking principles and related protocols of the voice and multicast services of the optical access network.List the application scenarios and technical principles of typical network attack defense on the optical access network.Describe the common advanced features and technologies in the optical access network.Understand the PON QoS processing mode and typical E2E deployment on the optical access network.Understand the planning and design principles for typical network architecture and service functions in POL campus scenarios.Understand the typical planning and design principles of the optical access network ODN.
+
+Target AudiencePersonnel expected to become presale optical network engineersPersonnel expected to acquire HCIP-Optical Solution Architect certification
+
+PrerequisitesPassing HCIA-CT certification, or equivalently skilledHaving a certain level of understanding of optical transmission/access network related products and solutions
+
+Training Content
+
+Optical Transmission Network Technology and ApplicationWDM & OTN Networking and Site Signal Flow DiagramSite Type OverviewOTM SiteOLA SiteFOADM SiteROADM SiteOEQ SiteWDM & OTN Protection TechnologyOptical Line ProtectionIntra-Board 1+1 ProtectionClient 1+1 ProtectionODUk SNCP ProtectionASON Principles and ApplicationsMS-OTN FeaturesCommon Protection Schemes for SDH NetworksIntroduction to the EoS PlaneMPLS & PWE3Packet ServicesCommon Protection Schemes for Packet Transport NetworksWDM & OTN Advanced Features and TechnologiesUltra-High Rate and Ultra-High Bandwidth TechnologiesfgOTNOXCFD SystemOD SystemUltra-Long-Haul TransmissionClock SynchronizationL1 Service Encryption
+
+Optical Transmission Network Solution DesignWDM Network Planning and DesignNetwork Design ElementsNetwork Design ProcessNetwork Planning and Design Tool
+
+Optical Access Network Technology and ApplicationPON Network ProtectionPON Line Protection MechanismsOLT Upstream Protection TechnicsPON VoIP and Multicast Service PrinciplesPON VoIP ServicePON Multicast ServicePON System Security FeaturesPON System ProtectionUser Access ControlRemote Access and ManagementPON Advanced Features and PrinciplesOLT StackingType C Load SharingWLAN Roaming and OptimizationSlicing TechnologyPoE and PoF TechnologyPON QoS FeatureQoS Technology OverviewPON QoS FeaturesPON QoS E2E Implementation
+
+Optical Access Network Solution DesignPOL Planning and DesignPOL Design ProcessPOL Network PlanningPOL Data PlanningPOL Network Performance PlanningPOL Typical SolutionsPOL ODN Planning and DesignODN PlanningPre-connection ODN Planning
+
+Exam
+
+HCIP-Optical Solution Architect  
+Exam Code: H31-321  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item  
+Time: 90min  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 300USD  
+Language: English
+
+Knowledge Content DistributionWDM & OTN Networking and Site Signal Flow Diagram — 10%WDM & OTN Protection Technology — 10%MS-OTN Features — 10%WDM & OTN Advanced Features and Technologies — 10%WDM Network Planning and Design — 10%PON Network Protection — 5%PON VoIP and Multicast Service Principles — 5%PON System Security Features — 10%PON Advanced Features and Principles — 5%PON QoS Features — 5%POL Planning and Design — 10%POL ODN Planning and Design — 10%
+
+Recertification Policy
+
+Certification
+
+HCIP-Optical Solution Architect
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

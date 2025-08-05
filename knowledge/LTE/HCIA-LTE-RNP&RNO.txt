@@ -1,0 +1,50 @@
+HCIA-LTE-RNP&RNO
+
+Type
+
+ICT Infrastructure (LTE)
+
+Capabilities to be Certified
+
+Demonstrate the capabilities of completing LTE network site survey and simple planning, network testing and basic deployment optimization, and performance monitoring.
+
+Knowledge to Learn
+
+The knowledge about LTE general principles and the capabilities of LTE network site survey and design, radio network testing, optimization and troubleshooting, aiming at standardizing entry-level skills in LTE radio network planning and optimization (RNP&RNO).
+
+Exam
+
+HCIA-LTE-RNP&RNO  
+Exam Code: H35-560  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false  
+Time: 90 minutes  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 200 USD  
+Language: Chinese, English
+
+Knowledge Content DistributionLTE System Overview — 8%LTE Air Interface Basic and Signaling Flow — 17%LTE Radio Network Planning Basics — 10%LTE Radio Network Feature Basics — 27%Probe and Assistant Application — 3%LTE Single Site Verification — 10%LTE Radio Network RF Optimization — 25%
+
+Recertification Policy
+
+Certification
+
+HCIA-LTE-RNP&RNO
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as the initial certification.

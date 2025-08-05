@@ -1,0 +1,70 @@
+HCIA-5G-Core
+
+Type
+
+ICT Infrastructure (5G)
+
+Capabilities to be Certified
+
+Demonstrate the network architecture and basic principles of the 5G core network, understand the basic knowledge of Huawei 5G core network products, master the basic knowledge of Huawei UNC/UDG/UDM/UPCF hardware and software, have the skills for positions on routine maintenance of Huawei 5G core network products and routine maintenance operations on the 5G Core network engineers.
+
+Knowledge to Learn
+
+5G core network evolution and key technologies, 5G NSA core network principles, 5G SA core network principles, NFVI and MANO basics, Huawei 5G SA core network product solutions and routine maintenance operations. The involved products include HUAWEI UNC/UDG/UDM/UPCF/U2020.
+
+ObjectivesDescribe 5G NSA and SA networking options.Explain the deployment solutions and policies in NSA and SA networking.5G network slicing definition, application scenarios, slice management architecture, and slice management process.List the application scenarios of MEC and explain the key service processes of MEC.Elaborate on voice solutions based on EPC and 5GC.Describe the signaling procedure of the 5G NSA core network and the differences between the 5G NSA core network and the EPC.Describe the basic concepts of 5GC.Understand the basic signaling procedure of the 5GC.Describe the NFV and MANO network architecture.Have general knowledge of telecom cloud maintenance solutions and implementation mechanisms of large and small closed-loop O&M solutions.Learn about the telecom cloud automatic O&M solution.Describe the basic knowledge and features of 5G SA core network products.Perform routine maintenance for 5G SA core network products, including security management, system information management, alarm management, tracing management, data management, certificate management, and performance management.
+
+Target Audience
+
+Engineers who are interested in mastering 5G core network O&M.
+
+Prerequisites
+
+None
+
+Training Content
+
+5G Core Network Evolution and Key Technologies Overview5GC Network Deployment and Evolution SolutionNSA and SA SelectionNSA Networking Deployment and Evolution PoliciesSA Networking Deployment and Evolution PoliciesCloud-based 5G network evolutionIntroduction to the 5G Slicing Solution5G Slicing Advantages and Application ScenariosSlice management frameworkMain Service Processes of 5G SlicesMEC SolutionMEC Service Driving Forces and Standard ProgressMEC Application ScenariosMEC Deployment SolutionMEC Business Model and Typical CasesVo5G SolutionEvolution of the 5G Voice Solution5G Voice Solution Networking Deployment
+
+5G NSA Core Network Principles IntroductionNSA Principles of the 5G Core Network5G NSA Networking5G NSA Network Changes5G NSA Signaling Process Change Analysis
+
+5G SA Core Network Principles Introduction5G Basic ConceptsIntroduction to 5G SBA5G Service Functions and Interface ProtocolsIntroduction to Network SlicingBasic Concepts of 5G Mobility Management5G Security MechanismBasic Concepts of 5G Session Management5G QoS Mechanism5G NF Selection5G registration, session establishment, and 5G-to-4G interworking
+
+NFVI Key Technologies and O&M Solutions IntroductionNFV Solution OverviewNFV BackgroundNFV Architecture and Technical FeaturesNFV O&M SolutionAutomatic O&M
+
+5G SA Core Network Routine O&M Introduction5G SA Core Network Product Description (UNC/UDG/UDM/UPCF)Product ArchitectureProduct Functions5G SA Core Basic O&MNFV layered cloud O&M architectureNFV OM networkingConfiguration FunctionAlarm functionTracing FunctionPerformance statisticsLog FunctionReal-time monitoringLicense FunctionInformation collection and health check
+
+Exam
+
+HCIA-5G-Core  
+Exam Code: H35-650  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false  
+Time: 90min  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 200USD  
+Language: Chinese, English
+
+Knowledge Content Distribution5G Core Network Evolution and Key Technology — 30%5G Basic Principle — 40%NFV Solution and O&M Solution — 10%5G SA Core Network Product Routine Operation and Maintenance — 20%
+
+Recertification Policy
+
+Certification
+
+HCIA-5G-Core
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

@@ -1,0 +1,107 @@
+HCIP-Data Center Facility Deployment
+
+Type
+
+ICT Infrastructure (Digital Power)
+
+Capabilities to be Certified
+
+You will be able to have a basic command of Huawei modular data center solution, power distribution system solution, cooling system solution, and monitoring system solution, and be able to work as a pre-sales engineer, deployment and commissioning engineer, and solution engineer for data center infrastructure.
+
+Knowledge to Learn
+
+Huawei modular data center Fusion Module series products, Huawei UPS and precision PDC series products, Huawei data center energy storage products, Huawei data center smart cooling products, and Huawei data center DCIM system products.
+
+ObjectivesGet familiar with the trends and challenges in the data center industryUnderstand Huawei data center construction concepts and solutionsHave a basic understanding about Huawei FusionModule2000/5000Understand the application scenarios of the FusionModule2000/5000Get familiar with the hardware of each subsystem of the FusionModule2000/5000Have a basic understanding about the Huawei FusionDC1000 and its product positioningUnderstand the typical configurations of the FusionDC1000AGet familiar with the hardware of each FusionDC1000A subsystemHave a basic understanding about the Huawei FusionModule500/800 and product positioningUnderstand the typical configurations of the FusionModule500/800Get familiar with the hardware of each subsystem of the FusionModule500/800Overview, components, and specifications of UPSPreparation, key points, and acceptance for installationApplication scenarios, technical specifications, storage management, installation, and operation managementGet familiar with the structure and basic principles of Huawei SmartLiUnderstand the installation, commissioning, and operations of Huawei SmartLiUnderstand working modes, configurations, and technical specs of UPS2000Install, verify, operate, and commission UPS2000Understand key features, components, and working principles of UPS5000Install, verify, operate, and commission UPS5000Understand PDU8000 modular PDF structure, working principles, and commissioningSet parameters and parallel systems for UPS5000Understand challenges and trends in data center cooling systemsUnderstand air conditioner cooling source and air supply system solutions
+
+Target AudiencePre-sales engineerDeployment and commissioning engineerSolution engineer for data center infrastructurePersonnel who want to obtain HCIP-DCF Deployment certification
+
+PrerequisitesNone
+
+Training Content
+
+Introduction to Huawei Data Center FacilityData Center Facility OverviewTrends and Challenges in the Data Center IndustryHuawei Data Center Construction ConceptsHuawei Data Center Solutions
+
+Introduction to Modular Data Center Solution FusionModule2000/5000Product DescriptionApplication ScenariosHardware
+
+Introduction to Prefabricated All-in-One Data Center Solution FusionDC1000Product DescriptionTypical ConfigurationHardware
+
+Introduction to Smart Mini and Small Data Center Solution FusionModule500/800Product DescriptionFusionModule500 Smart Mini Data CenterFusionModule800 Smart Small Data Center
+
+Integrated UPS IntroductionOverviewComponentsSpecifications
+
+FusionModule2000 InstallationPreparation Before InstallationKey Installation PointsInstallation Acceptance Items
+
+Application of VRLA BatteriesApplication ScenariosTechnical Specifications and Characteristic CurvesStorage ManagementInstallationOperation Management
+
+Huawei SmartLi Introduction, Installation, and CommissioningProduct DescriptionComponentsInstallation ProcessUser InterfaceCommissioning and Acceptance
+
+UPS2000 Product IntroductionModel DescriptionWorking LogicProduct StructureProduct Specifications
+
+UPS2000 InstallationPreparationsInstallationInstallation Verification
+
+UPS2000 LCD Operations and CommissioningLCD OperationsCommissioning
+
+UPS5000 Product IntroductionModel DescriptionHighlightsWorking LogicProduct StructureTypical ConfigurationProduct Specifications
+
+UPS5000 InstallationPreparationsInstallationInstallation Verification
+
+UPS5000 LCD Operations and CommissioningLCD OperationsCommissioning
+
+PDU8000 Modular PDF IntroductionUPS Modular PDFModular Precision PDFModular Integrated PDF
+
+Huawei UPS5000 Lab GuideUPS5000 Hardware ArchitectureSingle UPS5000 Parameter SettingsParallel System Parameter Settings
+
+Introduction to Data Center Cooling SolutionsChallenges and Industry TrendsCooling System SolutionsHuawei Smart Cooling Solutions
+
+Introduction to Huawei Air Cooled Precision Air ConditionersProduct OverviewCooling System OverviewCooling Capacity Transfer SystemHumidification and Drainage Regulation SystemElectric Control SystemCommon Terms
+
+Introduction to Huawei Chilled Water Precision Air ConditionersOverviewCooling System OverviewCooling Capacity Transfer SystemHumidification and Drainage Regulation SystemElectrical Control SystemTechnical Specifications
+
+Introduction to the Huawei Modular Indirect Evaporative Cooling SystemSystem CompositionWorking ModeTechnical Specifications
+
+NetCol5000-A042 Installation and CommissioningInstallation and Commissioning OverviewKey Installation PointsCommissioning Procedure
+
+NetCol8000-C (070-260) Installation and CommissioningInstallation and Commissioning OverviewKey Installation PointsCommissioning Procedure
+
+NetCol8000-E220 Installation and CommissioningInstallation and Commissioning OverviewKey Installation PointsCommissioning Procedure
+
+Huawei NetCol5000-A Lab GuideHardware ArchitecturePreliminary CommissioningTeamwork Settings
+
+ECC800-Pro IntroductionIntroductionCommissioning and Common OperationsMaintenance
+
+Huawei DCIM Management Tool IntroductionPowerEcho OverviewFunctionsMain Functions
+
+Huawei DCIM Product IntroductionProduct FeaturesSoftware Architecture and Hardware ComponentsProduct FunctionsApplication ScenariosTechnical Specifications
+
+Huawei DCIM Software Installation and Deployment Lab GuideSoftware Installation and Deployment Process
+
+Huawei DCIM Operation Lab GuideNetEco CommissioningMonitoring OperationsAlarm ManagementSecurity ManagementEnergy Efficiency ManagementO&M ManagementReport ManagementSystem Management
+
+ExamExam Code: H12-425Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or False, Short Response Item, Drag and Drop ItemTime: 90 minPassing Score/Total Score: 600/1000Exam Cost: 160 USDLanguage: Chinese, English, Spanish, Portuguese, Japanese
+
+Knowledge Content DistributionIntroduction to Huawei Data Center Infrastructure – 2%FusionModule2000 and 5000 – 5%FusionDC1000 – 3%FusionModule500 and 800 – 3%Integrated UPS Introduction – 3%FusionModule2000 Installation – 5%Application of VRLA Batteries – 3%SmartLi Introduction and Commissioning – 3%UPS2000 Product Introduction – 3%UPS2000 Installation – 2%UPS2000 LCD Operations and Commissioning – 3%UPS5000 Product Introduction – 7%UPS5000 Installation – 2%UPS5000 LCD Operations and Commissioning – 8%PDU8000 Modular PDF Introduction – 3%Data Center Cooling Solutions – 3%Air-Cooled Precision Air Conditioner – 3%Chilled Water Precision Air Conditioner – 3%Indirect Evaporative Cooling System – 2%NetCol5000-A042 Installation and Commissioning – 9%NetCol8000-C Installation and Commissioning – 3%NetCol8000-E220 Installation and Commissioning – 2%ECC800-Pro Introduction – 6%DCIM Management Tool Introduction – 6%DCIM Product Introduction – 8%
+
+Recertification Policy
+
+Certification
+
+HCIP-Data Center Facility Deployment
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification from the same technology track.
+
+Period of Invalidity
+
+Same as initial certification.

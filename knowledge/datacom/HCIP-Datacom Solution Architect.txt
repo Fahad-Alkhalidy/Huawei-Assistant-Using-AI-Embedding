@@ -1,0 +1,67 @@
+HCIP-Datacom Solution Architect
+
+Type
+
+ICT Infrastructure (Datacom)
+
+Capabilities to be Certified
+
+Passing the HCIP-Datacom Solution Architect V1.0 certification proves that you have systematically understood and mastered the technical principles and features of campus network, data center network, WAN interconnection network, and transport WAN solutions, and can use Huawei datacom network devices to design the solutions.
+
+Knowledge to Learn
+
+Routing and switching technologies and applications, WLAN technologies and applications, data center network technologies and applications, transport WAN technologies and applications, network reliability and traffic optimization technologies, cyber security technologies and applications, and enterprise network solution design.
+
+ObjectivesList enterprise network scenarios.Describe different types of network architectures and common technologies.Describe Huawei enterprise network solutions.Describe the defects of STP and the improvements made in RSTP.Describe the defects of RSTP/STP and the improvements made in MSTP.Describe the fundamentals and application scenarios of VLAN aggregation, MUX VLAN, and QinQ.Describe the fundamentals and application scenarios of Ethernet security technologies, including port isolation, port security, MAC address flapping prevention and detection, flow control, DHCP snooping, and IPSG.Understand the working principles of OSPF, IS-IS, and BGP.Understand how to control the forwarding paths of data packets.Understand how to accelerate network convergence.Understand the working principles of OSPFv3, IPv6 IS-IS, and BGP4+.Describe the evolution process of 802.11 standards.Describe the characteristics of Wi-Fi 7.Describe common WLAN networking modes and reliability networking solutions.Describe common user access security policies.Describe common access control technologies.Describe basic concepts of roaming.Describe the data forwarding path of STAs after roaming.Describe common roaming optimization technologies.Describe common RRM technologies, including radio calibration, band steering, and load balancing.Describe the basic concepts of network virtualization.Master the fundamentals and application scenarios of VXLAN and M-LAG.Describe the basic concepts of intelligent lossless technologies.Gain insights into the fundamentals and application scenarios of key lossless network technologies.Describe the basic concepts of value-added services of data centers.Understand the fundamentals and application scenarios of microsegmentation and service function chain (SFC).Master the fundamentals and application scenarios of multicast technologies.Describe the structure of a VPNv4 address.Understand how PEs distinguish VPN routes.Describe how SR-MPLS works.Describe how SRv6 works.Describe the categories and application scenarios of VPN technologies.Describe the working principles and application scenarios of GRE.Describe the working principles and application scenarios of IPsec.Describe the working principles and application scenarios of SSL VPN.Describe the QoS types.Describe the working principle of the QoS differentiated service (DiffServ) model.Describe the application scenarios of different QoS functions.Describe the advantages of network slicing.Understand the application scenarios of the network status detection tools.Be familiar with basic concepts and fundamentals of VRRP.Describe the VRRP active/standby switchover process.Describe the advantages of switch stacking/CSS.Describe the working principles and application scenarios of the NAT technology on firewalls.Describe the working principles and application scenarios of the high reliability technology on firewalls.Describe the working principles and application scenarios of traffic management on firewalls.Describe the working principles and application scenarios of the virtual system on firewalls.Describe the working principles and application scenarios of intelligent uplink selection on firewalls.Describe the working principles and application scenarios of load balancing on firewalls.Describe the principles and application scenarios of the network attack defense technology on firewalls.Describe the application scenarios and key technologies of Huawei CloudCampus Solution.Design the network architecture, underlay network, fabric, and overlay network for a virtualized campus network based on actual requirements.Design the access control, free mobility, WLAN, egress network, and network security of a virtualized campus network based on actual requirements.Describe typical networking solutions for small- and medium-sized campus networks.Design a small- and medium-sized cloud managed campus network solution based on actual requirements, including designing the networking, physical network, site deployment, basic network services, WLAN, and access control.Describe the challenges facing enterprise WAN interconnection.Describe the architecture of the Huawei SD-WAN Solution.Describe the Huawei SD-WAN networking design scheme.Describe the Huawei SD-WAN service design scheme.Describe the Huawei SD-WAN reliability design scheme.Understand the WLAN planning process.Understand requirements collection and site survey in WLAN planning.Understand device selection, coverage analysis, and capacity design in WLAN planning.Understand the channel planning, power supply cabling design, and AP installation mode design in WLAN planning.Be familiar with the architecture of Huawei's CloudFabric solution.Complete the underlay and overlay network design for a DCN based on actual requirements.Describe the multi-PoD and multi-site solutions of a DCN and their interconnection modes.Complete the high reliability, network security, and network management and O&M design for a DCN based on actual requirements.Describe the challenges faced by the enterprise transport WAN.Describe the basic functions of Huawei CloudWAN solution.Describe the basic design roadmap of the enterprise transport WAN.Describe the tunnel and VPN design roadmap of the enterprise transport WAN.Describe the SLA and reliability design roadmap of the enterprise transport WAN.Describe the optimization and O&M design roadmap of the enterprise transport WAN.
+
+Target AudienceThose who want to achieve HCIP-Datacom Solution ArchitectThose who want to be datacom senior engineer
+
+Prerequisites
+
+It is recommended that you learn HCIA-Datacom in advance
+
+Training Content
+
+Routing and Switching Technologies and ApplicationsEnterprise Network IntroductionEnterprise Network OverviewEnterprise Network Architecture and Key TechnologiesHuawei Enterprise Network SolutionsSwitching Technologies and ApplicationsSpanning Tree ProtocolsAdvanced VLAN TechnologiesEthernet Switching SecurityRouting Technologies and ApplicationsIPv4 Routing ProtocolsIPv4 Route Control and Traffic Forwarding ControlIPv6 Routing Protocols
+
+WLAN Technologies and ApplicationsIntroduction to 802.11 StandardsWLAN Networking ArchitecturesWLAN Reliability TechnologyUser Access and AuthenticationWLAN RoamingWLAN RRM
+
+Data Center Network Technologies and ApplicationsNetwork Virtualization TechnologiesIntelligent Lossless TechnologiesValue-added Services of Data CentersMulticast Technologies
+
+Transport WAN Technologies and ApplicationsMPLS VPNSR-MPLSSRv6VPN Technologies and ApplicationsOverview of VPN TechnologiesFundamentals and Applications of GREFundamentals and Applications of IPsecFundamentals and Applications of SSL VPN
+
+Network Reliability and Traffic Optimization TechnologiesNetwork Traffic Optimization Technologies and ApplicationsQoSNetwork SlicingNetwork Reliability Technologies and ApplicationsNetwork Status Detection TechnologiesNetwork Reliability Technologies
+
+Cyber Security Technologies and ApplicationsNAT TechnologyHigh ReliabilityTraffic ManagementVirtual SystemIntelligent Uplink SelectionLoad BalancingAttack Defense
+
+Enterprise Network Solution DesignCampus Network DesignHuawei CloudCampus Solution OverviewLarge- and Medium-Sized Virtualized Campus Network DesignSmall- and Medium-Sized Cloud Managed Campus Network DesignWAN Interconnection Network DesignDevelopment Trends and Challenges Facing Enterprise WAN InterconnectionOverview of the Huawei SD-WAN SolutionNetworking Design for the Huawei SD-WAN SolutionService Design for the Huawei SD-WAN SolutionReliability Design for the Huawei SD-WAN SolutionWLAN PlanningWLAN Planning OverviewWLAN Planning ProcessWLAN Planning CaseData Center Network DesignCloudFabric Solution and DCN OverviewNetwork Architecture Design and Data PlanningUnderlay Network DesignOverlay Network DesignMulti-PoD and Multi-Site DesignNetwork Security DesignNetwork Management and O&M DesignTransport WAN DesignCurrent Situation and Challenges of the Enterprise Transport WANHuawei CloudWAN Solution OverviewBasic Design for the Enterprise Transport WANTunnel and VPN Design for the Enterprise Transport WANSLA and Reliability Design for the Enterprise Transport WANOptimization and O&M Design for the Enterprise Transport WAN
+
+Exam
+
+HCIP-Datacom Solution ArchitectExam Code: H12-822Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or False, Short Response Item, Drag and Drop ItemTime: 90 minutesPassing Score / Total Score: 600 / 1000Exam Cost: 300 USDLanguage: English
+
+Knowledge Content Distribution
+
+HCIP-Datacom Solution ArchitectEnterprise Network Introduction – 3%Routing and Switching Technologies and Applications – 22%WLAN Technologies and Applications – 10%Data Center Network Technologies and Applications – 10%Transport WAN Technologies and Applications – 10%Network Reliability and Traffic Optimization Technologies – 15%Cyber Security Technologies and Applications – 10%Enterprise Network Solution Design – 20%
+
+Recertification Policy
+
+Certification
+
+HCIP-Datacom Solution Architect
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher level certification which is from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

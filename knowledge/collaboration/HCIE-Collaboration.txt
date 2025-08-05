@@ -1,0 +1,75 @@
+HCIE-Collaboration
+
+Type
+
+ICT Infrastructure (Collaboration)
+
+Capabilities to be Certified
+
+After passing the HCIE‑Collaboration V2.5 certification, you will master audio and video technical principles, H.323 and SIP protocols, high-reliability solutions, public/private network traversal, system convergence, network planning and design, and troubleshooting. You’ll be able to plan, design, operate, and maintain Huawei video conferencing systems, and work as a technical expert or system architect in the collaboration field.
+
+Knowledge to Learn
+
+Intelligent collaboration solutions, audio/video principles, SIP and H.323, network traversal and convergence strategies, networking design, O&M, and fault troubleshooting.
+
+ObjectivesBe familiar with foundational knowledge of collaborationUnderstand the architecture and features of Huawei collaboration solutionsUnderstand SIP and H.323 protocols and service flowsUnderstand endpoint devices (Box, Bar series) and IdeaHub features, deployment, and maintenanceUnderstand MCU, SMC, CloudMCU, and RSE8800(A) platformsLearn system-level configuration, management, and troubleshooting of video conferencing solutionsBe able to plan reliable, scalable video conferencing networksUnderstand cross-network and cross-vendor interoperabilityBe able to analyze logs and diagnose complex system faults
+
+Target AudienceProfessionals aiming to become collaboration solution expertsCandidates seeking the HCIE‑Collaboration certificate
+
+PrerequisitesBasic understanding of video conferencing, networking, and securitySolid knowledge of all content covered in HCIP‑Collaboration
+
+Training Content
+
+Intelligent Collaboration Solution OverviewCollaboration product and architecture overviewCollaboration solution features and real-world industry applications
+
+Audio and Video PrinciplesBasic principles of video communicationVoice processing in video conferencesImage processing in video conferencesGeneral design principles for video conferencing systems
+
+SIP PrinciplesData forwarding in video communicationTCP/UDP, RTP/RTCP protocol basicsSIP protocol structure and service flowUse of Wireshark for packet capture and analysis
+
+H.323 PrinciplesH.323 architecture and call setup processTypical H.323 conference service flows
+
+Public-Private Network Traversal SolutionBackground and basic conceptsTraversal mechanisms and principlesNetworking solutions and deployment scenarios
+
+System Convergence SolutionVDC visual dispatch architectureMulti-level and single-level controlCross-vendor interoperability strategies
+
+Reliability SolutionConcepts of reliability in collaboration systemsHuawei's approach to system redundancy and failover
+
+Networking Planning and DesignTypical enterprise and campus deployment modelsPlanning methodology and design best practices
+
+System Operations and Maintenance (O&M)Management of users, endpoints, and conference roomsMaintenance, monitoring, and security controlsOverview of intelligent O&M using IdeaManager
+
+TroubleshootingLog analysis (e.g., from endpoints and MCU)Diagnosis of typical MCU issuesEnd-to-end troubleshooting strategies and emergency recovery
+
+Exam
+
+HCIE‑Collaboration (Written)Exam Code: H11‑879Exam Type: WrittenFormat: Single-answer, Multiple-answer, True/False, Short ResponseDuration: 90 minutesPassing Score: 600 / 1000Cost: 300 USDLanguage: English
+
+HCIE‑Collaboration (Lab)Exam Code: H11‑886Exam Type: LabFormat: Hands-on configuration and essayDuration: 480 minutesPassing Score: 80 / 100Cost: 1200 USDLanguage: English
+
+Knowledge Content Distribution
+
+HCIE‑Collaboration (Written)Intelligent collaboration solution overview – 5%Audio/video technical principles – 5%SIP principles – 15%H.323 principles – 10%Public/private network traversal – 15%System convergence solution – 10%Reliability solution – 10%Networking planning and design – 5%O&M – 10%Intelligent O&M – 10%Troubleshooting – 5%
+
+HCIE‑Collaboration (Lab)SIP principles – 5%H.323 principles – 5%Public/private network traversal – 15%System convergence solution – 15%Reliability solution – 15%Networking planning and design – 38%O&M – 7%
+
+Recertification Policy
+
+Certification
+
+HCIE-Collaboration
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Pass any current HCIE-Collaboration examPass an exam from the same technical track at the same or higher level
+
+Period of Invalidity
+
+Same as initial certification

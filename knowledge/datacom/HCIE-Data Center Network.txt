@@ -1,0 +1,57 @@
+HCIE-Data Center Network
+
+Type
+
+ICT Infrastructure (Datacom)
+
+Capabilities to be Certified
+
+Passing the HCIE-Data Center Network certification will indicate that you have a solid theoretical knowledge of data center network scenario and are able to use Huawei data center network products and solutions to plan, deploy, maintain, and optimize data center networks. You will be competent for the expert positions of data center network scenario (including account managers, project managers, pre-sales experts, post-sales experts, network architects, etc.)
+
+Knowledge to Learn
+
+Data center network basic knowledge, advanced technologies and applications of data center networks, Huawei CloudFabric solution, data center network planning and design, and data center network O&M
+
+ObjectivesDescribe the constitution and development of DCs.Describe the development phases of data center network definitions.Describe the key IT technologies of DCs.Illustrate the key network technologies of DCs.Describe the development trend and challenges of DCNs.Describe the architecture and core components of the CloudFabric Solution.Describe the application scenarios of the CloudFabric Solution.Describe typical functions and features of the CloudFabric Solution.Describe the network requirements of DCs and how VXLAN meets these requirements.Describe basic concepts of VXLAN.Describe fundamentals of VXLAN.Understand concepts and fundamentals of EVPN.Understand the combination of EVPN and VXLAN technologies.Describe fundamentals of multicast VXLAN.Describe the application of VXLAN in Data Center Interconnect (DCI).Describe the definition of microsegmentation.Distinguish between traditional network segmentation and microsegmentation.Describe the forwarding model of microsegmentation.Describe the working mechanism of microsegmentation.Understand the deployment of microsegmentation in typical scenarios.Describe the principles of SFC.Describe the background of server virtualization.Describe the applications of network virtualization in DCs.Describe the technical fundamentals of network virtualization in server virtualization.Describe the OpenStack architecture.Describe key components of OpenStack.Describe the functions and architecture of OpenStack Neutron.Describe OpenStack applications.Describe basic concepts of microservices.Describe the basic concepts of the Docker.Describe the K8s component architecture and three typical networking solutions.Know development trend of the computing industry and basic concepts of parallel computing.Know concepts, scenarios, cluster architecture, key components, and working principles of HPC.Know concepts and scenarios of AI and deep learning.Know basic process of distributed training.Understand development of storage technologies.Understand enterprise storage classification and product structure.Understand storage network protocols.Know storage media.Describe the development trend of intelligent and lossless network technologies.Describe the working principles of key technologies of the intelligent and lossless network.Describe the Typical Scenarios of Intelligent Lossless Networks.Distinguish the requirements and characteristics of the CloudFabric Solution in computing and hosting scenarios.Describe the architecture of the CloudFabric Solution in computing and hosting scenarios.Describe the service provisioning process of the CloudFabric Solution in computing and hosting scenarios.Describe the architecture, key components, and functions of the CloudFabric cloud-network integration solution.Describe the architecture, key components, and functions of the CloudFabric container network solution.Describe the service process for interconnection between the CloudFabric Solution and OpenStack cloud platform.Describe the service process for interconnection between the CloudFabric Solution and Kubernetes container platform.Describe the deployment process of the CloudFabric cloud-network integration solution in the OpenStack scenario.Describe the common service models of the CloudFabric cloud-network integration solution in the OpenStack scenario.Deploy tenant network services.Describe the working principle of secondary service restoration.Manage computing resources of a DC.Describe the application scenarios, networking solutions and principles of the Multi-PoD solution.Describe the application scenarios, networking solutions and principles of the Multi-Site solution.Describe the application scenarios, networking solutions and principles of the hybrid cloud solution.Describe the basic concepts, typical application scenarios, and network challenges of diversified computing.Select a proper lossless network solution based on the actual diversified computing scenario.Complete lossless network planning and design for supercomputing and AI computing centers based on actual requirements.Understand the development trend and classification of enterprise storage.Understand centralized storage and distributed storage architectures and their typical networks.Understand the CloudFabric intelligent and lossless storage network solution.Describe the architecture of the data center network (DCN) security solution.Describe the deployment architecture of value-added service (VAS) devices.Describe the VAS orchestration principle and traffic model.Be familiar with the architecture of Huawei's CloudFabric solution.Complete the underlay and overlay network design for a DCN based on actual requirements.Describe the multi-PoD and multi-site solutions of a DCN and their interconnection modes.Complete the high reliability, network security, and network management and O&M design for a DCN based on actual requirements.Describe how to apply for, plan, and allocate IPv6 addresses on DCNs.Describe the working principles of key IPv6 evolution technologies for DCNs.Describe the IPv6 evolution solution for DCNs.Describe the process and content of IPv6 service rollout on DCNs.Describe pain points of the traditional DCN O&M and the Reason Why Intelligent O&M Is Required.Describe O&M functions and features of iMaster NCE-Fabric.Describe application scenarios of iMaster NCE-FabricInsight.Describe main functions and features of iMaster NCE-FabricInsight.Describe typical O&M modes of a DCN.Describe the troubleshooting process of DCN faults.Describe the network service open programmability evolution, technologies, capabilities, features, and application scenarios.Describe the overall CloudFabric network service open programmability solution.Describe the open programmability of iMaster NCE-Fabric for northbound processes.Describe the open programmability of iMaster NCE-Fabric for heterogeneous network management and control.
+
+Target AudiencePersonnel who wants to become data center network expertsPersonnel who wants to achieve HCIE-Data Center Network certification
+
+PrerequisitesBe familiar with common operations on Huawei network devices.Knowledge skills described in the HCIP-Datacom-Core Technology course.
+
+Training ContentData Center Network Basic KnowledgeAdvanced Technologies and Applications of Data Center NetworksHuawei CloudFabric SolutionData Center Network Planning and DesignData Center Network O&M
+
+Exam
+
+WrittenExam Code: H12-921Type: Written examinationFormat: Single-answer, Multiple-answer, True/False, Short Response, Drag and DropDuration: 90 minPassing Score: 600/1000Cost: 300 USDLanguages: Chinese, English
+
+LabExam Code: H12-922Type: Lab (Operation + Essay)Duration: 480 minPassing Score: 80/100Cost: 1200 USDLanguages: Chinese, English
+
+Knowledge Content Distribution
+
+Written ExamData Center Network Basic Knowledge – 15%Advanced Technologies and Applications – 31%Huawei CloudFabric Solution – 30%Network Planning and Design – 8%Network O&M – 16%
+
+Lab ExamData Center Network Basic Knowledge – 15%Advanced Technologies and Applications – 20%Huawei CloudFabric Solution – 40%Network Planning and Design – 15%Network O&M – 10%
+
+Recertification Policy
+
+Certification
+
+HCIE-Data Center Network
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Pass any current exam of the same certification.  
+(2) Pass any same/higher-level certification exam within the same technology track.
+
+Period of Invalidity
+
+Same as initial certification.

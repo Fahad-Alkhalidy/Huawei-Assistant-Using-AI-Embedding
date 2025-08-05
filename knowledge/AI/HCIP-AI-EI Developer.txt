@@ -1,0 +1,60 @@
+HCIP-AI-EI Developer
+
+Type
+
+Basic Software & Hardware (AI)
+
+Capabilities to be Certified
+
+With the HCIP-AI-EI Developer V2.5 certification, you will: master basic knowledge of neural networks, image processing theories, speech processing theories, natural language processing theories, and large model deep learning algorithms; be able to use general open-source frameworks and the Huawei Cloud ModelArts platform to design and develop AI products in areas such as image processing, speech processing, and natural language processing; and be well-equipped for positions such as senior AI development engineer, image processing development engineer, speech processing development engineer, and natural language processing development engineer
+
+Knowledge to Learn
+
+Neural network basics, image processing theories and applications, speech processing theories and practices, natural language processing theories and applications, AI development trends, ModelArts overview, and large model deep learning basics
+
+ObjectivesMaster the basic theories of neural networksMaster the image processing theories and applicationsGain programming and cloud application capabilities for image processingMaster the theory and application of speech processingMaster the theories and applications of natural language processingUnderstand the AI development trendMaster the basic knowledge of deep learning algorithms for large modelsUnderstand the ModelArts one-stop development platform
+
+Target AudienceThose who desire to become senior Enterprise-AI development engineersThose who want to obtain the HCIP-AI-EI Developer certificate
+
+PrerequisitesBe familiar with basic operations on Linux operating systemsHave a good command of Further Mathematics basicsHave basic Python programming knowledge
+
+Training Content
+
+HCIP-AI-EI Developer TrainingNeural Network BasicsDeep Learning BasicsArtificial Neural NetworkNeural Network TrainingArchitecture Design of Neural NetworksImage Processing Theory and ApplicationsComputer Vision OverviewDigital Image Processing FundamentalsImage Preprocessing TechnologyBasic Tasks of Image ProcessingFeature Extraction and Traditional Image Processing AlgorithmsConvolutional Neural Networks and Image RecognitionGenerative Adversarial Networks and Image GenerationSpeech Processing Theory and PracticeIntroduction to Speech ProcessingSpeech RecognitionText to SpeechTraditional Acoustic Model GMM-HMMHybrid Model DNN-HMMAdvanced Speech ModelsNatural Language Processing Theory and ApplicationIntroduction to NLPKey Tasks and Methods of NLPNLP Application SystemIntroduction to the Development Trends of AIDevelopment and Trends of AIModelArts OverviewModelArts OverviewModelArts FunctionsModelArts Use CasesBasics of the Deep Learning Algorithms for Large ModelsAttention MechanismTransformer DescriptionAlgorithm Innovation and Engineering Optimization of DeepSeek
+
+Exam
+
+HCIP-AI-EI Developer  
+Exam Code: H13-321  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item  
+Time: 90min  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 300USD  
+Language: English
+
+Knowledge Content DistributionNeural network basics 7%Image processing theory and application 28%Speech processing theory and application 21%Natural language processing theory and application 22%Introduction to the development trends of AI 4%ModelArts overview 6%Basics of the deep learning algorithms for large models 12%
+
+Recertification Policy
+
+Certification
+
+HCIP-AI-EI Developer
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Examinees can update the validity period of the certificate in any of the following ways before the certificate expires:  
+(1) Passing any exam of this certification  
+(2) Passing an exam in any technical field at the same or a higher level
+
+Period of Invalidity
+
+Same as initial certification.

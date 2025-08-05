@@ -1,0 +1,57 @@
+HCIE-openGauss
+
+Type
+
+Basic Software & Hardware (OpenGauss)
+
+Capabilities to be Certified
+
+Master knowledge of storage management, transaction management and lock mechanism, log management, SQL engine, and advanced database features. Be able to discover and optimize slow SQL statements, optimize database systems and OSs, design high-performance database objects, and troubleshoot common problems.
+
+Knowledge to Learn
+
+openGauss product architectures, database object development and design, permission management, openGauss security management, complex SQL compilation, and Linux OS O&M.
+
+ObjectivesDiscover and optimize slow SQL statements.Configure performance-related parameters to optimize OSs and database systems.Understand the storage structure and working principles of underlying data of a database.Understand the working principles and setting methods of transactions and logs.Design database objects with high performance and troubleshoot common problems.
+
+Target AudienceThose aspiring to become database architects and expertsThose aspiring to obtain the HCIE-openGauss V1.0 certificationThose who are interested in databases
+
+PrerequisitesKnowledge of openGaussBasic knowledge of Linux OSBasic knowledge of shell commandsSkill in compiling complex SQL statements
+
+Training Content
+
+HCIE-openGauss V1.0 TrainingTransaction management and lock mechanismConcurrency control managementTransaction statusMVCC mechanismSubtransactionsLock mechanismStorage managementStorage enginesData storage structuresHigh concurrency in thread poolsLog managementWAL mechanismCheckpoint mechanismRestoration using redo logsRun logs and performance logsLog checking and clearanceSQL engineCore operatorsQuery execution processExecution plansDatabase optimizationOverall guideline and process of performance optimizationOptimizing the overall database performanceSQL optimizationBackup, restoration, and disaster recoveryBackup and restoration overviewLogical backup and restorationPhysical backup and restorationFlashbackTwo-City three-DC DRAdvanced featuresNUMA architecture optimization and resource poolingAI capabilitiesFusion storage engineDCFFully-encrypted databaseMOT managementTroubleshootingEssential troubleshooting methodsTypical troubleshooting cases
+
+Exam
+
+HCIE-openGauss (Written)Exam Code: H14-331Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop ItemTime: 90minPassing Score/Total Score: 600/1000Exam Cost: 300USDLanguage: English
+
+HCIE-openGauss (Lab)Exam Code: H14-332Exam Type: ExperimentsExam Format: Operation, Essay ItemTime: 480minPassing Score/Total Score: 80/100Exam Cost: 8000CNYLanguage: English
+
+Knowledge Content Distribution
+
+HCIE-openGauss (Written)Transaction management and lock mechanism - 14%Storage and log management - 13%SQL engine - 10%Database object management and SQL syntax - 5%Backup, restoration, and disaster recovery - 5%Database optimization - 20%Advanced openGauss features - 13%Routine database management - 4%Database security management - 6%Troubleshooting - 10%
+
+HCIE-openGauss (Lab)Transaction management and lock mechanism - 7%Storage and log management - 6%SQL engine - 5%Database object management and SQL syntax - 20%Backup, restoration, and disaster recovery - 6%Database optimization - 21%Advanced openGauss features - 7%Routine database management - 15%Database security management - 8%Troubleshooting - 5%
+
+Recertification Policy
+
+Certification
+
+HCIE-openGauss
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Examinees can update the validity period of the certificate in any of the following ways before the certificate expires:Passing any exam of this certificationPassing an exam in any technical field at the same or a higher level
+
+Period of Invalidity
+
+Same as initial certification.

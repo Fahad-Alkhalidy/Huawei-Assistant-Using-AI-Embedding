@@ -1,0 +1,52 @@
+HCIP-Cloud Service Solutions Architect
+
+Type
+
+Cloud Platform & Cloud Services (Cloud Service)
+
+Capabilities to be CertifiedAbility to migrate traditional enterprise application architectures and cloud-native architectures to the cloud
+
+Knowledge to LearnBasic knowledge of IT-related technologiesBasic knowledge of public cloud servicesBasic knowledge of computing, network, storage, and databaseBasic knowledge of the Linux operating system
+
+ObjectivesUnderstand architecture evolution, requirements and principles of designing cloud-based architecturesSelect compute instances for building an elastic compute architecture, such as compute, image, and auto scaling servicesUnderstand VPC, a basic network service, and network services for cloud interconnectionPlan cloud network access, including services related to cloud network accessUnderstand features and planning of common storage services on Huawei CloudDesign cloud data backup solution, storage DR solution, and high-reliability storage architectureCompare and select common database services, and plan database migrationDesign cloud security systems, and understand functions and application scenarios of cloud security servicesUnderstand basics of open source container technologies (Docker and K8s) and Huawei Cloud container servicesUnderstand serverless architecture and Huawei Cloud FunctionGraphUnderstand evolution of microservice architectures and features of mainstream microservice frameworksUnderstand features and solutions of Huawei Cloud microservicesUnderstand functions and features of open source and Huawei Cloud O&M toolsUnderstand Huawei Cloud innovations and solutions, such as big data, AI, and IoT
+
+Target AudienceThose who want to become Huawei-certified cloud service architectsThose who want to obtain the HCIP-Cloud Service Solutions Architect V3.0 certification
+
+PrerequisitesBasic knowledge of IT technologies and networkHCIA-Cloud Service certification is recommended
+
+Training ContentEnterprise Application Architectures and Cloud TechnologiesBackground of Enterprise Cloud MigrationPrinciples of Enterprise Application Architecture DesignCloud-based Architecture Design Case StudyCompute Service PlanningCompute Service OverviewCompute Service PlanningIMS PlanningAS PlanningNetwork Service PlanningNetwork Service OverviewNetwork PlanningNetwork AccessStorage Service PlanningStorage Service OverviewStorage Service PlanningContent Delivery NetworkBackup Solution PlanningDR Solution PlanningDatabase Service PlanningIntroduction to Database ServicesCloud Database ServicesDatabase MigrationCloud Security Service PlanningCloud Security Design and Huawei Cloud Security SystemWorkload SecurityNetwork SecurityApplication SecurityData SecuritySecurity ManagementCloud Native TechnologiesCloud Native Concepts and BackgroundOpen Source Container TechnologiesHuawei Cloud Container ServicesServerless OverviewCloud Native Application ArchitectureCloud Native Applications and MicroservicesMainstream Frameworks of Cloud Native ApplicationsHuawei Cloud Native Application SolutionsHuawei Cloud O&M SolutionCloud O&M OverviewOpen Source O&M ToolsHuawei Cloud O&M ServicesHuawei Cloud Innovations and SolutionsOverview of Huawei Cloud Innovations and SolutionsHuawei Cloud EI SolutionHuawei Cloud IoT SolutionHuawei Cloud Application and Data Solution
+
+Exam
+
+HCIP-Cloud Service Solutions Architect  
+Exam Code: H13-821  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or False, Short Response Item, Drag and Drop Item  
+Time: 90 min  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 300 USD  
+Language: English
+
+Knowledge Content DistributionEnterprise Application Architectures and Cloud Technologies – 5%Cloud-based Architecture Design of Conventional Applications – 50%Cloud Native Application Architecture Design – 30%Huawei Cloud O&M Solution – 10%Huawei Cloud Innovations and Solutions – 5%
+
+Recertification Policy
+
+Certification
+
+HCIP-Cloud Service Solutions Architect
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certificationParticipate and pass any exam of the same or higher level certification from the same technology track
+
+Period of Invalidity
+
+Same as initial certification

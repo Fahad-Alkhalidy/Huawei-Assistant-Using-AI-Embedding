@@ -1,0 +1,75 @@
+HCIE-Cloud Computing
+
+Type
+
+Cloud Platform & Cloud Services (Cloud Computing)
+
+Capabilities to be Certified
+
+Passing the certification means that you are capable of planning and designing cloud computing architectures, deploying and migrating services to the cloud. The certificate is also proof of your qualification for positions such as cloud infrastructure expert and cloud software architecture expert.
+
+Knowledge to LearnHCIP-Cloud Computing knowledgeBasic network knowledgeBasic storage knowledgeBasic knowledge of virtualizationBasic knowledge of Linux
+
+ObjectivesHave general knowledge of the overall architecture of HUAWEI CLOUD Stack and typical application scenarios of HUAWEI CLOUD Stack IaaS and high-level services.Understand the HUAWEI CLOUD Stack deployment solution and network traffic model, and master the planning, design, and deployment capabilities of HUAWEI CLOUD Stack.Have a good command of HUAWEI CLOUD Stack troubleshooting, resource management, and upgrade capabilities.Master the capability of migrating services to the cloud.Have a good command of open-source container and container orchestration technologies and be able to apply container technologies in HUAWEI CLOUD Stack.
+
+Target AudiencePersonnel who want to become cloud computing expertsPersonnel who want to obtain HCIE-Cloud Computing certificationPersonnel who want to have HUAWEI CLOUD Stack planning and designing capabilitiesPersonnel who want to have HUAWEI CLOUD Stack installation and deployment capabilities
+
+PrerequisitesHCIP-Cloud Computing knowledgeKnow server basal knowledge and applicationKnow storage basal knowledge and applicationKnow network basal knowledge and application
+
+Training Content
+
+HCIE-Cloud Computing V3.0 TrainingHUAWEI CLOUD Stack Solution IntroductionCloud Computing Development BackgroundHUAWEI CLOUD Stack FeaturesHUAWEI CLOUD Stack Planning and DesignHUAWEI CLOUD Stack Delivery OverviewRequirement Survey and Resource PlanningHUAWEI CLOUD Stack Standard NetworkingHUAWEI CLOUD Stack Standard ConfigurationHUAWEI CLOUD Stack Network Traffic DetailsVXLAN OverviewInternal Network Structure of HUAWEI CLOUD Stack NodesTraffic Direction of HUAWEI CLOUD Stack Network ServicesHUAWEI CLOUD Stack LLD DesignDesign OverviewOverall Architecture DesignNetwork DesignDeployment DesignResource DesignService DesignIntroduction to HUAWEI CLOUD Stack DeployIntroduction to HUAWEI CLOUD Stack DeployFunctions of HUAWEI CLOUD Stack DeployHUAWEI CLOUD Stack Deployment PracticeHUAWEI CLOUD Stack Deployment PracticeCapacity Expansion of HUAWEI CLOUD Stack Resources and ServicesIntroduction to HUAWEI CLOUD Stack Capacity Expansion ProjectExpanding the Management Scale of HUAWEI CLOUD StackCapacity Expansion and Reduction of HUAWEI CLOUD Stack Computing ResourcesHUAWEI CLOUD Stack Cloud Service Capacity ExpansionHUAWEI CLOUD Stack TroubleshootingGeneral Troubleshooting PrinciplesCommon HUAWEI CLOUD Stack TroubleshootingHUAWEI CLOUD Stack Version UpgradeHUAWEI CLOUD Stack Version UpgradeProcedure for Upgrading HUAWEI CLOUD Stack VersionsHUAWEI CLOUD Stack Contingency PlanEmergency Plan IntroductionIaaS Contingency PlanService Migration to the CloudOverview of Huawei Service Migration SolutionIntroduction to Rainbow Migration ToolHuawei Service Migration CasesIntroduction to HUAWEI CLOUD Stack DR ServiceDR Solution OverviewIntroduction to the Backup SolutionDR Solution IntroductionDR Solution ArchitectureManagement Component DR SolutionIntroduction to Advanced Cloud Service DRIntroduction to Cloud NativeIntroduction to Cloud NativeIntroduction to Cloud Native Services in HUAWEI CLOUD StackContainer DetailsWhat’s the ContainerHow the Container WorksContainer ManagementContainer NetworkContainer StorageContainer ImageDockerfile DetailsContainer OrchestrationProblems Faced by a Single-Node ContainerIntroduction to KubernetesKubernetes InstallationBasic Operations on Kubernetes ObjectsKubernetes YAML File Writing BasicsKubernetes Common WorkloadsIntroduction to Kubernetes SchedulerIntroduction to HelmIntroduction to the CCECCE Technical ArchitectureCCE Feature IntroductionIntroduction to CCE ManagementHUAWEI CLOUD Stack Security SolutionIntroduction to Cloud Computing SecurityHUAWEI CLOUD Stack Security Solution OverviewHUAWEI CLOUD Stack Network SecurityNetwork Security OverviewNetwork Security Services
+
+Exam
+
+HCIE-Cloud Computing (Written)
+
+Exam Code: H13-531  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop Item  
+Time: 90min  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 300USD  
+Language: Chinese, English
+
+HCIE-Cloud Computing (Lab)
+
+Exam Code: H13-536  
+Exam Type: Experiments  
+Exam Format: Operation, Essay Item  
+Time: 480min  
+Passing Score/Total Score: 80/100  
+Exam Cost: 1200USD  
+Language: Chinese, English
+
+Knowledge Content Distribution
+
+HCIE-Cloud Computing (Written)
+
+The HCIE-Cloud Computing V3.0 exam bases on knowledge about the overall architecture of cloud computing and high-level services, including HUAWEI CLOUD Stack designing and planning, deployment and installation, operation and maintenance, service migration, container orchestration and container service, DR & backup service, and security service.HUAWEI CLOUD Stack Solution 3%HUAWEI CLOUD Stack Planning and Design 12%HUAWEI CLOUD Stack Deployment and Installation 7%HUAWEI CLOUD Stack Resource and Service Scale-out 7%HUAWEI CLOUD Stack Maintenance 7%Huawei Cloud Migration Solution 7%HUAWEI CLOUD Stack DR and Backup Service Introduction 3%Container And Container Orchestration 33%HUAWEI CLOUD Stack Security Service Instruction 21%
+
+HCIE-Cloud Computing (Lab)HUAWEI CLOUD Stack Planning and Design 10%HUAWEI CLOUD Stack Deployment and Installation 10%HUAWEI CLOUD Stack Resource and Service Scale-out 5%HUAWEI CLOUD Stack Maintenance 5%Huawei Cloud Migration Solution 15%HUAWEI CLOUD Stack DR and Backup Service Introduction 10%Container And Container Orchestration 30%HUAWEI CLOUD Stack Security Service Instruction 15%
+
+Recertification Policy
+
+Certification
+
+HCIE-Cloud Computing
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification
+
+Period of Invalidity
+
+Same as initial certification.

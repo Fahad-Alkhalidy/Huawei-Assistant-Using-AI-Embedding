@@ -1,0 +1,47 @@
+HCIP-Datacom-Carrier Cloud Bearer
+
+Type
+
+ICT Infrastructure (Datacom)
+
+Capabilities to be Certified
+
+Have the advanced knowledge of constructing and maintaining Cloud bearer networks and guarantee provincial core networks.
+
+Knowledge to Learn
+
+Planning, building, maintaining, and optimizing networks in the DCN and DCI domains in the Cloud Bearer network scenario with Huawei Datacom devices. In addition, you are able to design solutions with high security, availability and reliability for provincial core networks.
+
+Exam
+
+HCIP-Datacom-Carrier Core TechnologyExam Code: H35-821Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or falseTime: 90minPassing Score/Total Score: 600/1000Exam Cost: 300USDLanguage: Chinese, English
+
+HCIP-Datacom-Carrier Cloud BearerExam Code: H35-823Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or falseTime: 90minPassing Score/Total Score: 600/1000Exam Cost: 180USDLanguage: Chinese, English
+
+Knowledge Content Distribution
+
+HCIP-Datacom-Carrier Core TechnologyCarrier network management – 2%Ethernet switching technologies – 7%Advanced IP routing technologies – 27%Key IPv6 technologies – 8%VPN technologies – 25%Tunneling technologies – 3%Reliability technologies – 7%Multicast technologies – 7%QoS technologies – 7%Carrier network scenarios – 7%
+
+HCIP-Datacom-Carrier Cloud BearerIntroduction to the Telco Cloud Bearer Network – 14%SDN Overview and Protocol Introduction – 16%Introduction to Cloud Platform Technologies – 15%Key Network Technologies – 28%Firewall Technologies – 27%
+
+Recertification Policy
+
+Certification
+
+HCIP-Datacom-Carrier Cloud Bearer
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher level certification from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

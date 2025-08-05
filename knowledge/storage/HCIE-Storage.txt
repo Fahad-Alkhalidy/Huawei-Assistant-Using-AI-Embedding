@@ -1,0 +1,51 @@
+HCIE-Storage
+
+Type
+
+ICT Infrastructure (Storage)
+
+Capabilities to be Certified
+
+Have a good command of key technical principles, planning and design processes, deployment implementation methods and tools, advanced O&M management, and troubleshooting of typical storage solutions, such as storage data backup and storage data migration; are able to design, manage, build and develop high availability storage solutions; which makes you competent to be a storage solution expert, storage architect and other positions.
+
+Knowledge to Learn
+
+The HCIE-Storage certification courses include knowledge about Data Storage Technologies, Data Protection Solutions, Data Migration Solutions, Data Storage Management and O&M.
+
+ObjectivesUnderstand the positioning, software and hardware architectures, key features, and typical application scenarios of Huawei storage products.Understand the documentation system and learning path of Huawei storage.Get familiar with data protection basics.Understand backup solutions.Understand the active-passive, active-active, and geo-redundant disaster recovery solutions.Get familiar with the concepts, contents, and processes of storage planning and design.Understand the overview of data migration.Describe the technical principles of various data migration solutions.Understand Huawei data migration solution.Describe the data migration solution planning and design.Have a good command of the operations of Huawei storage O&M tools.Understand the contents and process of storage system O&M and management.Have a good command of storage system troubleshooting methodologies.
+
+Target AudienceThose who want to become experts in the storage industry and those who want to obtain the HCIE-Storage certification, such as data center storage system architects, ICT practitioners, and Huawei channel engineers.
+
+PrerequisitesMaster the knowledge and skills of HCIA and HCIP in the storage domain.At least five years of related working experience is recommended.
+
+Training ContentFlash Storage Technology PresentationProduct IntroductionSoftware TechnologiesFlash Storage FeaturesTypical Application ScenariosData Protection Product Technology PresentationOceanProtect Backup StorageData Protection ApplianceOceanStor BCManagerScale-Out Storage Technology PresentationProduct IntroductionKey TechnologiesKey FeaturesHyper-Converged Infrastructure Technology PresentationHyper-Converged Infrastructure OverviewFusionCube Product IntroductionFusionCube Key ComponentsData Center SolutionsEnterprise Branch SolutionsStorage Learning PathsStorage DocumentationStorage ToolsLearning PathsData Protection SolutionData Protection BasicsOverview of Data ProtectionDisaster Recovery BasicsBackup BasicsBackup SolutionsSolution OverviewSolution ArchitectureKey TechnologiesActive-Passive DR SolutionSolution OverviewSolution ArchitectureKey TechnologiesActive-Active DR SolutionSolution OverviewSolution ArchitectureKey TechnologiesGeo-Redundant 3DC DR SolutionSolution OverviewGeo-Redundant DR Networking SchemesGeo-Redundant DR TechnologiesDR ManagementData Protection Solution Planning and DesignPlanning and Design OverviewStorage Planning and Design ToolsData Protection SolutionsBackup Solution Planning And DesignDR Solution Planning and DesignData Migration SolutionData Migration BasicsData Migration OverviewIntroduction to Data Migration TechnologiesMigration Solution Planning and DesignIntroduction to the Data Migration SolutionPlanning and Implementation of the Data Migration SolutionData Storage Management and O&MHuawei Data Management SystemDevelopment Trend of Data ManagementHuawei Data Management SystemData Management and Operation ProductsData Storage Management and O&M PracticesStorage System Operation ManagementIntroduction to Intelligent Storage O&MDME Storage Deployment and ConfigurationStorage System TroubleshootingFault OverviewTroubleshooting PreparationsCase Analysis
+
+Exam
+
+HCIE-Storage (Written)Exam Code: H13-629Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop ItemTime: 90 minutesPassing Score / Total Score: 600 / 1000Exam Cost: 300 USDLanguage: Chinese, English
+
+HCIE-Storage (Lab)Exam Code: H13-636Exam Type: ExperimentsExam Format: Operation, Essay ItemTime: 480 minutesPassing Score / Total Score: 80 / 100Exam Cost: 8000 CNYLanguage: Chinese, English
+
+Knowledge Content DistributionData Storage Technologies – 20%Data Protection Solution – 50%Data Migration Solution – 10%Data Storage Management and O&M – 20%
+
+Recertification Policy
+
+Certification
+
+HCIE-Storage
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher-level certification within the same technology track.
+
+Period of Invalidity
+
+Same as initial certification.

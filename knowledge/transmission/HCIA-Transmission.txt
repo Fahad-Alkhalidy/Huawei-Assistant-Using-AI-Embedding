@@ -1,0 +1,88 @@
+HCIA-Transmission
+
+Type
+
+ICT Infrastructure (transmission)
+
+Capabilities to be Certified
+
+Master the basic knowledge of transmission networks and the network architecture of Huawei transmission network solutions. Be able to perform O&M based on the basic knowledge. Be competent for the position of transmission network O&M engineers
+
+Knowledge to Learn
+
+Basic knowledge of transmission network, transmission network products and their features, and equipment commissioning and maintenance
+
+ObjectivesSound familiarity with basic knowledge of optical fiber communication.Understand the basic concepts of optical transmission networks.Be familiar with the development and basic features of main technologies of the transmission network.Understand the classification of Huawei mainstream transmission network products.Understand the basic concepts of SDH and describe the SDH frame structure and multiplexing procedure.Be familiar with common SDH network topologies and applications.Master the basic knowledge of Ethernet principles, Layer 2 switching, VLAN, and EoS plane.Be familiar with Huawei mainstream MS-OTN products, including subrack specifications and main functions and features of boards.Understand the basic principles and system architecture of WDM.List the site types and application scenarios of WDM networks.Understand the concept, hierarchy, and interfaces of OTN.Describe the OTN frame structure and its multiplexing and mapping relationships.Distinguish paths at different OTN network layers.Understand the concepts and system architecture of MS-OTN.Be familiar with Huawei mainstream WDM/OTN products, including subrack specifications and main functions and features of boards.Understand the typical networking and signal flow of WDM/OTN devices, including OTM, OLA, and OADM.Describe the installation process and steps of optical transmission devices.Be familiar with the basic functions and key features of the optical transmission network management system.Master the basic operations of Web LCT and NCE-T.Master the single-site commissioning process and methods of optical transmission devices.Master the SDH/MS-OTN networking and system commissioning process and methods.Master the methods of configuring SDH/PDH services, including the single-site method and trail method.Master the configuration methods of TPS protection, SNCP, and MSP.Master the WDM/OTN networking and system commissioning process and methods.Master the method of configuring OTN electrical-layer client services.Master the basic maintenance skills of optical transmission devices, including on-site maintenance operations and common maintenance operations on the NMS.
+
+Target AudienceTransmission network engineers who are preparing for the HCIA-Transmission examThose who want to master the basics of SDH/WDM/OTN technologies, be familiar with Huawei WDM/OTN/MS-OTN transmission devices, and construct and maintain SDH/WDM/OTN transmission networks
+
+Prerequisites
+
+Have basic knowledge of communication networks
+
+Training Content
+
+Basics of Optical Fiber CommunicationBasics of Optical Fiber CommunicationOptical Fiber Communication PrinciplesFiber TypesFiber Attenuation and DispersionOptical Fiber Communication Components
+
+Overview of Optical Transmission NetworksOverview of Optical Transmission NetworksBasic Concepts of Optical Transmission NetworksApplication Scenarios of Optical Transmission NetworksIntroduction to Optical Transmission TechnologiesOverview of Huawei Optical Transmission Network Products
+
+SDH Technology BasicsSDH Technology BasicsBasic Concepts of SDHSDH Frame Structure and Multiplexing ProcedureCommon SDH OverheadsTypical SDH Networking and ApplicationCommon Protection Schemes for SDH Networks
+
+Ethernet Technology BasicsEthernet Technology BasicsEthernet Frame StructureLayer 2 Switching PrinciplesVLAN BasicsEthernet Port TechnologiesEoS Plane and EoS Service Types
+
+MS-OTN Product OverviewMS-OTN Product OverviewMainstream MS-OTN SubracksCommon SDH/MS-OTN Electrical-Layer Boards
+
+WDM Technology BasicsWDM Technology BasicsWDM System OverviewKey Technologies of the WDM SystemBasic Elements of WDM NetworkingIntroduction to WDM Site Types
+
+OTN Technology BasicsOTN Technology BasicsOTN Overview, OTN Hierarchy, and InterfacesElectrical-Layer Multiplexing and Mapping Structure of OTNOTN Frame Structure and Common OverheadsOTN Network Layers and TrailsMS-OTN System Architecture and Main Features
+
+Overview of WDM & OTN ProductsOverview of WDM & OTN ProductsWDM/OTN Device OverviewIntroduction to Common WDM/OTN SubracksIntroduction to Common WDM/OTN Electrical-Layer BoardsIntroduction to Common WDM/OTN Optical-Layer Boards
+
+WDM and OTN Networks and Site Signal FlowsWDM and OTN Networks and Site Signal FlowsWDM Network Layers and System ArchitectureTypical WDM Site Types and Signal Flows
+
+Hardware Installation Basics of Optical Transmission ProductsHardware Installation Basics of Optical Transmission ProductsInstallation Preparations and ProcessInstalling Subracks, Boards, Optical Modules, and Other AccessoriesInstalling and Routing CablesInstallation Check and Engineering Labeling
+
+Overview of the Optical Transmission Network Management SystemOverview of the Optical Transmission Network Management SystemBasic Concepts and Components of the DCNIntroduction to the Web LCTNCE-T System Architecture and Functions
+
+Single-Site Commissioning of Optical Transmission DevicesSingle-Site Commissioning of Optical Transmission DevicesSingle-Site Commissioning of Electrical-Layer DevicesSingle-Site Commissioning of Optical-Layer Devices
+
+SDH/MS-OTN System Commissioning and ConfigurationSDH/MS-OTN System Commissioning and ConfigurationSDH/MS-OTN System CommissioningSDH/PDH Service ConfigurationSDH Protection Configuration
+
+WDM/OTN System Commissioning and ConfigurationWDM/OTN System Commissioning and ConfigurationWDM/OTN System CommissioningOTN Service Configuration
+
+Routine Maintenance Basics of Optical Transmission DevicesRoutine Maintenance Basics of Optical Transmission DevicesMaintenance PreparationsRoutine Basics of Onsite MaintenanceRoutine Maintenance Basics on the NMS
+
+Exam
+
+HCIA-Transmission  
+Exam Code: H31-311  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop Item  
+Time: 90min  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 200USD  
+Language: English
+
+Knowledge Content DistributionBasics of Optical Fiber Communication — 10%Overview of Optical Transmission Networks — 5%Basics of Optical Transmission Technologies — 25%Overview of Optical Transmission Network Products — 10%WDM and OTN Networks and Site Signal Flows — 5%Hardware Installation Basics of Optical Transmission Products — 10%Overview of the Optical Transmission Network Management System — 5%Basics of Optical Transmission Device Commissioning and Configuration — 20%Routine Maintenance Basics of Optical Transmission Devices — 10%
+
+Recertification Policy
+
+Certification
+
+HCIA-Transmission
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Huawei certification consists of three technical domains: ICT infrastructure certification, platform and service certification, and ICT vertical certification. Examinees can update the validity date of the certificate in any of the following cases before the certificate expires:Participate and pass any exam of the current certification.Participate and pass any exam of the higher-level certification which is from the same technical direction of the current certification.Participate and pass any exam of the same or higher-level certification which is from the same technical domain of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

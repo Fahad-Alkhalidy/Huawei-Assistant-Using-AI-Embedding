@@ -1,0 +1,59 @@
+HCIA Computing
+
+Type
+
+ICT Infrastructure (Computing)
+
+Capabilities to be Certified
+
+Understand the computing industry evolution and Huawei's vision and objectives of the industry, master knowledge about computing systems and servers, and be capable of setting up and maintaining computing and service systems, thereby being competent for positions such as computing product pre-sales engineers, computing product delivery engineers, and IT engineers.
+
+Knowledge to Learn
+
+Computing history and trend, common architectures of computing systems, server architecture and components, Huawei computing industry vision, computing product deployment methods, and computing product O&M tools.
+
+ObjectivesLearn about the history and future of computing.Be familiar with the basic architecture of computing systems.Understand the Computing Product Taxonomy.Master the hardware components of the server and their functions.Have a good command of common server software and related protocols.Learn about the history of operating systems and the commonly used server operating systems.Know what Kunpeng is, and be familiar with Kunpeng chips, system products, and ecosystem.Understand server installation and deployment requirements, key steps, and configuration methods.Understand the O&M software system of computing products.Master the functions and usage of various computing management software.
+
+Target AudiencePersonnel interested in enterprise IT infrastructurePersonnel who want to work as IT technical engineers, IT sales managers, IT product managers, and IT post-sales engineersPersonnel who want to obtain HCIA-Computing V3.0 certification
+
+PrerequisitesUnderstand basic network knowledgeUnderstand the principles of computer compositionUnderstand the basic knowledge of operating systems
+
+Training Content
+
+History of ComputingComputing in Daily LifeComputing Development PhasesComputing Development Trends
+
+Computing System OverviewComputing System ArchitectureComputing System HardwareComputing System SoftwareComputing System Solutions
+
+Server Architecture OverviewServer Hardware ComponentsServer SoftwareServer ProtocolsBMCBIOSServer Operating SystemsOS OverviewMainstream OSs
+
+Huawei Computing IndustryKunpeng Computing IndustryKunpeng OverviewKunpeng ProcessorsKunpeng ServersKunpeng EcosystemKunpeng HPC Solution
+
+Computing Product DeploymentCommon Equipment Room LayoutsServer Installation RequirementsKey Deployment Steps and Configuration ItemsService Deployment
+
+Basic O&M of Computing ProductsO&M Software System of Computing ProductsSingle-node ManagementCentralized ManagementLocal O&MRemote O&M
+
+ExamExam Code: H13-211Exam Type: Written examinationExam Format:Single-answer QuestionMultiple-answer QuestionTrue or FalseShort Response ItemDrag and Drop ItemTime: 90 minutesPassing Score / Total Score: 600 / 1000Exam Cost: 200 USDLanguage: English
+
+Knowledge Content DistributionHistory of Computing – 10%Computing System Overview – 10%Server Architecture Overview – 20%Huawei Computing Industry – 10%Computing Product Deployment – 30%Basic O&M of Computing Products – 20%
+
+Recertification Policy
+
+Certification
+
+HCIA-Computing
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher-level certification within the same technology track.
+
+Period of Invalidity
+
+Same as initial certification.

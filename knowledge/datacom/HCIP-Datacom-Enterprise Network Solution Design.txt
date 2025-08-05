@@ -1,0 +1,85 @@
+HCIP-Datacom-Enterprise Network Solution Design
+
+Type
+
+ICT Infrastructure (Datacom)
+
+Capabilities to be Certified
+
+Passing the HCIP-Datacom-Enterprise Network Solution Design certification will indicate that you are qualified for the positions of senior solution engineers (account manager, project manager, and pre-sales engineer) for enterprise campus, WAN, and data center network scenarios in the datacom network field and are capable of using Huawei datacom products to perform end-to-end planning and design for campus, WAN, and data center network scenarios, and design solutions with high security, availability, and reliability based on application requirements.
+
+Knowledge to Learn
+
+Enterprise network and solution, campus network architecture and key technology applications, large- and medium-sized virtualized campus network design methods, small- and medium-sized cloud-managed campus network design methods, key technologies for enterprise WAN interconnection and their applications, enterprise WAN interconnection design methods, data center network architecture and key technology applications, data center network design methods, bearer WAN architecture and key technologies, enterprise bearer WAN design methods.
+
+ObjectivesUnderstand campus network pain points and Huawei solutions.Have a good command of common technologies and applications on campus networks.Have a good command of large- and medium-sized virtualized campus network design based on Huawei CloudCampus solution.Have a good command of small- and medium-sized cloud managed campus networks design based on Huawei CloudCampus solution.Have a good command of common technologies and applications in enterprise WAN interconnection.Have a good command of enterprise WAN interconnection design based on Huawei SD-WAN solution.Have a good command of common technologies and applications in data centers (DCs) and data center networks (DCNs).Have a good command of the DCN design based on Huawei CloudFabric solution.Have a good command of common technologies and applications on bearer WAN.Have a good command of enterprise bearer WAN design based on Huawei CloudWAN solution.
+
+Target AudiencePersonnel who want to become enterprise network solution design senior engineer.Personnel who want to obtain HCIP-Datacom-Enterprise Network Solution Design certification.
+
+PrerequisitesBe familiar with common operations on Huawei network devices.Knowledge and skills described in the HCIP-Datacom-Core Technology course.
+
+Training Content
+
+Enterprise Network and Solution OverviewDefinition of Enterprise NetworksTypical Enterprise Network ScenariosDevelopment Trends and Challenges of Enterprise NetworksHuawei Enterprise Network Solution
+
+Campus Network Planning and Design
+
+Campus Network Architecture and Key Technology ApplicationsCampus Network OverviewCampus Network Ethernet Technologies and IP Routing Technologies and their ApplicationsCampus Network Wireless Access Technologies and Campus Egress Technologies and ApplicationsCampus Network Reliability and Network Security Technologies and ApplicationsCampus Network Service and Management Technology and ApplicationTypical Applications of Campus Network Technologies
+
+Large- and Medium-Sized Virtualized Campus Network DesignRequirements and Challenges of Large- and Medium-Sized Campus NetworksHuawei CloudCampus Solution Overview, Deployment Mode, Key Components, and Network ArchitectureApplication of Huawei CloudCampus Solution on Medium- and Large-Sized Virtualized Campus NetworksUnderlay Network Design for Medium- and Large-Sized Virtualized Campus NetworksFabric and Overlay Network Design for Medium- and Large-Sized Virtualized Campus NetworksNetwork Admission Control and Free Mobility Design for Large- and Medium-Sized Virtualized Campus NetworksWLAN Design, Network Security Design, and O&M design for Large- and Medium-Sized Virtualized Campus Networks
+
+Small- and Medium-Sized Cloud-Managed Campus Network DesignTrends and Challenges of Small- and Medium-Sized Campus NetworksHuawei CloudCampus Solution Overview, Deployment Mode, Solution Components, and Key TechnologiesApplication of Huawei CloudCampus Solution on Small- and Medium-Sized Cloud Managed Campus NetworksNetwork Management Mode, Network O&M Mode, and License Scheme Design for Small- and Medium-Sized Cloud Management Campus NetworksNetwork Architecture, Networking Solution, and Reliability Design for Small- and Medium-Sized Cloud Management Campus NetworksSmall- and Medium-Sized Cloud Management Campus Networks Basic Services, Network Deployment, WLAN, and NAC Design
+
+WAN Interconnection Planning and Design
+
+Key Technologies for Enterprise WAN Interconnection and Their ApplicationsBasic Architecture of a Typical WAN Interconnection SolutionWAN Interconnection Network Technologies and their Applications, including WAN Interconnection Networking Solution, Private Line Technologies, and VPN TechnologiesWAN Interconnection Reliability Technologies and their Applications, including Link Detection and Network and Service Reliability TechnologiesWAN Interconnection Optimization Technologies and their Applications, including QoS and FEC TechnologiesWAN Interconnection Security Technologies and their Applications, including WAN Transmission Security and Service Security Technologies
+
+Enterprise WAN Interconnection DesignDevelopment Trends and Challenges of Enterprise WAN InterconnectionHuawei SD-WAN Solution Overview, Main Functions, and Application ScenariosHuawei SD-WAN Networking Design: Site Design, Tunnel Design, and VPN DesignHuawei SD-WAN Service Design: Application Service Design, Network Service DesignHuawei SD-WAN Reliability and Security Design: Site Reliability Design, Controller Reliability Design, and Security Design
+
+Data Center Network Planning and Design
+
+Data Center Network Architecture and Key Technology Application OverviewData Center(DC) and Data Center Network(DCN) OverviewTypical DCN ArchitectureCommon Terms of DCsKey Services of DCsKey services of DCNsHuawei CloudFabric Solution
+
+Data Center Network DesignDCN Requirements and ChallengesHuawei CloudFabric Solution Overview, Solution Components, Network Architecture, Typical Scenarios, and Key TechnologiesDCN Planning and Design MethodsTypical DCN Overall Architecture Design and Network Zone DesignTypical DCN Key Attribute Design, Network Security Design, and O&M Design
+
+Bearer WAN Planning and Design
+
+Bearer WAN Architecture and Key TechnologiesBearer WAN ArchitectureBearer WAN Basics: Overview and Application of MPLS, SR-MPLS, and SRv6VPN Service: WAN VPN Overview and Tunnel Management OverviewNetwork Traffic Optimization: Network Information Collection, Path Computation for Network Traffic Optimization, and Optimization Result DeliveryService Level Agreements (SLAs): QoS, Channelized Sub-interface, and FlexENetwork Reliability: TE Tunnel Protection TechnologiesNetwork Management and O&M
+
+Enterprise Bearer WAN DesignCurrent Situation and Challenges of the Enterprise Bearer WANHuawei CloudWAN Solution OverviewBasic Design for the Enterprise Bearer WAN: Physical Network Design, IP Address Planning, and Routing DesignTunnel and VPN Design for the Enterprise Bearer WAN: Tunnel Design and VPN DesignSLA and Reliability Design for the Enterprise Bearer WAN: SLA Design and Reliability DesignOptimization and O&M Design for the Enterprise Bearer WAN: Network Optimization Design and O&M Design
+
+Exam
+
+HCIP-Datacom-Core TechnologyExam Code: H12-821Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop ItemTime: 90 minPassing Score/Total Score: 600/1000Exam Cost: 300 USDLanguage: Chinese, English, Japanese
+
+HCIP-Datacom-Enterprise Network Solution DesignExam Code: H12-851Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop ItemTime: 90 minPassing Score/Total Score: 600/1000Exam Cost: 180 USDLanguage: Chinese, English
+
+Knowledge Content Distribution
+
+HCIP-Datacom-Core TechnologyRouting Basics – 3%OSPF Core Knowledge – 16%IS-IS Core Knowledge – 8%BGP Core Knowledge – 17%Routing and Traffic Control – 10%Switching Core Knowledge – 7%Multicast Basics – 9%IPv6 Core Knowledge – 3%Network Security Basics – 9%Network Reliability Basics – 8%Network Service and Management – 2%Large-scale WLAN Architecture – 6%Network Solution – 2%
+
+HCIP-Datacom-Enterprise Network Solution DesignEnterprise Network Overview – 7%Campus Network Planning and Design – 30%WAN Interconnection Planning and Design – 22%Data Center Network Planning and Design – 20%Bearer WAN Planning and Design – 21%
+
+Recertification Policy
+
+Certification
+
+HCIP-Datacom-Enterprise Network Solution Design
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

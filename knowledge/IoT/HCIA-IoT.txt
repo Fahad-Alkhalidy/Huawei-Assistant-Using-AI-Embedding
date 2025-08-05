@@ -1,0 +1,62 @@
+HCIA-IoT
+
+Type
+
+Cloud Platform & Cloud Services (IoT)
+
+Capabilities to be Certified
+
+Master the basic knowledge and related development knowledge of IoT. (Data acquisition technology, single chip technology, IoT device-cloud interworking development process, etc.) Huawei IoT solution is used to develop IoT device-cloud interworking and implement device-side data reporting and cloud command delivery.
+
+Knowledge to Learn
+
+IoT concept, IoT industry development trend and industry development status, data collection technology, single-chip microcomputer technology, IoT operating system, IoT communication technology, common IoT protocols, IoT communication module AT instructions, IoT platform, and IoT device-cloud interoperability development process.
+
+ObjectivesUnderstanding the IoT development historyUnderstanding the basic IoT conceptsUnderstanding the IoT architecture layersUnderstanding how IoT engineering relates to engineersUnderstanding IoT application typesUnderstanding the common problems in smart cities and the corresponding solutionsUnderstanding the trends of the all-in-one smart home industry and the corresponding solutionsUnderstanding the driving forces of IoV development and the corresponding solutionsUnderstanding the requirements and challenges of industrial IoT and the corresponding solutionsUnderstanding how the IoT industry has been developingUnderstanding IoT fragmentation issues and some of the solutionsUnderstanding sensor data collectionUnderstanding sensor classification and working principlesUnderstanding the classification and working principles of automatic identification technologiesUnderstanding the classification and working principles of location data collection technologiesUnderstanding MCU development historyUnderstanding MCU architectureUnderstanding working principle of MCUsUnderstanding working principle of common MCU peripheralsUnderstanding common MCU bus communication protocolHave a better understanding of OSs and their historyUnderstanding the functions of IoT OSsUnderstanding Huawei LiteOSUnderstanding OpenHarmonyUnderstanding the Huawei IoT OS ecosystemUnderstanding common wired IoT communications technologiesUnderstanding technical standards and features of different short-range wireless communications technologiesUnderstanding features and development trends of cellular mobile communications technologiesUnderstanding features of low power wide area (LPWA) and different LPWA technologiesUnderstanding the OSI reference modelUnderstanding the concepts, advantages, and disadvantages of different network topologiesUnderstanding how HTTP worksUnderstanding how AMQP worksUnderstanding how MQTT worksUnderstanding how CoAP worksKnow how to distinguish AT commands for NB-IoT, Wi-Fi, and Huawei certified communication modulesKnow how to connect NB-IoT, Wi-Fi, and Huawei-certified modules to the IoT platformUnderstanding the requirements for IoT platformsUnderstanding Huawei Cloud IoT full-stack servicesUnderstanding how to access the Huawei Cloud IoT platformUnderstanding overall process of device-cloud connectionUnderstanding product development processUnderstanding device development processUnderstanding main application development steps
+
+Target AudienceIoT beginnersIoT practitionersIoT solution engineersIoT development engineers
+
+Prerequisites
+
+Basic ICT knowledge and C programming
+
+Training Content
+
+HCIA-IoT TrainingA History and Overview of IoTIoT Development HistoryIoT Overview and ArchitectureHuawei IoT SolutionIoT Engineering and EngineersIoT Industry Applications and SolutionsIoT Application TypesSmart City SolutionAll-in-One Smart Home SolutionIoV SolutionIndustrial IoT SolutionIoT TodayDevelopment Trends of the IoT IndustryIoT Fragmentation and Its SolutionsData Collection TechnologiesSensing TechnologiesTag Identification TechnologiesLocation Data Collection TechnologiesMCU BasicsMCU OverviewMCU Architecture and Working PrincipleMCU PeripheralsIoT OS OverviewOS OverviewHuawei LiteOSOpenHarmonyHuawei IoT OS EcosystemIoT Communications TechnologiesWired Communications TechnologiesWireless Communications TechnologiesIoT Communications ProtocolsBasics of Network CommunicationsCommon IoT ProtocolsAT Commands for IoT Communication ModulesAT Command TypesNB-IoT AT CommandsWi-Fi AT CommandsAT Commands for Huawei-Certified ModulesIoT Platform OverviewRequirements for IoT PlatformsIoT Platform ClassificationOpen Source IoT PlatformsHuawei Cloud IoT Full-Stack ServicesAccessing the Huawei Cloud IoT PlatformIoT Device-Cloud Connection DevelopmentDevice-Cloud Connection OverviewProduct DevelopmentDevice DevelopmentApplication DevelopmentRoutine Cloud Management
+
+Exam
+
+HCIA-IoT  
+Exam Code: H12-111  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop Item  
+Time: 90 minutes  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 200 USD  
+Language: Chinese, English
+
+Knowledge Content DistributionA History and Overview of IoT — 7%IoT Industry Applications and Solutions — 5%IoT Today — 2%Data Collection Technologies — 12%MCU Basics — 17%IoT OS Overview — 5%IoT Communications Technologies — 22%IoT Communications Protocols — 20%AT Commands for IoT Communication Modules — 3%IoT Platform Overview — 7%
+
+Recertification Policy
+
+Certification
+
+HCIA-IoT
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can renew its validity by either:  
+(1) Participating and passing any exam of the current certification.  
+(2) Participating and passing any exam of the same or higher level certification from the same technology track.
+
+Period of Invalidity
+
+Same as the initial certification.

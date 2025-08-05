@@ -1,0 +1,55 @@
+HCIE-Cloud Service Solutions Architect
+
+Type
+
+Cloud Platform & Cloud Services (Cloud Service)
+
+Capabilities to be Certified
+
+Ability to describe both cloud-based architecture design methodologies and key underlying technologies of Huawei Cloud. Master the basic principles for cloud solution architecture design from aspects of scalability, availability, performance, security, and cost. Possess the capabilities of cloud migration, cloud O&M, and optimization. Qualified as a cloud solution architect, cloud system architect, cloud migration expert, and other cloud-related positions.
+
+Knowledge to Learn
+
+Cloud-based architecture design, key underlying technologies of Huawei Cloud, Cloud migration implementation, Cloud O&M and optimization, Cloud enablement, and best practices of cloud in different industries.
+
+Exam
+
+HCIE-Cloud Service Solutions Architect (Written)Exam Code: H13-831Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop ItemTime: 90 minPassing Score/Total Score: 600/1000Exam Cost: 300 USDLanguage: Chinese, English
+
+HCIE-Cloud Service Solutions Architect (Lab)Exam Code: H13-836Exam Type: ExperimentsExam Format: Operation, Essay ItemTime: 480 minPassing Score/Total Score: 80/100Exam Cost: 1200 USDLanguage: Chinese, English
+
+Knowledge Content Distribution
+
+Written Exam
+
+Content Overview:
+
+The HCIE-Cloud Service Solutions Architect V2.0 exam covers the top-level design principles of enterprise migration to the cloud, underlying cloud technology knowledge, application migration to the cloud overview concepts, on-cloud scalability, availability, performance, security, and cost design knowledge, and on-cloud migration technologies of Huawei. Knowledge and skills of networks, hosts, storage data, data migration, containerized reconstruction, cloud O&M and optimization, cloud service enablement, pan-government solutions, pan-enterprise best practices, and best practices of cloud migration in the game industry.
+
+Knowledge Breakdown:Cloud-based Architecture Design of Enterprises – 1%Underlying Cloud Technologies – 10%Cloud-based Architecture Design – 25%Cloud Migration – 23%Cloud O&M and Optimization – 11%Cloud Service Enablement – 14%Industry Best Practices of Huawei Cloud – 16%
+
+Lab Exam
+
+Knowledge Breakdown:Cloud-based Architecture Design – 35%Comprehensive Practices of Cloud-based Architecture Design – 15%Cloud Migration – 35%Cloud O&M Optimization – 15%
+
+Recertification Policy
+
+Certification
+
+HCIE-Cloud Service Solutions Architect
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher level certification which is from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

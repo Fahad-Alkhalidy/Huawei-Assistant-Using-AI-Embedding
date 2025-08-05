@@ -1,0 +1,78 @@
+HCIP-openEuler
+
+Type
+
+Basic Software & Hardware (OpenEuler)
+
+Capabilities to be Certified
+
+The HCIP-openEuler V1.0 certification proves that you have mastered the capabilities of LAMP/LNMP application cluster deployment, Ansible- or Salt-based automated O&M, and system monitoring, and are competent for positions such as senior Linux O&M engineers, senior Linux management engineers, and enterprise application architects.
+
+Knowledge to Learn
+
+openEuler Service Management, openEuler Cluster Architecture, openEuler Storage Management, Automation Management, Advanced Shell Scripts, openEuler OS Security Hardening, openEuler System Monitoring, Comprehensive Practices
+
+ObjectivesMaster the deployment of LAMP/LNMP application clusters.Use Ansible or SaltStack for automated O&M.Perform advanced openEuler system monitoring and troubleshooting.Implement openEuler OS security hardening.Develop and manage advanced shell scripts.Manage openEuler clusters and storage systems.Apply knowledge through hands-on comprehensive projects.
+
+Target Audience
+
+Personnel who want to get HCIP-openEuler
+
+PrerequisitesHCIA-openEulerBasic knowledge of Linux
+
+Training Content
+
+HCIP-openEuler Training
+
+openEuler Service ManagementWeb ServicesApache Overview and ConfigurationsNGINX Overview and ConfigurationsDNS Overview and ConfigurationsMySQL Overview and ConfigurationsLAMP/LNMP
+
+openEuler Cluster ArchitectureCluster OverviewCommon Cluster Deployment ToolsRedis Overview
+
+openEuler Storage ManagementBasic Storage ConceptsStorage TypesIntroduction to Shared StorageIntroduction to Distributed Storage
+
+Automation ManagementIntroduction to Automated O&MIntroduction to AnsibleIntroduction to SaltStack
+
+Advanced Shell ScriptsConditional Judgment in Shell ScriptsFunctions in Shell ScriptsIntroduction to grep CommandsIntroduction to Regular ExpressionsIntroduction to sedIntroduction to AWK Statements
+
+openEuler OS Security HardeningOS Security HardeningOS Network SecuritySELinux Access Control
+
+openEuler System MonitoringCommands for Checking openEuler PerformanceSystem Monitoring with Zabbix
+
+Comprehensive PracticesProject RequirementsProject Instructions
+
+Exam
+
+HCIP-openEuler  
+Exam Code: H12-621  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop Item  
+Time: 90 min  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 300 USD  
+Language: English
+
+Knowledge Content DistributionopenEuler Service Management - 15%openEuler Cluster Architecture - 15%openEuler Storage Management - 15%Automation Management - 15%Advanced Shell Scripts - 10%openEuler OS Security Hardening - 10%openEuler System Monitoring - 10%Comprehensive Practices - 10%
+
+Recertification Policy
+
+Certification
+
+HCIP-openEuler
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

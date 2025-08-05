@@ -1,0 +1,115 @@
+HCIA-IT
+
+Type
+
+ICT Infrastructure (Storage)
+
+Capabilities to be Certified
+
+Having systematically understood and mastered the basic information about the evolution and trends of enterprise IT technologies, components and principles of hardware facilities such as computing and storage, and principles and usage of software like virtualization and cloud computing, being capable of enterprise IT infrastructure product design and selection, and being qualified for positions such as enterprise IT architects and pre-sales engineers of IT products.
+
+Knowledge to Learn
+
+Evolution and trends in IT technology, principles and common products of computing devices, principles and common products of storage devices, virtualization technology principles, FusionCompute, FusionAccess, and cloud computing principles.
+
+ObjectivesUnderstand IT development trendsUnderstand the development of computingUnderstand the development of storageUnderstand the composition of data centersUnderstand the basic architecture of the computing systemUnderstand the computing system hardwareUnderstand the computing system softwareUnderstand computing solutionsGet familiar with the intelligent storage systemGet familiar with storage product formsUnderstand storage service protocolsUnderstand storage redundancy technologiesUnderstand data protection technologiesGet familiar with storage solutionsUnderstand concepts related to virtualization technologiesGrasp basic principles of virtualization technologiesKnow common virtualization softwareLearn about virtualization applications in data centersUnderstand what cloud computing isDescribe services and deployment of cloud computingUnderstand the Huawei Cloud Stack solutionDescribe the Huawei Cloud Stack services and their application scenarios
+
+Target AudiencePre-sales engineers of IT productsEnterprise IT architectsData center IT engineersOther groups who wish to obtain the HCIA-IT certification
+
+PrerequisitesProficient in basic computer skills
+
+Training Content
+
+IT OverviewIT Development TrendsHistory of ComputingHistory of StorageData Center Introduction
+
+Introduction to Computing FacilitiesComputer System ArchitectureComputing System HardwareComputing System SoftwareComputing System Solutions
+
+Introduction to Storage FacilitiesIntelligent Storage SystemStorage Service ProtocolsStorage Redundancy ProtectionData Protection TechnologiesStorage Solutions
+
+Virtualization Technologies and SoftwareVirtualization Technology OverviewVirtualization TechnologiesComputing VirtualizationStorage VirtualizationNetwork VirtualizationIntroduction to Typical Virtualization SoftwareXen and KVMVMware ESXiHyper-VFusionComputeIntroduction to FusionComputeFusionCompute FeaturesFusionAccessFusionAccess OverviewFusionAccess ComponentsIntroduction to HDPFusionAccess Application ScenariosDatacenter Virtualization Solution (DCS)
+
+Introduction to Cloud Computing TechnologiesIntroduction to Cloud ComputingHuawei Cloud StackProduct IntroductionSolution ArchitectureIaaS ServicesgPaaS & AI DaaS ServicesHuawei Cloud Stack Application Scenarios
+
+ExamExam Code: H14-411Exam Type: Written examinationExam Format:Single-answer QuestionMultiple-answer QuestionTrue or FalseShort Response ItemTime: 90 minutesPassing Score / Total Score: 600 / 1000Exam Cost: 200 USDLanguage: English
+
+Knowledge Content DistributionOverview of IT – 15%Introduction to Computing Facilities – 15%Introduction to Storage Facilities – 15%Virtualization Technologies and Software – 30%Introduction to Cloud Computing Technologies – 25%
+
+Recertification Policy
+
+Certification
+
+HCIA-IT
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.
+
+HCIA-IT
+
+Type
+
+ICT Infrastructure (Storage)
+
+Capabilities to be Certified
+
+Having systematically understood and mastered the basic information about the evolution and trends of enterprise IT technologies, components and principles of hardware facilities such as computing and storage, and principles and usage of software like virtualization and cloud computing, being capable of enterprise IT infrastructure product design and selection, and being qualified for positions such as enterprise IT architects and pre-sales engineers of IT products.
+
+Knowledge to Learn
+
+Evolution and trends in IT technology, principles and common products of computing devices, principles and common products of storage devices, virtualization technology principles, FusionCompute, FusionAccess, and cloud computing principles.
+
+ObjectivesUnderstand IT development trendsUnderstand the development of computingUnderstand the development of storageUnderstand the composition of data centersUnderstand the basic architecture of the computing systemUnderstand the computing system hardwareUnderstand the computing system softwareUnderstand computing solutionsGet familiar with the intelligent storage systemGet familiar with storage product formsUnderstand storage service protocolsUnderstand storage redundancy technologiesUnderstand data protection technologiesGet familiar with storage solutionsUnderstand concepts related to virtualization technologiesGrasp basic principles of virtualization technologiesKnow common virtualization softwareLearn about virtualization applications in data centersUnderstand what cloud computing isDescribe services and deployment of cloud computingUnderstand the Huawei Cloud Stack solutionDescribe the Huawei Cloud Stack services and their application scenarios
+
+Target AudiencePre-sales engineers of IT productsEnterprise IT architectsData center IT engineersOther groups who wish to obtain the HCIA-IT certification
+
+PrerequisitesProficient in basic computer skills
+
+Training Content
+
+IT OverviewIT Development TrendsHistory of ComputingHistory of StorageData Center Introduction
+
+Introduction to Computing FacilitiesComputer System ArchitectureComputing System HardwareComputing System SoftwareComputing System Solutions
+
+Introduction to Storage FacilitiesIntelligent Storage SystemStorage Service ProtocolsStorage Redundancy ProtectionData Protection TechnologiesStorage Solutions
+
+Virtualization Technologies and SoftwareVirtualization Technology OverviewVirtualization TechnologiesComputing VirtualizationStorage VirtualizationNetwork VirtualizationIntroduction to Typical Virtualization SoftwareXen and KVMVMware ESXiHyper-VFusionComputeIntroduction to FusionComputeFusionCompute FeaturesFusionAccessFusionAccess OverviewFusionAccess ComponentsIntroduction to HDPFusionAccess Application ScenariosDatacenter Virtualization Solution (DCS)
+
+Introduction to Cloud Computing TechnologiesIntroduction to Cloud ComputingHuawei Cloud StackProduct IntroductionSolution ArchitectureIaaS ServicesgPaaS & AI DaaS ServicesHuawei Cloud Stack Application Scenarios
+
+ExamExam Code: H14-411Exam Type: Written examinationExam Format:Single-answer QuestionMultiple-answer QuestionTrue or FalseShort Response ItemTime: 90 minutesPassing Score / Total Score: 600 / 1000Exam Cost: 200 USDLanguage: English
+
+Knowledge Content DistributionOverview of IT – 15%Introduction to Computing Facilities – 15%Introduction to Storage Facilities – 15%Virtualization Technologies and Software – 30%Introduction to Cloud Computing Technologies – 25%
+
+Recertification Policy
+
+Certification
+
+HCIA-IT
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

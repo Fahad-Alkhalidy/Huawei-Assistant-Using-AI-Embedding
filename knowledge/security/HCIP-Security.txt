@@ -1,0 +1,59 @@
+HCIP-Security
+
+Type
+
+ICT Infrastructure (security)
+
+Capabilities to be Certified
+
+Master Huawei cyber security technologies, including network architecture security, border security, application security, and terminal security. Gain skills in architecture design, deployment, and O&M for large- and medium-scale enterprises' cyber security to protect enterprise information assets.
+
+Knowledge to LearnFirewall high reliability technologiesFirewall traffic managementVirtual systemsIntelligent uplink selectionIPSec VPN and SSL VPN technologies and applicationsCyber attacks and defenseVulnerability defense and penetration testingContent security filteringEmergency response and cyber incident handlingNetwork Access Control (NAC)
+
+ObjectivesUnderstand and configure firewall high reliability technologies and traffic managementConfigure virtual systems and intelligent uplink selectionMaster IPsec VPN and SSL VPN configurations and troubleshootingIdentify and mitigate common cyber attacks and DDoS threatsUnderstand and apply vulnerability defense strategiesConfigure content security filtering technologiesHandle cyber security emergencies effectivelyApply and configure network access authenticationDesign and maintain secure enterprise networks
+
+Target Audience
+
+Those who hope to become a network security professional  
+Cyber Security engineers
+
+Prerequisites
+
+HCIA certification or equivalent knowledge
+
+Training ContentSecure Communication NetworkCyber Security Certification OverviewFirewall High Reliability TechnologiesFirewall Traffic ManagementVirtual SystemsIntelligent Uplink SelectionIPsec VPN Technology and ApplicationSSL VPN Technology and ApplicationSecurity Zone BorderCyber Attacks and DefenseVulnerability Defense and Penetration TestingContent Security Filtering TechnologiesSecurity Management CenterEmergency ResponseNetwork Access ControlComprehensive Enterprise Network Security Cases
+
+Exam
+
+HCIP-Security  
+Exam Code: H12-725  
+Exam Type: Written examination  
+Format: Single-answer, Multiple-answer, True/False, Short Response, Drag and Drop  
+Time: 90 minutes  
+Passing Score / Total Score: 600 / 1000  
+Cost: 300 USD  
+Language: Chinese, English
+
+Knowledge Content DistributionFirewall High Reliability Technologies – 7%Firewall Traffic Management – 5%Virtual Systems – 6%Intelligent Uplink Selection – 6%IPSec VPN – 13%SSL VPN – 9%Cyber Attacks and Defense – 12%Vulnerability Defense and Penetration Testing – 10%Content Security Filtering – 12%Emergency Response – 5%Network Access Control – 15%
+
+Recertification Policy
+
+Certification
+
+HCIP-Security
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity in either of the following ways:Pass any current exam of the same certificationPass any exam of the same or higher level within the same technology track
+
+Period of Invalidity
+
+Same as initial certification.

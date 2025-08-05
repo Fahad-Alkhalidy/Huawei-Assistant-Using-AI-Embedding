@@ -1,0 +1,55 @@
+HCIA-Storage
+
+Type
+
+ICT Infrastructure (Storage)
+
+Capabilities to be Certified
+
+Engineers have knowledge and skills in storage technology trends, basic storage technologies, Huawei intelligent storage products and features, and storage system O&M management, are capable of performing basic deployment, O&M, and management on storage systems, and have skills essential for positions such as enterprise storage engineers and IT technical support.
+
+Knowledge to Learn
+
+Storage technology trends, basic storage technologies, Huawei intelligent storage products and features, and storage system O&M management.
+
+ObjectivesUnderstand definitions of information and data.Understand development trends of data storage products.Understand functions and components of controller enclosures and disk enclosures.Understand concepts of scale-up and scale-out, as well as related cables and interface modules.Understand working principles of RAID 2.0+.Understand dynamic RAID and RAID-TP.Understand common protocols used in storage systems.Understand working principles and characteristics of different protocols.Understand storage network architecture evolution.Understand storage networking technology evolution.Be familiar with the features and positioning of storage products.Understand DeviceManager, CLI, and UltraPath storage system management tools.Understand service characteristics, implementation principles, and application scenarios of resource tuning technologies.Understand service characteristics, implementation principles, and application scenarios of data protection technologies.Be familiar with common storage system O&M management tools and typical O&M processes.
+
+Target AudiencePersonnel who want to become storage engineers.Personnel who want to obtain HCIA-Storage V5.0 certification.
+
+PrerequisitesBasic knowledge of IT technologies and networks.
+
+Training Content
+
+Storage Technology TrendsStorage Technology Trends
+
+Basic Storage TechnologiesIntelligent Data Storage SystemRAID TechnologiesCommon Storage ProtocolsStorage Network Architecture
+
+Huawei Intelligent Storage Products and FeaturesHuawei Intelligent Storage ProductsStorage System Operation ManagementStorage Resource Tuning Technologies and ApplicationsStorage Data Protection Technologies and Applications
+
+Storage System O&M ManagementStorage System O&M Management
+
+ExamExam Code: H13-611Exam Type: Written examinationExam Format:Single-answer QuestionsMultiple-answer QuestionsTrue or FalseShort Response ItemsDrag and Drop ItemsTime: 90 minutesPassing Score / Total Score: 600 / 1000Exam Cost: 200 USDLanguages: Chinese, English
+
+Knowledge Content DistributionStorage Technology Trends – 5%Basic Storage Technologies – 50%Huawei Intelligent Storage Products and Features – 35%Storage System O&M Management – 10%
+
+Recertification Policy
+
+Certification
+
+HCIA-Storage
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher-level certification within the same technology track.
+
+Period of Invalidity
+
+Same as initial certification.

@@ -1,0 +1,89 @@
+HCIE-Data Center Facility Design
+
+Type
+
+ICT Infrastructure (Digital Power)
+
+Capabilities to be Certified
+
+Have the data center facility design consulting and planning capabilities, and the planning and design capabilities of each subsystem of the data center facility.
+
+Knowledge to Learn
+
+Deep learning data center planning consulting business process, the evaluation model tools, site selection report, feasibility study report, power supply system planning and design, refrigeration system planning and design, DCIM system planning and design.
+
+ObjectivesDescribe the planning and design process of the data center power distribution systemMaster the procedure for planning the data center power distribution systemDescribe the composition of the data center power distribution systemCalculate data center cooling system loadsSelect data center air conditioner configurations and optimize the configuration solutionUnderstand the configuration and selection principles of a chilled water system and chillersOptimize a cooling system and understand its simple configurationsMaster the cooling system planning process of a data centerMaster the requirement planning of a data center cooling systemMaster the method of configuring air conditioning systems for free cooling in data centersMaster the method of configuring continuous cooling for air conditioning systems in data centersDescribe DCIM physical architectureDescribe DCIM physical deployment layersDescribe DCIM logical architectureDescribe DCIM system functionsMaster UPS system requirement analysisBe familiar with common UPS configuration solutionsMaster the way to calculate the UPS system capacityUnderstand the UPS system battery configurationGet familiar with the working logic of different power distribution solutions in a data centerAnalyze the advantages and disadvantages of different power distribution solutions in a data centerIdentify and optimize the weaknesses of different power distribution solutions in a data centerGet familiar with the configuration methods of chilled water air conditioners in a data centerUnderstand the air conditioner water system types and their application scenariosCalculate the air conditioner configuration based on actual projectsStudy the feasibility of the chilled water air conditioning systemMaster the load types of data centersMaster how to calculate the cooling load of data centersUnderstand the methods for estimating the cooling loadBe able to output simple configuration solutionsGet familiar with the types of data center air conditionersMaster the type selection of data center air conditionersMaster the air conditioner layout and selection in an equipment roomUnderstand the basic air supply modes and selection of data center air conditionersDescribe the DCIM conceptDistinguish the DCIM and traditional power and environment monitoring systemsUnderstand the DCIM development trendDescribe the DCIM planning considerations and processUnderstand the overall DC planning and consultation service processKnow how to use the three DC assessment modelsBe familiar with the approach for producing the DC site selection report and feasibility research reportMaster planning ProcedureMaster Power Supply Solution SelectionGet familiar with Low-Voltage Electric Device SelectionMaster Low-Voltage PDF ConfigurationMaster Conductor SelectionUnderstand main management objects of the DCIM systemHave a good command of main monitoring parameters and control contents of the DCIM system management objectsHave a good command of DCIM architecture and function requirements for data centers at different levelsHave a good command of principles and precautions for DCIM hardware selectionGet familiar with the DG system requirement analysisGet familiar with the DG system networking modesMaster DG model selectionMaster DG capacity calculation
+
+Target Audience
+
+At least 24 months of experience in Data Center infrastructure projects is recommended
+
+PrerequisitesData Center infrastructure design engineerProject manager of the Data Center construction unitPersonnel who want to obtain HCIE-Data Center Facility Design certification
+
+Training Content
+
+Overview of Data Center Power Distribution System Planning and DesignPlanning and Design IntroductionPlanning CompositionDesign Composition
+
+Cooling System Load Calculation and Configuration Solution Scenario-based TrainingCalculate data center cooling system loadsSelect data center air conditioner configurations and optimize the configuration solutionUnderstand the configuration and selection principles of a chilled water system and chillersOptimize a cooling system and understand its simple configurations
+
+Data Center Cooling System PlanningData Center Cooling System Planning IntroductionImplementation of the Data Center Cooling System Planning Process
+
+Energy-Saving Solution Configuration for Data Center Cooling SystemsFree Cooling Solution Configuration for Data Center Air ConditionersContinuous Cooling Solution Configuration for Data Center Air ConditionersConfiguration Cases for Data Center Air Conditioning Systems
+
+DCIM System Architecture and FunctionsDCIM Hardware Physical ArchitectureDCIM Logical Architecture and System FunctionsDCIM System Performance and Integration
+
+Data Center UPS System PlanningSystem CompositionPlanning PreparationPlanning Method
+
+Solution Analysis for the Data Center Power Distribution SystemTypical SolutionsSolution Application Analysis
+
+Data Center Chilled Water Air Conditioning System ConfigurationChilled Water Air Conditioner Planning OverviewChilled Water System ConfigurationCooling Water System Configuration
+
+Load Calculation and Air Conditioner Configuration for Data Center Cooling SystemLoad Introduction and Calculation for Data Center Cooling SystemAir Conditioner Planning and Configuration for Data Center Cooling System
+
+Data Center Power Distribution Solution OptimizationOperation modes of different power distribution solutions for data centersAdvantages and disadvantages of different power distribution solutions for data centersOptimize the weaknesses of different power distribution solutions for data centers
+
+DCIM System Planning OverviewDCIM System OverviewRelationship Between DCIM, Power and Environment Monitoring, BMS, and ITSMDCIM Development TrendDCIM Planning Process
+
+Data Center Facility Consultation and Planning GuideDC Planning ProcessDC Assessment ModelsSite Selection ReportFeasibility Research
+
+Data Center Low-Voltage Power Distribution System PlanningSystem CompositionPlanning PreparationPlanning Method
+
+DCIM System PlanningDCIM Planning Requirement AnalysisDCIM System PlanningDCIM Device Selection
+
+Data Center Diesel Generator System PlanningSystem CompositionPlanning PreparationPlanning Method
+
+Exam
+
+HCIE-Data Center Facility Design (Written)Exam Code: H12-461Exam Type: Written examinationExam Format: Single-answer, Multiple-answer, True/False, Short Response, Drag and DropTime: 90 minutesPassing Score/Total Score: 600/1000Exam Cost: 300 USDLanguage: Chinese, English
+
+HCIE-Data Center Facility Design (Lab)Exam Code: H12-466Exam Type: ExperimentsExam Format: Operation, EssayTime: 180 minutesPassing Score/Total Score: 80/100Exam Cost: 1200 USDLanguage: Chinese, English
+
+Knowledge Content Distribution
+
+HCIE-Data Center Facility Design (Written)Data Center Infrastructure Consulting and Planning Guide – 15%Power Distribution System Planning and Design Overview – 7%UPS System Planning – 7%Low-Voltage Power Distribution System Planning – 4%Diesel Generator System Planning – 4%Power Supply and Distribution Architecture Case Analysis – 7%Power Supply Solution Optimization Practice – 5%Cooling System Planning – 6%Configuration and Load Calculation of Air Conditioner Terminal System – 10%Chilled Water Air Conditioner System Configuration – 11%Energy-Saving Solution for Cooling Systems – 7%Cooling System Practice – 3%DCIM System Planning Overview – 3%DCIM Architecture and Functions – 6%DCIM System Planning – 5%
+
+HCIE-Data Center Facility Design (Lab)Data Center Infrastructure Consulting and Planning Guide – 17%Power Distribution System Planning and Design Overview – 6%UPS System Planning – 10%Low-Voltage Power Distribution System Planning – 8%Diesel Generator System Planning – 3%Power Supply and Distribution Architecture Case Analysis – 3%Power Supply Solution Optimization Practice – 3%Cooling System Planning – 2%Configuration and Load Calculation of Air Conditioner Terminal System – 10%Chilled Water Air Conditioner System Configuration – 10%Energy-Saving Solution for Cooling Systems – 4%Cooling System Practice – 7%DCIM System Planning Overview – 2%DCIM Architecture and Functions – 7%DCIM System Planning – 8%
+
+Recertification Policy
+
+Certification
+
+HCIE-Data Center Facility Design
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification from the same technology track.
+
+Period of Invalidity
+
+Same as initial certification.

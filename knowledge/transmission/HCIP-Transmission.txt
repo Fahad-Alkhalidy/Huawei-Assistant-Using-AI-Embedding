@@ -1,0 +1,58 @@
+HCIP-Transmission
+
+Type
+
+ICT Infrastructure (transmission)
+
+Capabilities to be Certified
+
+After passing the HCIP-Transmission V2.5 certification, you will master the principles, scheduling schemes, commissioning methods of transport network devices, service configuration, protection implementation mechanisms, and troubleshooting methods of transport network devices and transport network faults. In addition, you can perform O&M and troubleshooting based on this, and is qualified as a high-level O&M engineer for transport networks.
+
+Knowledge to Learn
+
+Principles and scheduling schemes of transport networks, commissioning methods of transport network devices, service configuration, protection implementation mechanisms, and troubleshooting methods of transport network devices and transport network faults.
+
+ObjectivesUnderstand the basic concepts, principles, transmission modes, and basic composition of WDM.Know the WDM transmission media.Have a good command of WDM technical principles and key technologies.Describe the positioning and application scenarios of Huawei OptiXtrans E9600/E6600 series and OptiXtrans DC908.Understand the appearance and cabinets of Huawei OptiXtrans E9600/E6600 series and OptiXtrans DC908.List the boards and functions of Huawei OptiXtrans E9600/E6600 series and OptiXtrans DC908.List NG WDM site types.Describe the signal flows of different types of NG WDM sites.Describe the application scenarios of NG WDM sites.List the basic elements of NG WDM networking.Describe the ROADM features of NG WDM devices.Describe the ROADM boards of NG WDM devices, including their application scenarios.Distinguish the electrical-layer cross-connection functions of various boards on NG WDM devices.Understand the electrical-layer cross-connect and grooming models of NG WDM devices.Describe the typical application scenarios of electrical-layer cross-connect and grooming of NG WDM devices.Master the optical power calculation method.Understand the general commissioning process.Get familiar with the commissioning procedures in different scenarios.Design IP addresses and masks for devices in a private network.Describe MPLS and PWE3 technologies.List the types of MS-OTN packet Ethernet services and describe their features.List maintenance features of MS-OTN packet services.Understand positions and functions of different overheads at each OTN layer.Understand basic functions of OTN electrical-layer overheads.Understand how OTN electrical-layer alarms are generated and learn how to use electrical-layer overheads to analyze and locate faults.Explain the principles of protection schemes provided by MS-OTN products.Describe the features and application scenarios of protection schemes provided by MS-OTN products.Understand the precautions for routine maintenance.Be familiar with device and NMS maintenance operations.Perform routine maintenance as required.Understand the electrical-layer alarm mechanism of the NG WDM system and describe the signal flow of electrical-layer alarms.Understand the optical-layer alarm mechanism of the NG WDM system and describe the signal flow of optical-layer alarms.Use common NG WDM alarms to locate faults.Describe the methods and ideas for handling WDM faults.Describe the classification of common faults and corresponding handling methods.Perform NG WDM Common Data Configuration.Perform Configuring Optical-Layer Services.Perform NG WDM Power Commissioning.Perform MS-OTN Service Configuration.Perform MS-OTN Protection Configuration.
+
+Target AudiencePersonnel who are going to take HCIP-Transmission V2.5 examPersonnel who expect to learn WDM/OTN/MS-OTN network commissioning, maintenance and troubleshooting
+
+Prerequisites
+
+Pass HCIA-Transmission exam or having equivalent knowledge
+
+Training ContentWDM PrinciplesSystem OverviewWDM Transmission MediaKey Technologies of WDMTransmission Network Products (HCIP)Product OverviewCabinets and SubracksBoardsNG WDM Equipment Networking and ApplicationsNetwork Layers and System ArchitectureSite TypesBasic Networking ElementsOptical- and Electrical-Layer Grooming Solutions of NG WDM DevicesOptical-Layer Grooming Solutions of NG WDM DevicesElectrical-Layer Grooming Solutions of NG WDM DevicesNG WDM Device CommissioningNG WDM Device Commissioning BasicsNG WDM Device Commissioning Process and ProcedureMS-OTN FeaturesIP BasicsMPLS & PWE3Packet ServicesMaintenance FeaturesOTN ProtocolOTN OverviewOTN Interface Structures and Multiplexing/Mapping PrinciplesOTN Frame StructureFrame Structure and Meaning of OTN Electrical-Layer OverheadsEvolution to Liquid OTNMS-OTN Protection PrinciplesDevice-Level ProtectionNetwork-Level Protection (OTN)Network-Level Protection (Packet)Routine NG WDM Device MaintenanceRoutine Device MaintenanceRoutine NMS MaintenanceNG WDM Alarm Signal Flow AnalysisOverviewElectrical-Layer Alarm AnalysisOptical-Layer Alarm AnalysisNG WDM System TroubleshootingTroubleshooting PreparationsFault Locating Ideas and MethodsTroubleshooting by Fault TypeCase AnalysisHCIP-Transmission Lab GuideNG WDM Common Data ConfigurationConfiguring Optical-Layer ServicesNG WDM Power CommissioningMS-OTN Service ConfigurationMS-OTN Protection Configuration
+
+Exam
+
+HCIP-Transmission  
+Exam Code: H31-341  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop Item  
+Time: 90min  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 300USD  
+Language: Chinese, English, Japanese
+
+Knowledge Content DistributionWDM Principles — 10%Transmission Network Products — 5%NG WDM Equipment Networking and Applications — 5%Optical- and Electrical-Layer Grooming Solutions of NG WDM Equipment — 10%NG WDM Equipment Commissioning — 15%MS-OTN Features — 10%OTN Protocol — 10%MS-OTN Protection Principles — 10%NG WDM Equipment Routine Maintenance — 5%NG WDM Alarm Signal Flow Analysis — 10%NG WDM System Troubleshooting — 10%
+
+Recertification Policy
+
+Certification
+
+HCIP-Transmission
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

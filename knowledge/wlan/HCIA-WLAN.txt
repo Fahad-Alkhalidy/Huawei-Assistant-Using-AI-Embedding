@@ -1,0 +1,64 @@
+HCIA-WLAN
+
+Type
+
+ICT Infrastructure (WLAN)
+
+Capabilities to be Certified
+
+Master the basics of WLAN technology, have a clear understanding of the WLAN architecture and the functions of each related component, be familiar with WLAN configuration and know how to design, deploy and maintain a WLAN network.
+
+Knowledge to Learn
+
+Basics and working principles of WLAN technologies; WLAN product features and networking solutions; WLAN access security and related configurations; WLAN Deployment Overview.
+
+ObjectivesDescribe the basic concepts and development history of WLAN.Compare WLAN and Wi-Fi.Describe typical application scenarios of WLAN technologies.Illustrate the challenges and development trend of WLAN.Describe basic concepts of wireless communication.Distinguish 802.11 protocols and describe Wi-Fi generations.Describe the highlights of Wi-Fi 6.Describe key WLAN technologies.Describe basic concepts in WLAN.Describe WLAN networking modes.Differentiate WLAN forwarding models.Evaluate Huawei's typical WLAN networking solutions.Describe the origin and implementation of CAPWAP.Understand the CAPWAP tunnel establishment process.Describe how an AP joins an AC and how STAs go online.Master the working mechanism of STA roaming.Explain the WLAN development process.Classify Huawei WLAN products.Describe features of Huawei WLAN products.Identify power supply modes of APs.Describe development of the VRP.Use VRP basic operation commands.Learn the methods of upgrading ACs and APs.Distinguish characteristics of Fit and Fat APs.Perform service configuration of Fat APs.Describe WLAN security threats.Describe WLAN security defense mechanisms.List common WLAN access authentication modes.Understand the WLAN service configuration procedure.Configure basic WLAN services.Summarize common WLAN faults.Describe the WLAN troubleshooting process.Know common troubleshooting methods.Describe the definition, functions, and classification of antennas.Understand the fundamentals and key performance indicators of antennas.Distinguish parameters of different antennas.Describe the WLAN network planning and delivery process.Describe WLAN network requirement collection and site survey.Describe the capacity, frequency, and coverage planning of the WLAN network.Describe the WLAN network channel planning, AP deployment design, power supply and cabling design, and AP installation mode design.Describe WLAN project acceptance methods.
+
+Target AudiencePersonnel who want to become WLAN assistant engineersThose who wish to obtain the HCIA-WLAN certificatePeople who want to learn WLAN technology
+
+PrerequisitesBe familiar with the PC operating system.Basic computer knowledgeHCIA-DataCom certification or equivalent technical level
+
+Training Content
+
+WLAN Technology BasicsWLAN OverviewEnterprise WLAN OverviewChallenges Faced by Enterprise WLANNext-Generation Enterprise WLAN SolutionWLAN BasicsBasic Concepts of Wireless CommunicationIntroduction to 802.11 StandardsKey WLAN TechnologiesWLAN FundamentalsCAPWAP TunnelKey 802.11 FramesSTA Going-Online ProcessWLAN RoamingWi-Fi 6 Technologies and ProductsWi-Fi 6 TechnologiesHuawei WLAN Product FamilyFeatures of Huawei WLAN ProductsAP Power SupplyWLAN Networking ModelsBasic Concepts in WLANWLAN Networking ArchitecturesTypical WLAN Networking Solutions
+
+WLAN Security and ConfigurationHuawei VRP and Device UpgradeHuawei VRP OverviewCommand Line BasicsWLAN Device UpgradeFat AP ConfigurationWLAN SecurityWLAN Security Threats and DefenseWLAN Access SecurityWLAN Data SecurityWLAN Network Access ControlWLAN Security ConfigurationWLAN Service ConfigurationWLAN Service Configuration ProcedureWLAN Configuration Application
+
+WLAN TroubleshootingWLAN Troubleshooting BasicsOverview of WLAN TroubleshootingTroubleshooting APs' Failures to Go OnlineTroubleshooting STAs' Failures to Go OnlineTroubleshooting AP Signal IssuesTroubleshooting Slow Internet Access of STAs
+
+WLAN Project DeploymentWLAN Antenna TechnologyAntenna OverviewConcepts Related to AntennasAntenna SelectionTraditional Indoor Distribution SystemOverview of Common WLAN DeploymentIntroduction to WLAN Planning and DesignWLAN Planning and Design DetailsWLAN Project AcceptanceWLAN Planning Cases
+
+Exam
+
+HCIA-WLAN  
+Exam Code: H12-311  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop Item  
+Time: 90 min  
+Passing Score / Total Score: 600 / 1000  
+Exam Cost: 200 USD  
+Language: Chinese, English
+
+Knowledge Content DistributionWLAN Overview – 3%WLAN Technology Basics – 15%WLAN Networking Model – 7%Introduction to Wi-Fi 6 Technologies and Products – 5%Working Principles of WLAN – 25%WLAN Access Authentication – 5%WLAN Access Configuration – 20%WLAN Troubleshooting – 10%WLAN Antenna Technology – 5%WLAN Deployment Overview – 5%
+
+Recertification Policy
+
+Certification
+
+HCIA-WLAN
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher level certification which is from the same technology track as the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

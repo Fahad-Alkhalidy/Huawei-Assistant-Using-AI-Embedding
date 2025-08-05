@@ -1,0 +1,72 @@
+HCIA-AI
+
+Type
+
+Basic Software & Hardware (AI)
+
+Capabilities to be Certified
+
+Understand the development history and cutting-edge applications of AI, and basic algorithms of traditional machine learning, deep learning, and foundation models. Be able to use AI development frameworks to build, train, and deploy neural networks, and be competent for jobs such as product development and technical support in the AI field.
+
+Knowledge to Learn
+
+Cutting-edge AI technologies and AI development trends, traditional machine learning algorithms and development practices, basics of deep learning and foundation models, AI development frameworks, AI business processes, and cutting-edge AI applications.
+
+ObjectivesUnderstand the basic concepts, major technologies, and applications of AI and foundation models, and the disputes and future of AI.Understand the theoretical basis of conventional machine learning.Master the entire process of AI tasks, including data acquisition and processing, model building, result output, and evaluation.Understand the basics of deep learning, convolutional neural networks, and recurrent neural networks, and have knowledge of the Transformer architecture and common foundation model architectures.Be familiar with mainstream development frameworks, and be able to develop simple applications using such methods.Master the AI business process and foundation model business process.Deploy simple large models and use prompt engineering.Have knowledge of cutting-edge AI applications such as voice assistants, smart homes, intelligent vehicles, intelligent recommendation systems, intelligent robots, and AI4Science.
+
+Target AudienceThose who want to become AI engineersThose who want to obtain HCIA-AI certification
+
+PrerequisitesBasic knowledge of higher mathematics and completion of the "Mathematical Foundations of Artificial Intelligence" pre-courseGood command of Python and completion of the "Python Basics" pre-course
+
+Training Content
+
+HCIA-AI Certification Training
+
+AI OverviewAI OverviewAI TechnologiesOverview of DeepSeek and Its Influence on AI DevelopmentAI ApplicationsDisputes and Future of AI
+
+Machine Learning OverviewMachine Learning AlgorithmsTypes of Machine LearningMachine Learning ProcessImportant Machine Learning ConceptsCommon Machine Learning Algorithms
+
+Basics of Deep Learning and Foundation ModelsPerceptronFully-connected Neural Network and Its Training ProcessConvolutional Neural NetworkModel Architecture Based on Recurrent Neural NetworkTransformer ArchitectureBasic Foundation Model Architecture
+
+AI Development FrameworkAI FrameworkBasics of AI Development FrameworksPyTorchAI Application Development Process
+
+AI Business Process OverviewAI Business ProcessLarge Model Business ProcessUse of Large Models and Prompt Engineering
+
+Cutting-edge AI ApplicationsVoice AssistantsSmart HomesIntelligent VehiclesIntelligent RecommendationIntelligent RobotsAI4Science
+
+Exam
+
+HCIA-AI  
+Exam Code: H13-311  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item  
+Time: 90 min  
+Passing Score / Total Score: 600 / 1000  
+Exam Cost: 200 USD  
+Language: English
+
+Knowledge Content DistributionAI Overview - 10%Machine Learning Overview - 20%Basics of Deep Learning and Foundation Models - 30%AI Development Framework - 20%AI Business Process Overview - 15%Cutting-edge AI Applications - 5%
+
+Recertification Policy
+
+Certification
+
+HCIA-AI
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Passing an exam of this certification  
+(2) Passing an exam of the same technology domain at the same or a higher level
+
+Period of Invalidity
+
+Same as initial certification.

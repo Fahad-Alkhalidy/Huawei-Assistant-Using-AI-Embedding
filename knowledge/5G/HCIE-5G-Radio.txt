@@ -1,0 +1,67 @@
+HCIE-5G-Radio
+
+Type
+
+ICT Infrastructure (5G)
+
+Capabilities to be Certified
+
+Have the capability to plan 5G networks, design and deploy 5G networks based on Huawei equipment solutions, handle complex network faults, and manage service experience and network performance.
+
+Knowledge to Learn
+
+5G air interface, 5G protocols and signaling, 5G radio network planning, 5G radio network design, Huawei 5G network optimization features, 5GC evolution and key technologies, 5G transport network principles and key technologies, 5G network design and deployment based on services (such as VR and HD video), 5G network troubleshooting, 5G network optimization problem analysis.
+
+ObjectivesDescribe 5G radio network principles and functions.Master 5G core network evolution and key technologies.Master 5G transport network evolution and deployment.Master the design of site solutions.Master the provisioning of typical 5G services.Describe the typical indoor distribution scenarios.Describe Huawei's 5G digital indoor system solution.Independently complete the 5G DIS device selection and design based on requirements in different scenarios.Independently complete the review of the 5G DIS deployment solution and provide improvement suggestions.Perform design solution verification, deployment implementation, service test and verification.Understand the key points of gNodeB interface planning.Understand the NSA/SA dual-mode networking and its implementation principles.Perform the route planning, understand the application scenarios of destination address routes and source address routes.Configure the Xn self-maintenance function.Plan the transmission interface bandwidth of a single base station.Complete the preliminary planning and script configuration for service interface based on the SA networking architecture.Understand the differences between 5G QoS and 4G QoS.Understand the differences between NSA and SA network in QoS management.Understand the QoS application process during 5G service setup.Understand the transmission QoS provided by the 5G bearer network.Understand the 5G E2E latency assurance solution.Understand the changes in the 5G O&M network.Understand the deployment policies of MAE products on the live network.Understand how to calculate the management capability of the MAE system.Understand the solutions and mechanisms on detecting the cell outage.Locate and fix the faults of the 5G base station equipment.Understand the differences between 5G faults and 4G networks and the general troubleshooting process.Understand how to analyze and handle gNodeB TOP alarms.Analyze and handle the gNodeB TOP alarm.Understand LampSite fault analysis and troubleshooting methods.Analyze and handle LampSite faults.Locate and handle 5G service problems from end to end.
+
+Target AudienceThose who plan to acquire the HCIE-5G-Radio certificate.Those who plan to learn 5G network maintenance and optimization skills.
+
+PrerequisitesThe attendees must have HCIP certificate or equivalent level of competence.The attendees must have general knowledge of 5G principles, Huawei 5G base station products, and common configuration operations.The attendees must know common features of Huawei 5G networks.
+
+Training ContentIn-depth Introduction to 5G Radio Network Principles5G Frequency Bands and Specification5G Air Interface Protocol Stack5G Air Interface Channel and Physical Layer Processes5G Protocols and Signaling (NSA and SA)Key Technologies of the 5G Core Network and Bearer NetworkNSA/SA Deployment and Evolution5GC Cloud EvolutionMEC Applications and SlicingTransport Network Evolution and Key Technologies5G Service E2E IntegrationNR Site Solution and ModernizationBBU and AAU DeploymentSynchronization and Power SupplyRadio Network Commissioning and TestingTypical Service Commissioning5G NR Wireless Network DesignDigital Indoor System Scenarios and PlanningService Interface Planning and TopologyQoS Design and AssuranceO&M Network Design and Features5G Radio Network Faults TroubleshootinggNodeB Faults (Cell, IP, Sync, NSA)LampSite Troubleshooting5G Radio Network Optimization and Problem HandlingFeature Practice (Power Control, Channel Management, MIMO, Dual Connection)Problem Handling (Access Failures, Low Speed Download, etc.)
+
+Exam
+
+HCIE-5G-Radio (Written)  
+Exam Code: H35-582  
+Exam Type: Written examination  
+Format: Single-answer, Multiple-answer, True/False  
+Time: 90 minutes  
+Passing Score / Total Score: 600 / 1000  
+Cost: 300 USD  
+Language: Chinese, English
+
+HCIE-5G-Radio (Lab)  
+Exam Code: H35-585  
+Exam Type: Experiments  
+Format: Operations, Essay Questions  
+Time: 480 minutes  
+Passing Score / Total Score: 80 / 100  
+Cost: 1200 USD  
+Language: Chinese, English
+
+Knowledge Content DistributionIn-depth Introduction to 5G Radio Network Principles – 20%5G E2E Networking Solution – 20%5G NR Network Design – 20%5G Radio Network Faults Troubleshooting – 7%5G Radio Network Optimization and Service Problem Handling – 13%5G Service E2E Integration and Optimization – 20%
+
+Recertification Policy
+
+Certification
+
+HCIE-5G-Radio
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification from the same technology track.
+
+Period of Invalidity
+
+Same as the initial certification.

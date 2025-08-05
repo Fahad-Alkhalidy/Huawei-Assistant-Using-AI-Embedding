@@ -1,0 +1,58 @@
+HCIP-5G-RNP&RNO
+
+Type
+
+ICT Infrastructure (5G)
+
+Capabilities to be Certified
+
+Have the capability to perform Huawei 5G radio network planning and cell parameter design, evaluating and applying network optimization features, managing radio network performance, analyzing and optimizing performance.
+
+Knowledge to Learn
+
+5G air interface principle, 5G protocol and signaling analysis, 5G radio network planning, features related to Huawei 5G radio network optimization, 5G radio network performance management and optimization, 5G radio network problem analysis and handling, and 5G typical industry applications.
+
+ObjectivesLearn about how to allocate 5G frequency bands and calculate the NR-ARFCN.Master the protocol layers of the 5G air interface.Understand 5G air interface frame structure and physical channels.Describe 5G Network ArchitectureDescribe 5G Protocols and FunctionsAnalyze the 5G Typical Signaling FlowUnderstand the objectives and basic planning process of 5G network planning at the early stage.Master the calculation rules and parameters of the 5G radio network coverage link budget.Understand the link budget for NR FDD wireless network coverage and the differences between NR FDD and NR TDD.Have a good command of 5G wireless network capacity estimation and planning.Learn about the principles for planning 5G neighboring cells.Understand PCI Design principles and PCI Design methods for 5G cells.Understand PRACH planning and root sequence generation principles.Be familiar with the uplink and downlink timeslot configuration of the 5G.Evaluate design of the radio network with simulation tools.Describe the application of 5G features in different scenarios.Modify the 5G features’ parameters based on radio network problems.Describe the voice call procedure in SA networking.Differentiate voice solutions in NSA and SA networking.Understand the concepts and principles of interoperability between E-UTRAN and NG-RAN.Master the principles, requirements, and deployment of mobility management for UEs in idle mode.Master the principles, requirements, and deployment of data service mobility management for UEs in connected mode.Master the principles, requirements, and deployment of voice service mobility management for UEs in connected mode.Master mobility management functions, networking, and configuration requirements in multi-operator sharing scenarios.Describe the overview of 5G counters.Describe the architecture of 5G KPIs.Master the typical KPI problem analysis issue.Handle with 5G access, mobility and retain ability related KPI problem.Analyze and handle 5G radio network coverage problems.Analyze and handle 5G radio network access, handover and call drop problems.Analyze and handle 5G data service transmission and throughput related problems.Analyze and handle 5G Rank-related optimization methods.Describe the business progress and value of 5G.Understand 5G use cases and business models.
+
+Target AudiencePeople who plan to participate in the HCIP-5G-RNP&RNO training.People who intend to learn advanced 5G principles, detailed network planning, and performance optimization.
+
+PrerequisitesMaster the basic knowledge about one type of mobile communication networks (2G/3G/4G).Understand basic concepts of 5G, and Huawei's 5G base station products and basic operations.Be able to complete basic operations and service tests on 5G networks.
+
+Training Content5G Air Interface5G Frequency Band and Spectrum PlanningNR-ARFCN CalculationNR Numerology5G Air Interface Protocol Layer5G Frame StructurePhysical ChannelsRandom Access ProcedureScheduling Principle5G Protocols and Signaling AnalysisNG-RAN ArchitectureNG Interface Protocols and FunctionsF1 Interface Protocols and Functions5G Registration Process5G PDU Session Establishment Process5G Service Request Process5G Wireless Network Coverage and Capacity EstimationNetwork Planning Objectives and ProcessLink Budget for 5G NRCoverage Analysis for NR FDD and TDDCapacity Estimation PrinciplesPRACH Planning and Configuration5G Radio Network Cell Parameters DesignCell ID PlanningPCI Planning and ConfigurationPRACH Root Sequence PlanningTDD Slot Configuration5G Radio Network Planning SimulationSimulation Tools and MethodologiesSite Configuration and Simulation ProcessOutput Reports and KPIs5G Radio Network FeaturesMassive MIMO ConfigurationBeam ManagementDL/UL DecouplingQoS DifferentiationCarrier AggregationDSS PrinciplesNetwork Slicing and IsolationSignaling Flows and Activation of 5G Voice ServicesVoice over NR ArchitectureVoice Call Flow in SA ModeInterworking between VoLTE and VoNREPS Fallback ProcedureIMS Configuration for Voice ServicesInteroperability between E-UTRAN and NG-RANInter-RAT Handover PrinciplesMeasurement ConfigurationMobility Management in Idle ModeMobility in Connected ModeParameter Planning for Mobility ScenariosMulti-Operator Core Network (MOCN) Scenarios5G Radio Network Performance ManagementKPI System OverviewKPI Categories and DefinitionsCounter Collection and AnalysisTypical KPI Optimization Cases5G Radio Network Problem Analysis and OptimizationCoverage Optimization TechniquesAccess and Drop OptimizationHandover OptimizationThroughput and Latency OptimizationAdvanced Feature TuningRank and Beamforming Optimization5G Use Cases and Business Model Exploration5G Business ScenariosIndustry Applications (eMBB, URLLC, mMTC)Private 5G NetworksBusiness Value Assessment
+
+Exam
+
+Exam Name: HCIP-5G-RNP&RNO  
+Exam Code: H35-581  
+Type: Written examination  
+Format: Single-answer Question, Multiple-answer Question, True or false  
+Duration: 90 minutes  
+Passing Score: 600 / 1000  
+Cost: 300 USD  
+Language: Chinese, English
+
+Knowledge Content Distribution5G Radio Network In-depth Principles – 30%5G Radio Network Planning – 10%5G RAN Feature Application – 35%5G Radio Network Performance Optimization – 20%5G Industry Applications and Solutions – 5%
+
+Recertification Policy
+
+Certification
+
+HCIP-5G-RNP&RNO
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as the initial certification.

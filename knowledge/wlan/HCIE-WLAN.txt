@@ -1,0 +1,92 @@
+HCIE-WLAN
+
+Type
+
+ICT Infrastructure (WLAN)
+
+Capabilities to be Certified
+
+Solid WLAN theory, WLAN solution planning and design capabilities, large-scale WLAN network deployment, and network O\&M optimization capabilities.
+
+Knowledge to Learn
+
+Datacom network foundation, WLAN cutting-edge technologies and development trends, Basic WLAN theory, Basic WLAN troubleshooting, WLAN Deployment Solution in Typical Scenarios.
+
+ObjectivesDescribe Huawei WLAN technical architectureDescribe Huawei HCIE-WLAN Certification architectureMaster WLAN networking technologiesMaster WLAN roaming technologiesMaster WLAN radio resource managementMaster WLAN multicast technologies and mDNS principlesMaster WLAN security and defenseImplement WLAN admission controlDescribe Huawei WLAN and IoT convergence solutionDescribe the principles and solutions of the wireless positioning technologyMaster how to construct an IPv6 WLANDescribe the CloudCampus solutionMaster the design and deployment of CloudCampus large-scale campus networksMaster the design and deployment of CloudCampus small- and medium-sized campus networksMaster WLAN troubleshooting methodsDescribe CampusInsight intelligent O\&MMaster WLAN optimization design and implementationDescribe the WLAN project lifecycle
+
+Target Audience
+
+Technical personnel who want to obtain HCIE-WLAN knowledge
+
+Prerequisites
+
+You are advised to pass the HCIP-WLAN certification or pass the HCIE-WLAN written exam.
+It is recommended to have at least five years of ICT experience, have experience in designing, planning, implementing, and O\&M of medium- and large-sized WLAN networks, take the lead in at least three projects, and take charge of major technical work in the projects.
+
+Training ContentBuild a Reliable WLAN Network
+   Huawei WLAN Certification OverviewIntroduction to Huawei WLAN Career CertificationIntroduction to WLAN ReliabilityImproving Wireless User ExperienceBuilding a Secure, Trustworthy WLAN Campus NetworkBuilding an Open, Converged WLAN Campus NetworkWLAN O\&M and OptimizationWLAN Network Planning and Deployment
+  WLAN Networking TechnologyWLAN Networking ArchitecturePrinciples and Configurations of Navi ACPrinciples and Configurations of Leader APPrinciples and Configurations of MeshPrinciples and Configurations of GRE and IPSec VPN
+  WLAN ReliabilityWLAN Reliability OverviewHSB TechnologiesDual-Link Cold BackupN+1 BackupCAPWAP Link Failover
+  WLAN RoamingWLAN Roaming OverviewWLAN Roaming TechnologiesWLAN Roaming OptimizationTypical Roaming Scenarios of Huawei WLAN SolutionWLAN Roaming Fault RectificationImprove Wireless User Experience
+   WLAN Radio Resource ManagementWLAN Radio CalibrationWLAN Load BalancingWLAN Anti-InterferenceWLAN QoSVIP User Experience Guarantee
+  WLAN Multicast and mDNSIP Multicast FundamentalsWLAN Multicast Network OptimizationmDNS and mDNS GatewayConstructing a Secure and Trusted WLAN Network
+   WLAN Security and DefenseOverview of WLAN Security Threats and Security SolutionsWLAN Management Plane SecurityWLAN Control Plane SecurityWLAN Forwarding Plane SecurityWLAN Network Security Configuration Example
+  WLAN Network Admission Control (NAC)Overview of NACCommonly Used NAC Methods and Their Working MechanismHuawei NAC SolutionTypical NAC ConfigurationConstructing an Open and Converged WLAN Network
+   WLAN and IoT ConvergenceOverview and Development Trends of IoT NetworksOverview of Short-Range Wireless IoT TechnologiesHuawei's CloudCampus IoT Solutions
+  WLAN Wireless Positioning TechnologiesOverview of Wireless PositioningImplementation of Wireless Positioning TechnologiesHuawei's Wireless Positioning Solutions
+  Constructing an IPv6 WLANIPv6 OverviewIPv6-based WLAN Networking and ApplicationsIPv6-based WLAN Access ControlIPv6-based WLAN SecurityWLAN Evolution to IPv6Constructing a New WLAN Network
+   Huawei CloudCampus SolutionCloudCampus OverviewUltra-Broadband ConnectivitySimplified NetworkMulti-Purpose NetworkAccess AuthenticationIntelligent PolicyIntelligent O\&M
+  CloudCampus Solution for Large and Medium-Sized Campus NetworksVXLAN-based Virtualized Campus Network and SolutionUnderlay DesignFabric DesignOverlay DesignAdmission Control and Free Mobility DesignWLAN DesignO\&M Design
+  CloudCampus Solution for Small and Medium-Sized Campus NetworksService Requirements and Challenges Facing Small and Medium-Sized Campus NetworksIntroduction to Huawei CloudCampus SolutionHuawei CloudCampus Solution Design for Small and Medium-Sized Campus NetworksTypical Industry Application Scenarios
+  CloudCampus Solution Deployment for Large Campus NetworksBasic ConceptsDeployment Planning and ProcessDeployment Guide
+  CloudCampus Solution Deployment for Small and Medium-Sized CampusDeployment Process OverviewDeployment DesignSoftware and Hardware InstallationDeploymentService DeploymentO\&M ManagementAcceptance TestWLAN Network O\&M and Troubleshooting
+   WLAN TroubleshootingWLAN Troubleshooting RoadmapAuxiliary Methods for Troubleshooting WLAN FaultsWLAN Fault Cases
+  Intelligent O\&MCampusInsight OverviewCampusInsight Functions and DemonstrationWLAN Network Planning and Optimization
+   Enterprise WLAN Optimization DesignIntroduction to Enterprise WLAN OptimizationEnterprise WLAN EvaluationEnterprise WLAN Optimization Solution DesignSolution Implementation and Acceptance
+  Large WLAN Networking PracticeWLAN Project LifecycleWLAN Project DeliverablesWLAN Project Cases
+
+Exam
+
+HCIE-WLAN (Written)
+Exam Code: H12-351
+Exam Type: Written examination
+Exam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop Item
+Time: 90min
+Passing Score/Total Score: 600/1000
+Exam Cost: 300USD
+Language: Chinese, English
+
+HCIE-WLAN (Lab)
+Exam Code: H12-352
+Exam Type: Experiments
+Exam Format: Operation, Essay Item
+Time: 480min
+Passing Score/Total Score: 80/100
+Exam Cost: 1200USD
+Language: Chinese, English
+
+Knowledge Content DistributionWLAN Networking Technology 7%WLAN Reliability 6%WLAN Roaming 5%WLAN RF Resource Management 7%WLAN Multicast and mDNS 3%WLAN Security and Defense 6%WLAN Network Admission Control 7%WLAN and IoT convergence 5%WLAN Wireless Location Technology 3%Constructing an IPv6 WLAN 5%CloudCampus Solution 7%CloudCampus Large- and Medium-Sized Campus Network Solution 4%CloudCampus Small- and Medium-Sized Campus Network Solution 4%CloudCampus Large-Scale Campus Network Solution Deployment (VXLAN Virtual Campus Network) 2%Deployment of the CloudCampus Small- and Medium-Sized Campus Network Solution 1%WLAN Troubleshooting 7%Intelligent O\&M 5%Wireless Network Optimization 6%Large-scale WLAN Networking Practice 10%
+
+Recertification Policy
+
+Certification
+
+HCIE-WLAN
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:
+(1) Participate and pass any exam of the current certification.
+(2) Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

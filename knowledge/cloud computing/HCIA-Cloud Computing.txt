@@ -1,0 +1,56 @@
+HCIA-Cloud Computing
+
+Type
+
+Cloud Platform & Cloud Services (Cloud Computing)
+
+Capabilities to be Certified
+
+Have a good command of cloud computing basics, virtualization, and virtual desktops. Be able to use virtualization and virtual desktop technologies for cloud computing deployment and O&M.
+
+Knowledge to Learn
+
+Server, storage, network, and operating system technologies and planning, design, and management of virtualization platforms and virtual desktops.
+
+ObjectivesDescribe what cloud computing is.Describe the history of cloud computing.List a few use cases of cloud computing.Describe the characteristics of cloud computing.Be able to describe what virtualization is.Understand the differences between virtualization and cloud computing.Understand KVM technology.Be able to design and deploy Huawei's FusionCompute virtualization solution and FusionAccess desktop solution.
+
+Target AudienceThose who hope to become Cloud Computing engineersThose who hope to obtain HCIA-Cloud certificateOperators and MaintainersAdministratorsPlanners and designers
+
+PrerequisitesBe familiar with basic knowledge of IT.Be familiar with basic knowledge of PC OS.
+
+Exam
+
+HCIA-Cloud Computing  
+Exam Code: H13-511  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop Item  
+Time: 90min  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 200USD  
+Language: English
+
+Knowledge Content DistributionCloud Computing Basics 5%Server Basics 2%Storage Technology Basics 5%Network Technology Basics 10%Operating System Basics 4%Virtualization 4%Huawei Virtualization Platform 6%Huawei Virtualization Platform Management and Usage 25%Overview of FusionAccess 5%FusionAccess: Planning and Deployment 8%FusionAccess: Service Provisioning 17%FusionAccess: Features and Management 5%Cloud Computing Trends 4%
+
+Recertification Policy
+
+Certification
+
+HCIA-Cloud Computing
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

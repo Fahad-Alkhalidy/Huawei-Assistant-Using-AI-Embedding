@@ -1,0 +1,101 @@
+HCIP-Big Data Developer
+
+Type
+
+Cloud Platform & Cloud Services (Big Data)
+
+Capabilities to be Certified
+
+With HCIP-Big Data Developer V2.0 certification, you will be able to use Huawei MRS or open-source Hadoop platform components to develop applications in different service scenarios, including offline batch processing, real-time retrieval, real-time stream, and converged data warehouse scenarios. In addition, you will have E2E big data solution development capabilities, and are competent for big data application development positions.
+
+Knowledge to Learn
+
+The HCIP-Big Data Developer V2.0 certification courses include the general guide to big data application development, mainstream big data technologies, big data application development process, and big data scenario-based solutions (offline batch processing, real-time retrieval, real-time stream processing, and converged data warehouse). The courses provide rich in-class experiments and scenario-based case practices to improve trainees' practical capabilities and promote the cultivation of senior development engineers in the big data industry. Compared with V1.0, HCIP-Big Data Developer V2.0 adds four scenario-based practical drills, new big data application development technologies, and DWS.
+
+Objectives
+
+● Master the changes and technology trends of the big data industry
+● Enable trainees to master the practice of offline batch processing scenario-based big data development through scenario-based project practice.
+● Enable trainees to master real-time retrieval scenario-based big data development practices through scenario-based project practice.
+● Enable trainees to master real-time stream processing scenario-based big data development practices through scenario-based project practice.
+● Master the database routine management methods based on DWS
+
+Target Audience
+
+Those who hope to become big data Developer engineers
+
+Those who hope to obtain an HCIP-Big Data Developer certificate
+
+Senior engineers of big data Developer
+
+Prerequisites
+
+l Be familiar with SQL basics
+
+l Be familiar with big data basics
+
+l Be familiar with basic development on Linux operating systems
+
+Training Content
+
+● Big Data Application Development Guide
+■ Class opening
+■ Mainstream big data technologies
+■ Scenario-based big data solution
+■ Big data application development
+● Big Data Scenario-based Solution — Offline Batch Processing
+■ Offline processing solution
+■ Introduction, technical principles, parameter attributes, and important configurations of the offline batch processing components, including data storage (HDFS), data warehouse (Hive), offline analysis tool (SparkSQL), and data collection tools (Loader, Sqoop, and Kettle)
+■ Offline batch processing cases
+● Big Data Scenario-based Solution — Real-Time Retrieval
+■ Real-time retrieval solution
+■ Introduction, technical principles, parameter attributes, and important configurations of distributed databases, including HBase, Elasticsearch, and GraphBase
+■ Real-time retrieval cases
+● Big Data Scenario-based Solution — Real-Time Stream Processing
+■ Real-time stream computing application solution
+■ Introduction, technical principles, parameter attributes, and important configurations of the real-time stream computing components, including Flume, Kafka, Flink, SparkStreaming, and Redis
+■ Real-time stream processing configuration solution and success cases
+● Big Data Scenario-based Solution — Converged Data Warehouse
+■ Background of data warehouse
+■ Introduction to DWS
+■ Converged data warehouse cases
+
+Exam
+
+HCIP-Big Data Developer
+Exam Code: H13-723
+Exam Type: Written examination
+Exam Format: Single-answer Question,Multiple-answer Question,True or false,Short Response Item,Drag and Drop Item
+Time: 90min
+Passing Score/Total Score: 600/1000
+Exam Cost: 300USD
+Language: Chinese,English
+
+Knowledge Content Distribution
+
+1.Big Data Application Development Overall Guide15%
+2.Big Data Offline Batch Processing Scenario-based Solution25%
+3.Big Data Real-time Retrieval Scenario-based Solution30%
+4.Big Data Real-time Stream Computing Scenario-based Solution30%
+
+Recertification Policy
+
+Certification
+
+HCIP-Big Data Developer
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways: (1) Participate and pass any exam of the current certification. (2) Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as the initial certification.

@@ -1,0 +1,69 @@
+HCIP-Datacom-Campus Network Planning and Deployment
+
+Type
+
+ICT Infrastructure (Datacom)
+
+Capabilities to be Certified
+
+Passing the HCIP-Datacom-Campus Network Planning and Deployment certification will indicate that you:Understand and master traditional campus network technologies, Huawei CloudCampus solution, network admission control, free mobility, VXLAN, BGP EVPN, campus network virtualization, and iMaster NCE-Campus O&M and CampusInsight intelligent O&M.Are qualified for enterprise campus network roles (account manager, project manager, pre-sales engineer, post-sales engineer, and O&M engineer) and capable of independently planning, designing, deploying, and maintaining enterprise campus networks using Huawei datacom devices.
+
+Knowledge to Learn
+
+Traditional campus network technologies, Huawei CloudCampus solution, network admission control, free mobility, VXLAN, BGP EVPN, campus network virtualization, and iMaster NCE-Campus O&M and CampusInsight intelligent O&M.
+
+ObjectivesUnderstand campus network pain points and Huawei solutions.Master common technologies on campus networks.Be familiar with the principles and implementation methods of Network Admission Control.Master the application scenarios and configuration methods of policy association.Understand the functions and implementation methods of free mobility.Understand VXLAN principles and configuration methods.Understand EVPN principles and configuration methods.Understand the campus network virtualization concept.Master how to use VXLAN and EVPN to implement campus network virtualization.Understand the Huawei CloudCampus Network Solution.Have a good command of network design for medium- and large-sized campuses based on VXLAN virtualization technologies.Deploy virtual campus networks using iMaster NCE-Campus.Master the design of small- and medium-sized campus networks.Use iMaster NCE-Campus to deploy small- and medium-sized campus networks.Perform intelligent O&M of campus networks using CampusInsight.
+
+Target AudienceIndividuals aiming to become datacom campus network senior engineers.Candidates pursuing the HCIP-Datacom-Campus Network Planning and Deployment certification.
+
+PrerequisitesFamiliarity with common operations on Huawei network devices.Knowledge and skills described in the HCIP-Datacom-Core Technology course.
+
+Training Content
+
+Campus Network and Common TechnologiesCampus Network and Solution OverviewCampus Network Architecture and Typical Technology Applications
+
+Campus Network Technology DetailsNetwork Admission ControlFree MobilityVXLAN and Campus Network VirtualizationCampus Multi-Branch Interconnection Technology
+
+Huawei Campus Network Solution OverviewHuawei CloudCampus Solution
+
+Campus Network Design and DeploymentLarge- and Medium-sized VXLAN Virtual Campus Network Design GuideVXLAN-based Virtualized Campus Network Deployment GuideSmall- and Medium-Sized Campus Network Design GuideSmall- and Medium-Sized Campus Network Deployment Guide
+
+Intelligent Campus Network O&MiMaster NCE-Campus O&MCampusInsight Intelligent O&M
+
+Exam
+
+HCIP-Datacom-Core TechnologyExam Code: H12-821Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop ItemTime: 90minPassing Score/Total Score: 600/1000Exam Cost: 300USDLanguage: Chinese, English, Japanese
+
+HCIP-Datacom-Campus Network Planning and DeploymentExam Code: H12-841Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop ItemTime: 90minPassing Score/Total Score: 600/1000Exam Cost: 180USDLanguage: Chinese, English
+
+Knowledge Content Distribution
+
+HCIP-Datacom-Core Technology
+
+The HCIP-Datacom-Core Technology V1.0 exam covers general core knowledge in the datacom field: routing basics, OSPF, IS-IS, BGP, routing and traffic control, Ethernet switching, multicast, IPv6, network security, reliability, services and management, WLAN, and network solutions.
+
+HCIP-Datacom-Campus Network Planning and Deployment
+
+The HCIP-Datacom-Campus Network Planning and Deployment V1.5 exam covers high-level knowledge of enterprise campus network scenarios in the datacom field.Campus Network and Common Technologies – 10%Campus Network Technology Details – 40%Huawei Campus Network Solution Overview – 5%Campus Network Planning, Design, and Deployment – 35%Intelligent Campus Network O&M – 10%
+
+Recertification Policy
+
+Certification
+
+HCIP-Datacom-Campus Network Planning and Deployment
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher level certification from the same technology track.
+
+Period of Invalidity
+
+Same as initial certification.

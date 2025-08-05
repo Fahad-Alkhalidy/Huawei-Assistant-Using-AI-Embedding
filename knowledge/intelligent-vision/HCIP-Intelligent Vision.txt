@@ -1,0 +1,77 @@
+HCIP-Intelligent Vision
+
+Type
+
+ICT Infrastructure (Intelligent Vision)
+
+Capabilities to be Certified
+
+People who already have the theoretical knowledge about intelligent camera and video algorithm, know technical principle and application of video cloud, video big data and video interconnection;Are able to complete low level design, installation and implementation of intelligent vision platformCompetent for senior solution engineer and senior pre-sales solution engineer of Intelligent Vision
+
+Knowledge to Learn
+
+Theoretical knowledge about intelligent camera and video algorithm, technical principle and application of video cloud, video big data and video interconnection, intelligent vision platform low level design, installation and implementation.
+
+ObjectivesKnow the principle and application of Intelligent CameraKnow the principles and management of intelligent algorithmKnow the principles and applications of video cloudKnow the principles and applications of video big dataKnow the video interconnection technology standard and applicationKnow the planning and design of video siteMaster video site installation and configurationMaster video site service commissioningMaster video site maintenanceMaster video site troubleshootingKnow intelligent vision system planning and designMaster intelligent vision system installation and configurationMaster intelligent vision system service commissioningMaster intelligent vision system maintenanceMaster intelligent vision system troubleshooting
+
+Target AudienceIV Engineer
+
+PrerequisitesA general familiarity with PC operating systemA basic understanding of computer technologyMaster knowledge of HCIA-Intelligent Vision
+
+Training Content
+
+Technical Principle and Application of Intelligent CameraHuawei Intelligent CamerasAscend Chip of Intelligent CamerasOperating System of Intelligent CamerasNew Basic Features of Intelligent Cameras
+
+Principle and Application of Intelligent Video AlgorithmIntelligent VisionIntelligent Analysis Technologies and PrinciplesHuawei HoloSens Store
+
+Technical Principle and Application of Video CloudAs-is and Challenges of the Public Safety IndustryConvergence of Cloud Computing and the Public Safety IndustryConvergence of Containers and the Public Safety IndustryConvergence of the Kunpeng Industry and the Public Safety IndustryHuawei HoloSens IVS Solution
+
+Technical Principle and Application of Video Big DataOverview and Development Trend of Video Big DataTechnical Principle of Video Big DataApplication of Video Big Data
+
+Video Interconnection Technology Standards and ApplicationOverview of Video InterconnectionCommon Protocols and StandardsCamera Access TechnologyPlatform Interconnection TechnologyIndustry Application
+
+Video Site Planning and DesignOverall Process of Video Site Planning and DesignVideo Site Selection PlanningVideo Site SurveyDevice Selection Planning for Video Sites
+
+Video Site Installation and ConfigurationFoundation ConstructionSite Installation
+
+Video Site Service CommissioningOverview of Video Site CommissioningBattery Unit CommissioningFunctional Module CommissioningCamera Commissioning
+
+Video Site MaintenanceMaintenance OverviewRoutine MaintenanceMaintenance SkillsInspection
+
+Video Site TroubleshootingTroubleshooting OverviewCommon Fault TroubleshootingTroubleshooting Skills
+
+Intelligent Vision System Planning and DesignOverview of the Intelligent Vision Data CenterInfrastructure Introduction and Planning and Design of the Intelligent Vision Data CenterIntroduction and Planning and Design of the Intelligent Vision System
+
+Intelligent Vision System Installation, Deployment, and Service CommissioningBasic Installation and Service Configuration of the Huawei HoloSens IVS1800Installation and Deployment of the Huawei HoloSens IVS3800Service Commissioning of the Huawei HoloSens IVS3800
+
+Routine Maintenance of the Intelligent Vision SystemMaintenance Overview (Intelligent Vision System)Routine Maintenance (Intelligent Vision System)Maintenance Skills (Intelligent Vision System)Inspection (Intelligent Vision System)
+
+Intelligent Vision System Troubleshooting GuideTroubleshooting Overview (Intelligent Vision System)Common Faults (Intelligent Vision System)Troubleshooting Skills (Intelligent Vision System)
+
+ExamExam Code: H12-521Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or False, Short Response Item, Drag and Drop ItemTime: 90 minPassing Score/Total Score: 600/1000Exam Cost: 300 USDLanguage: Chinese, English
+
+Knowledge Content DistributionTechnical Principle and Application of Intelligent Camera – 5%Principle and Application of Intelligent Video Algorithm – 3%Technical Principle and Application of Video Cloud – 5%Technical Principle and Application of Video Big Data – 4%Video Interconnection Technology Standard and Application – 3%Video Site Planning and Design – 10%Video Site Installation and Configuration – 18%Video Site Service Commissioning – 5%Video Site Maintenance and Troubleshooting – 5%Intelligent Vision System Planning and Design – 10%Intelligent Vision System Installation and Configuration – 12%Intelligent Vision System Service Commissioning – 10%Intelligent Vision System Maintenance and Troubleshooting – 10%
+
+Recertification Policy
+
+Certification
+
+HCIP-Intelligent Vision
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification from the same technology track.
+
+Period of Invalidity
+
+Same as initial certification.

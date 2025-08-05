@@ -1,0 +1,56 @@
+HCIP-5G-RAN
+
+Type
+
+ICT Infrastructure (5G)
+
+Capabilities to be Certified
+
+Have the capability to independently complete parameter planning and configuration of Huawei 5G radio networks, perform routine radio network operations, and analyze and handle network faults.
+
+Knowledge to Learn
+
+Typical 5G industry applications, 5G air interface and protocol principles, Huawei 5G base station hardware specifications and networking principles, 5G base station data planning, MML/CME-based data configuration and reconfiguration, routine operations, and troubleshooting.
+
+ObjectivesDescribe the business progress and value of 5GOutline 5G use cases and business applicationsConfigure 5G air interface basic parametersExplain 5G typical physical layer proceduresAnalyze and calculate physical layer KPIs such as throughput and delayDescribe 5G network architectureExplain 5G protocols and their functionsAnalyze 5G typical signaling flowsDescribe the overview and structure of MBTS productsExplain cabinet structures and components of 5G base stationsDescribe typical site configurations of 5G productsDescribe LampSite product architectureUnderstand RHUB & pRRU hardware and specsUnderstand key configuration parameters in device, transport, and radio layersPerform basic and special scenario data preparation using MMLUnderstand summary data file structure and templatesPerform batch gNodeB creationUse MAE-Deployment for initial gNodeB configurationSelect and implement proper data reconfiguration modesRoll back configurations when necessaryAdjust RAN configurations for varying network needsUse O&M tools for routine monitoring and operationsHandle and analyze normal 5G base station alarmsTroubleshoot 5G base station equipment faultsUnderstand differences in troubleshooting between 5G and 4GAnalyze and handle gNodeB and LampSite top alarms and faults
+
+Target AudienceProfessionals preparing for the HCIP-5G-RAN certificationIndividuals interested in learning 5G principles, configuration, maintenance, and troubleshooting of 5G radio networks
+
+PrerequisitesBasic knowledge of at least one mobile communication network (2G/3G/4G)Understanding of fundamental 5G concepts
+
+Training Content5G Use Cases and Business Applications5G business development and valueeMBB, smart grid, IoV, smart manufacturing, and UAV services5G Air Interface OverviewEvolution from 2G to 5G, FR1/FR2 bands, SUL decoupling3GPP protocol layers (RRC, SDAP, PDCP, RLC, MAC, PHY)Physical layer features, waveform, coding/modulation, frame structureScheduling, HARQ, random access, and terminal capabilities5G Protocols and Signaling Analysis5G network architecture, interfaces, and protocol stacksInitial access, NSA/SA mobility procedures, signaling analysisgNodeB Product OverviewMBTS architecture, cabinet/components, typical site solutionsLampSite overview, BBU, RHUB, pRRU, hRRU, DCUBase Station Initial ConfigurationgNodeB config using MML and MAE-DeploymentLampSite data config: device, transport, radio layersRAN Data Configuration AdjustmentReconfiguration for device, transport, and radio dataBase Station O&MAlarm, device, transport, radio layer maintenanceSystem and board managementTracing, monitoring, and operation practicesFault TroubleshootingFault types: cell, IP transport, clock, NSA/SA accessgNodeB fault troubleshooting practiceLampSite fault handling across hardware, transport, app, clock, and license
+
+Exam
+
+Exam Name: HCIP-5G-RAN  
+Exam Code: H35-481  
+Type: Written examination  
+Format: Single-answer, multiple-answer, and true/false questions  
+Duration: 90 minutes  
+Passing Score: 600 / 1000  
+Cost: 300 USD  
+Language: Chinese, English
+
+Knowledge Content Distribution5G Industrial Applications and Solutions – 5%5G Principles – 20%5G Base Station Product Knowledge – 10%5G Wireless Network Data Configuration – 35%5G Wireless Network Maintenance – 30%
+
+Recertification Policy
+
+Certification
+
+HCIP-5G-RAN
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before expiration, you may renew your certification by either:Passing the current version of the HCIP-5G-RAN examPassing any exam of the same or higher level within the same technology track
+
+Period of Invalidity
+
+Same as the initial certification

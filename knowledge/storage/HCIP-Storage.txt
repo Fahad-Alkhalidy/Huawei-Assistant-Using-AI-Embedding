@@ -1,0 +1,55 @@
+HCIP-Storage
+
+Type
+
+ICT Infrastructure (Storage)
+
+Capabilities to be Certified
+
+A good understanding of the functions and application scenarios of flash storage and scale-out storage products. A good command of installation and commissioning, performance tuning, routine O&M, and troubleshooting of storage devices.
+
+Knowledge to Learn
+
+Knowledge about flash storage and scale-out storage in storage product technologies and applications, deployment, performance optimization, O&M, and troubleshooting.
+
+ObjectivesKnow about product overviewKnow software and hardware architectureUnderstand key technologiesUnderstand value-added featuresKnow typical application scenariosUnderstand the installation process of storage productsUnderstand the service configuration process of storage productsUnderstand concepts related to storage performanceHave general knowledge of storage performance evaluation methodsUnderstand the methods of locating storage system performance problemsHave a good command of storage system performance tuning methodsHave a good command of storage system performance tests and tool usageUnderstand how to use storage O&M management toolsUnderstand routine storage management operationsUnderstand the basics of storage system troubleshootingUnderstand the procedures for troubleshooting a storage systemUnderstand different ways to troubleshoot a storage systemUnderstand how to replace parts
+
+Target AudienceThose who want to be storage engineersThose who want to achieve HCIP-Storage certificationAdministrator of storage arrays
+
+PrerequisitesUnderstand basic network knowledgeUnderstand computer componentsUnderstand the basic knowledge of Windows and Linux operating systemsHave a good command of HCIA-Storage
+
+Training Content
+
+Storage Technologies and ApplicationsFlash Storage Technologies and ApplicationsProduct overviewSoftware and hardware architectureKey technologiesValue-added featuresTypical application scenariosData Protection Technologies and ApplicationsOceanProtect backup storageOceanStor BCManagerTypical application scenariosScale-Out Storage Technologies and ApplicationsConcepts and development trends of scale-out storageSoftware and hardware architectures of OceanStor Pacific productsKey technologies of OceanStor Pacific productsKey features of OceanStor Pacific productsApplication scenarios of OceanStor Pacific products
+
+Storage Product DeploymentFlash Storage Product DeploymentFlash Storage Product InstallationFlash Storage Service ConfigurationScale-Out Storage Product DeploymentHardware Installation ProcessNetwork PlanningSoftware Installation ProcessService Configuration
+
+Storage System Performance TuningStorage System Performance TuningStorage Performance OverviewStorage Performance EvaluationStorage Performance ProblemsStorage Performance TuningStorage Performance Test
+
+Storage System O&M and TroubleshootingStorage System O&M ManagementStorage System O&M Management ToolsRoutine ManagementStorage System TroubleshootingBasics of TroubleshootingTroubleshooting ProcedureCollecting Information and Reporting a FaultReplacing PartsCase Analysis
+
+ExamExam Code: H13-624Exam Type: Written examinationExam Format:Single-answer QuestionMultiple-answer QuestionTrue or FalseShort Response ItemTime: 90 minutesPassing Score / Total Score: 600 / 1000Exam Cost: 300 USDLanguage: Chinese, English
+
+Knowledge Content DistributionStorage technologies and applications – 50%Storage product deployment – 15%Storage system performance tuning – 15%Storage system O&M and troubleshooting – 20%
+
+Recertification Policy
+
+Certification
+
+HCIP-Storage
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher-level certification within the same technology track.
+
+Period of Invalidity
+
+Same as initial certification.

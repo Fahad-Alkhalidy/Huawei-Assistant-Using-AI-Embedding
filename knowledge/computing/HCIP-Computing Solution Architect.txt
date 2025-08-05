@@ -1,0 +1,51 @@
+HCIP-Computing Solution Architect
+
+Type
+
+ICT Infrastructure (Computing)
+
+Capabilities to be Certified
+
+Understand the requirements and solutions related to computing clusters, master the planning and design of general-purpose computing and high-performance computing (HPC) clusters, and grasp the service migration and development methods based on the ARM architecture. This certification prepares you for roles such as data center computing solution engineer and computing pre-sales engineer.
+
+Knowledge to Learn
+
+General-purpose computing solutions and high-performance computing cluster solutions.
+
+ObjectivesUnderstand general computing business.Be familiar with Taishan hardware products.Be familiar with Taishan basic software.Be familiar with the enablement kit BoostKit.Be familiar with the development kit DevKit.Master the development process of ARM applications.Gain a clear understanding of HPC, its functionalities, and common use cases.Recognize the scenarios and demands where HPC is applied.Develop comprehensive knowledge of the architecture and core technologies in HPC.Learn the design approaches and methodologies behind HPC.
+
+Target AudienceData center computing solution engineersComputing product pre-sales engineersPersonnel who want to obtain the HCIP-Computing Solution Architect certification
+
+PrerequisitesUnderstand basic knowledge of computing devices such as servers
+
+Training Content
+
+General-Purpose Computing SolutionWhat is General ComputingTaishan Hardware ProductsTaishan Basic SoftwareApplication Enablement Suite BoostKitDevelopment Kit DevKitARM Application Development Process
+
+High-Performance Computing Cluster SolutionIntroduction to HPCHPC RequirementsHPC SolutionKey ComponentsHPC Solution Design
+
+ExamExam Code: H13-222Exam Type: Written examinationExam Format:Single-answer QuestionsMultiple-answer QuestionsTrue or FalseShort Response ItemsDrag and Drop ItemsTime: 90 minutesPassing Score / Total Score: 600 / 1000Exam Cost: 300 USDLanguage: English
+
+Knowledge Content DistributionGeneral-purpose Computing Solution – 50%High-Performance Computing Cluster Solution – 50%
+
+Recertification Policy
+
+Certification
+
+HCIP-Computing Solution Architect
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher-level certification within the same technology track.
+
+Period of Invalidity
+
+Same as initial certification.

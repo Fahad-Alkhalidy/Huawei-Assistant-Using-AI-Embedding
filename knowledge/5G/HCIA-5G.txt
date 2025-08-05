@@ -1,0 +1,66 @@
+HCIA-5G
+
+Type
+
+ICT Infrastructure (5G)
+
+Capabilities to be Certified
+
+Have a systematic understanding and grasp of knowledge and skills in 5G development and evolution, 5G network architecture and key technologies, 5G new technology convergence and innovative applications, 5G basic service capabilities and applications, and 5G industry application solutions, and have the basic capabilities of 5G industry solution design and service marketing, which are required for positions such as industry solution engineer and pre-sales solution engineer.
+
+Knowledge to Learn
+
+The basic knowledge of 5G networks and industry applications, and the basic knowledge and skills required as industry solution engineers and pre-sales solution engineers.
+
+ObjectivesExplain the functions and value of 5G basic service capabilities.Describe the major solutions that employ 5G basic service capabilities.Understand the current state of 5GtoB basic service applications.Understand the 5GtoB basic service application solutions.Understand the development of mobile communications.Understand the driving forces of 5G development.Understand the 5G standardization progress.Understand the development trend of ICT technology convergence.Elaborate the applications of 5G with new technologies in enabling the industry.Describe the current state of 5G development in the industry.Describe the 5G network architecture.List the key technologies of the 5G air interface.List 5G network security technologies.Understand the application and development trend of 5G in vertical industries.Understand the 5G solutions to industrial applications.Understand IoV solutions.
+
+Target AudiencePersonnel who want to become 5G solution engineersPersonnel who want to obtain the HCIA-5G V2.0 certification
+
+PrerequisitesBasic IT technologies and network knowledge
+
+Training Content
+
+5G Basic Service Capabilities and Applications5G Basic Service Capabilities and Applications5GtoB Industry Understanding5GtoB Basic Service Capabilities5G Basic Service Applications
+
+5G Development and Evolution5G Development and EvolutionBasics of Mobile CommunicationsDriving Force of 5G Development5G Standardization Progress5G Industry Chain and EcosystemGlobal 5G Commercial Use
+
+5G + New Technology Innovative Application5G + New Technology Innovative ApplicationICT Technology Convergence Drives the Digital EconomyCharacteristics and Status Quo of New TechnologiesUse Cases of 5G with New Technologies in Enabling Vertical Industries
+
+5G Network Architecture and Key Technologies5G Network Architecture and Key Technologies5G Network ArchitectureKey 5G Air Interface Technologies5G Network Security
+
+5G Industrial Applications and Solutions5G Industrial Applications and Solutions5G Industrial Applications and Development TrendsIoV SolutionsApplications in Other Industries
+
+Exam
+
+HCIA-5G  
+Exam Code: H35-660  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false  
+Time: 90min  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 200USD  
+Language: Chinese, English, Russian
+
+Knowledge Content Distribution5G Development and Evolution — 18%5G Network Architecture and Key Technologies — 27%5G + New Technology Innovative Application — 15%5G Basic Service Capabilities and Applications — 20%5G Industrial Applications and Solutions — 20%
+
+Recertification Policy
+
+Certification
+
+HCIA-5G
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

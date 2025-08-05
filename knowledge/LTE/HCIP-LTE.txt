@@ -1,0 +1,66 @@
+HCIP-LTE
+
+Type
+
+ICT Infrastructure (LTE)
+
+Capabilities to be Certified
+
+Demonstrate the capabilities of independently performing parameter planning and configuration, routine operations and troubleshooting for Huawei LTE network.
+
+Knowledge to Learn
+
+Network configuration management and problem analysis and handling for Huawei LTE radio networks, aiming at standardizing professional skills in LTE radio network O&M.
+
+ObjectivesUnderstand detailed principle of LTE air interfaceUnderstand functions of different layers in LTE air interfacePerform operations for Huawei LTE eNodeB such as managing eNodeB alarms, tracing signaling, managing eNodeB software, managing real-time monitoring, etc.Perform eNodeB advanced troubleshootingPerform initial configuration and reconfiguration of Huawei LTE eNodeBUnderstand structure of LTE/EPCUnderstand functions and procedures of X1/S2 interfaceUnderstand typical procedures in LTE such as handovers
+
+Target AudienceThose who are to take the HCIP-LTE Certificate ExamThose who hope to learn about detailed LTE principles and Huawei LTE equipment
+
+PrerequisitesA general knowledge in cellular systems and radio technology
+
+Training Content
+
+LTE Air InterfaceLTE Air InterfaceThe evolution of cellular networks and 3GPP releasesRadio interface techniquesOFDMA/SC-FDMA principle, signal generation and processingRadio interface protocolsTime-domain and frequency-domain structure in the radio interface in UL and DL for both FDD and TDD modeChannel structure of the radio interfaceUplink/downlink transmission techniqueThe paging procedureThe cell search procedureThe random access procedureUplink/downlink power controlsHARQConcepts of layers, channel rank, spatial multiplexing, open and closed loop spatial multiplexing, TX diversity, beamforming, SU-MIMO and MU-MIMO
+
+LTE Advance TroubleshootingEPS End to End IP Protocol AnalysisEnd to end IP protocol architectureMethods/tools for collecting IP layer messagesTrace analysis:O&M traceControl Plane traceUser Plane traceLTE Throughput AnalysisFactors affecting LTE throughputAnalysis on throughput problemLow throughputFluctuating throughputeNodeB LTE Antenna & Feeder System Fault Analysis and TroubleshootingFaults related to antenna & feeder systemPIM principle and fault analysisVSWR principle and fault analysisTMA working principle and power supplyLocation by section method in PIM and VSWR troubleshootingTroubleshooting with help of Huawei U2000 and Web LMT
+
+eNodeB ReconfigurationeNodeB LTE ReconfigurationReconfiguration working flowReconfiguration tools and operationRadio/Device/Transmission data reconfigurationData reconfiguration in typical scenarios
+
+LTE Protocols and E2E SignalingLTE Protocols and E2E SignalingThe detailed signaling procedure of UE access networkThe detailed signaling procedure of pagingThe detailed signaling procedure of TAUThe detailed signaling procedure of handoverThe detailed signaling procedure of detach
+
+Exam
+
+HCIP-LTE  
+Exam Code: H31-421  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false  
+Time: 90 minutes  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 300 USD  
+Language: Chinese, English
+
+Knowledge Content DistributionLTE Air Interface — 30%LTE Signaling and Protocols — 27%eNodeB Reconfiguration — 13%LTE Advance Troubleshooting — 30%
+
+Recertification Policy
+
+Certification
+
+HCIP-LTE
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as the initial certification.

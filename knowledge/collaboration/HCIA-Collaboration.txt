@@ -1,0 +1,65 @@
+HCIA-Collaboration
+
+Type
+
+ICT Infrastructure (Collaboration)
+
+Capabilities to be Certified
+
+Passing the HCIA-Collaboration V4.0 certification proves that you have a systematic understanding and mastery of collaboration technologies, video conferencing protocols, video conferencing endpoint features and O&M, IdeaHub product features and O&M, MCU product features, SMC product features, recording & streaming products and features, and basic O&M management of video conferencing systems; have the ability to perform basic configuration, operation, and O&M management of video conferencing systems, and the competence in positions such as collaboration engineer, video conferencing engineer, and IT technical support.
+
+Knowledge to Learn
+
+Collaboration technologies and products, technologies, protocols, and endpoint features and O&M of video conferencing, IdeaHub product features and O&M, MCU product features, SMC product features, recording & streaming products and features, and basic configuration and operation of the video conferencing system.
+
+ObjectivesBe familiar with the basic knowledge of collaboration.Have general knowledge of the architecture, products, and features of the collaboration solution.Understand collaboration solution applications.Have general knowledge of SIP and H.323.Describe the typical SIP and H.323 conference service flows.Have general knowledge of the appearance, hardware ports, peripherals, and accessories of the Box and Bar series endpoints.Understand the functions and features of the Box and Bar series endpoints.Have general knowledge of the installation and deployment of Box and Bar series endpoints.Understand the basic operation and routine maintenance of Box and Bar series endpoints.Understand the appearance and hardware ports of the IdeaHub series endpoints.Understand the functions and features of the IdeaHub series endpoints.Understand IdeaHub installation and deployment.Understand basic operation and routine maintenance of IdeaHub.Understand the definition and basic working principles of the MCU.Understand the hardware of the VP9800 series MCU.Understand the service functions and features of the VP9800 series MCU and CloudMCU.Have general knowledge of RSE8800(A) and CloudRSE and their hardware.Understand the service functions and features of the RSE8800(A) and CloudRSE.Understand the SMC/SC product forms and hardware.Understand the functions and features of the SMC/SC service.Understand the preparations for configuring the video conferencing system.Master the data planning of the video conferencing system.Master the basic configuration process of the video conferencing system.Have general knowledge of the management operation on the video conferencing system.Have general knowledge of conference operations and organization/user operations in the video conferencing system.
+
+Target AudienceThose who want to become collaboration engineersThose who want to obtain the HCIA-Collaboration certificate
+
+PrerequisitesBe familiar with the PC operating system.Have basic knowledge of IT technologies and networks.
+
+Training Content
+
+Collaboration Technology and Product OverviewVideo Communication Development TrendIntroduction to the Collaboration SystemCollaboration Solution Application Cases
+
+Basics and Applications of Video Conferencing ProtocolsBasic Principles of SIPBasic Principles of H.323
+
+O&M of Video Conferencing EndpointsHardware of Box Series EndpointsHardware of Bar Series EndpointsFeatures of EndpointsEndpoint Installation and DeploymentEndpoint Basic OperationsEndpoint Routine Maintenance
+
+IdeaHub Products and FeaturesProduct OverviewProduct IntroductionFunctions and FeaturesInstallation and DeploymentBasic OperationsRoutine Maintenance
+
+Video Conferencing Platform Product Introduction and O&M
+
+MCU Products and FeaturesDefinition and Basic PrinciplesProduct OverviewProduct HardwareService Functions
+
+Recording & Streaming Products and FeaturesProduct OverviewProduct Forms and HardwareService FunctionsOperation and Maintenance
+
+SMC Products and FeaturesProduct OverviewProduct FormsProduct HardwareService Functions
+
+Basic Configuration and Operations of the Video Conferencing SystemPreparationsData PlanningConfiguration ProcessSMC System Management OperationsSMC Conference OperationsSMC Organization/User Operations
+
+ExamExam Code: H11-851Exam Type: Written examinationFormat: Single-answer, Multiple-answer, True/False, Short ResponseDuration: 90 minutesPassing Score: 600/1000Cost: 200 USDLanguage: English
+
+Knowledge Content DistributionCollaboration technology and product overview – 13%Basics and applications of video conferencing protocols – 18%O&M of video conferencing endpoints – 14%IdeaHub products and O&M – 14%MCU products and functions and features – 12%Recording & streaming products and features – 5%SMC products and configuration operations – 24%
+
+Recertification Policy
+
+Certification
+
+HCIA-Collaboration
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Examinees can update the validity period of the certificate in any of the following ways before the certificate expires:Passing any exam of this certificationPassing an exam in any technical field at the same or a higher level
+
+Period of Invalidity
+
+Same as initial certification.

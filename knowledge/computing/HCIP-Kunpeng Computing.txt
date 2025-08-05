@@ -1,0 +1,55 @@
+HCIP-Kunpeng Computing
+
+Type
+
+ICT Infrastructure (Computing)
+
+Capabilities to be Certified
+
+Help professionals build the capability to manage and utilize Kunpeng Computing products, including product planning and design, installation and deployment, intelligent operation, maintenance, and troubleshooting.
+
+Knowledge to Learn
+
+Introduction to Kunpeng Computing products, Kunpeng product planning and design, installation and deployment, intelligent O&M, and troubleshooting.
+
+ObjectivesMaster basic software functions and initialization operations of the server.Master routine O&M and troubleshooting methods and processes of the server.Understand common software used for Kunpeng computing and O&M.Gain proficiency in basic operations of SmartKit and FusionDirector.Master typical fault cases involving hardware, software, system, and high-risk scenarios.Understand technologies and development trends in Kunpeng computing.Understand the overall computing product system.Master the basic process of Kunpeng computing product planning and design.Be skilled in site survey, installation, power-on, and power-off operations.
+
+Target AudiencePeople who want to become Huawei senior Kunpeng computing engineers.People who want to obtain the HCIP-Kunpeng Computing V1.0 certification.
+
+PrerequisitesBasic understanding of IT technologies and network knowledge.Completion of HCIA-Kunpeng Computing V1.0 content.
+
+Training Content
+
+Kunpeng Computing Product Installation and DeploymentKunpeng Computing Hardware Installation and DeploymentIntroduction to Engineering SurveyServer InstallationPowering On and Off the ServerKunpeng Computing Software Installation and DeploymentCompatibility Problem DescriptionBasic Server SoftwareServer Initialization ConfigurationServer Firmware Upgrading
+
+Intelligent O&M and TroubleshootingOverview of Intelligent O&M and TroubleshootingRoutine Server O&MServer TroubleshootingCommon O&M SoftwareServer O&M Software System OverviewIntroduction to SmartKit, FusionDirector, eService, and SmartProvisioningIntelligent Management EcosystemTroubleshooting CasesHardware Fault CasesManagement Software Fault CasesOperating System Fault CasesHigh-Risk Operation Fault Cases
+
+Introduction to Kunpeng Computing ProductsAdvanced Technologies and Development TrendsIntroduction to the Computing Product SystemServer Advantages and Use Cases
+
+Kunpeng Computing Product Planning and DesignPlanning and Design Concepts and ProcessesIntroduction to Product Planning and Design
+
+ExamExam Code: H13-221Exam Type: Written examinationExam Format:Single-answer QuestionsMultiple-answer QuestionsTrue or FalseShort Response ItemsDrag and Drop ItemsTime: 90 minutesPassing Score / Total Score: 600 / 1000Exam Cost: 300 USDLanguages: English, Japanese
+
+Knowledge Content DistributionIntroduction to Kunpeng Computing Products – 20%Kunpeng Computing Product Planning and Design – 20%Kunpeng Computing Product Installation and Deployment – 30%Intelligent O&M and Troubleshooting – 30%
+
+Recertification Policy
+
+Certification
+
+HCIP-Kunpeng Computing
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher-level certification within the same technology track.
+
+Period of Invalidity
+
+Same as initial certification.

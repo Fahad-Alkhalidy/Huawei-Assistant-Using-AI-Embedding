@@ -1,0 +1,79 @@
+HCIE-Kunpeng Computing
+
+Type
+
+ICT Infrastructure (Computing)
+
+Capabilities to be Certified
+
+Passing the HCIE-Kunpeng Computing V1.0 certification will indicate that you:Have insights into Kunpeng Computing ecosystem and knowledge about key technologies and applications.Are able to perform the solution architecture design, deployment and system optimization of typical scenarios in Kunpeng Computing field.Are competent for Kunpeng Computing pre-sales/after-sales technical support, Kunpeng Computing solution application expert, data center server architect engineer and other positions.
+
+Knowledge to LearnDescribe the current situation and challenges of the computing industry.Understand the industry's countermeasures.Distinguish technologies between general-purpose and heterogeneous computing.Describe the working principles of acceleration components and common computing platforms.Have general knowledge of the basic concepts, application scenarios, software and hardware architectures, and key technologies of the Kunpeng Computing solution.Describe the delivery process of typical solutions.Understand basic methods and common tools for system optimization.Have a good command of parameter optimization methods in typical application scenarios.
+
+ObjectivesDescribe the current situation and challenges of the computing industry.Understand the industry's countermeasures.Distinguish technologies between general-purpose and heterogeneous computing.Describe the working principles of acceleration components and common computing platforms.Have general knowledge of the basic concepts, application scenarios, software and hardware architectures, and key technologies of the Kunpeng Computing solution.Describe the delivery process of typical solutions.Understand basic methods and common tools for system optimization.Have a good command of parameter optimization methods in typical application scenarios.
+
+Target Audience
+
+People who want to become Kunpeng Computing experts.  
+People who want to obtain HCIE-Kunpeng Computing certification.
+
+Prerequisites
+
+Have good understanding of IT technology and network knowledge.  
+Have mastered the content involved in HCIP-Kunpeng Computing V1.0.
+
+Training ContentInsight into Computing Industry Ecosystem
+
+1.1 Insight into Computing Industry EcosystemDescribe the status quo of the traditional computing industry and its room for improvementUnderstand the computing requirements of emerging technologiesKnow how the industry addresses challengesKey Technologies and Applications
+
+2.1 General-Purpose and Heterogeneous Computing TechnologiesChips used in general-purpose and heterogeneous computingTechnologies differences between general-purpose and heterogeneous computingHuawei Kunpeng processors and TaiShan servers
+
+  2.2 Accelerator Components and Computing PlatformsWorking principle of the acceleration componentDifferences between common computing platformsKunpeng Computing Solution Design and Practice
+
+3.1 Web System SolutionsConcepts, application scenarios, and architecture of the web systemHuawei Kunpeng accelerator engineWeb delivery solution of Huawei Kunpeng platform
+
+  3.2 SDS SolutionsDifferences between SDS and traditional storageArchitecture, key concepts, and data stored procedures of distributed storage CephDelivery process for SDS-based solutions on Kunpeng platform
+
+  3.3 Big Data SolutionsKunpeng big data solution architectureTypical delivery process of Kunpeng big data solutions
+
+  3.4 Software Migration SolutionsExecution of interpreted and compiled appsCompilation differences between x86 and Kunpeng platformsHuawei Kunpeng community and migration toolsMigration methods in different scenarios
+
+  3.5 Deep Learning Application SolutionsAI application scenariosHuawei Atlas solutionHUAWEI CLOUD deep learning development platform
+
+  3.6 Hyper-Converged Private Cloud SolutionsConcepts of virtualization, private cloud, and desktop cloudKey technologies in hyper-converged architectureDelivery process of typical solutions
+
+  3.7 Hyper-Converged Database SolutionsSoftware and hardware architecture and networkingDelivery process of database solutions on hyper-converged systemsKunpeng Computing System Optimization
+
+4.1 Introduction to System OptimizationBasic optimization methodsSystem management toolsBenchmark tools
+
+  4.2 System Optimization PracticesNginx optimizationCeph optimizationMySQL optimizationBig data component optimizations (HDFS, Yarn, MapReduce)
+
+Exam
+
+HCIE-Kunpeng Computing (Written)Exam Code: H13-231Type: WrittenFormat: Single-answer, Multiple-answer, True/False, Short Response, Drag and DropDuration: 90 minutesScore: 600 / 1000Cost: 300 USDLanguage: Chinese, English
+
+HCIE-Kunpeng Computing (Lab)Exam Code: H13-236Type: Hands-on LabFormat: Operations, EssayDuration: 480 minutesScore: 80 / 100Cost: 1200 USDLanguage: Chinese, English
+
+Knowledge Content DistributionInsight into computing industry ecosystem – 5%Key technologies and applications – 25%Kunpeng Computing solution design and practice – 60%Kunpeng Computing system optimization – 10%
+
+Recertification Policy
+
+Certification
+
+HCIE-Kunpeng Computing
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Pass any exam of the current certification.Pass any exam of the same or higher level certification from the same technology track.
+
+Period of Invalidity
+
+Same as initial certification.

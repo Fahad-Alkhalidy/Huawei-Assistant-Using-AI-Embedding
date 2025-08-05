@@ -1,0 +1,62 @@
+HCIP-5G-Core
+
+Type
+
+ICT Infrastructure (5G)
+
+Capabilities to be Certified
+
+Have the advanced knowledge of network architecture and basic principles of the 5G core network, understand the basic knowledge of Huawei 5G core network products, master the basic knowledge of Huawei UNC/UDG/UDM/UPCF/SPS hardware and software and 5G network deployment and O&M capabilities.
+
+Knowledge to Learn
+
+5G core network evolution and key technologies, 5G NSA core network principles, 5G SA core network principles, NFVI and MANO basics, Huawei 5G SA core network product solutions, routine maintenance operations, and 5G core network basic configuration and commissioning, 5G core network signaling analysis and troubleshooting. The involved products include HUAWEI UNC/UDG/UDM/UPCF/SPS/U2020.
+
+ObjectivesHave a good command of the software and hardware structures of Huawei 5G core network products.Have general knowledge of NF functions and main service processes.Master the configuration methods and commissioning verification methods of Huawei 5G core network products.Have a proficient command of routine O&M of Huawei 5G core network products.Master the basic signaling procedure of the 5GC.Master 5G signaling procedures analysis.Understand the general methods for 5G SA core network troubleshooting.Master the methods of handling common alarms on the 5G SA core network.Have a good command of the methods for handling the deterioration of common counters on the 5G SA core network.Know how to troubleshoot single-subscriber service faults in 5G SA network.
+
+Target Audience
+
+Huawei customers, Huawei partner, as well as Huawei engineers who want to master Huawei 5G core network products.
+
+Prerequisites
+
+It is recommended that you learn HCIA-5G-Core in advance.
+
+Training Content5G SA UNC/UDG Operation & Maintenance IntroductionUNC Product IntroductionProduct PositioningProduct FeaturesSystem PrincipleFunction DescriptionProtocol InterfaceData flowKey FeaturesUNC IP Route ConfigurationUNC IP NetworkingUNC Static Route IP Address ConfigurationUNC Dynamic Route IP Address ConfigurationUNC AMF Data ConfigurationAMF OverviewConfiguring Local Office DataNetwork Slice ConfigurationN2 Interface ConfigurationSBI ConfigurationUNC SMF Data ConfigurationSMF OverviewConfiguring Local Office DataIP Route Data ConfigurationSMF Service ConfigurationSBI ConfigurationN4 Interface ConfigurationUNC NRF Data ConfigurationNRF OverviewConfiguring Local Office DataIP Route Data ConfigurationNRF Service ConfigurationSBI ConfigurationUNC NSSF Data ConfigurationNSSF OverviewConfiguring Local Office DataIP Route Data ConfigurationNSSF Service ConfigurationSBI ConfigurationUDG System OverviewUDG Product PositioningUDG hardware systemUDG Software ArchitectureUDG Interfaces and FunctionsUDG Interface ConfigurationBackground KnowledgeOM Interface ConfigurationN4 Interface ConfigurationN3 Interface Configuration5GC Session Management Data ConfigurationDescribe basic conceptsAPN Data Configuration5GC PCC PrinciplesPCC Service OverviewPCC Service Signaling ProcedurePCC Service Data Configuration5GC Charging ConfigurationBasic Charging PrinciplesCharging Data Configuration5G SA UDM Operation & Maintenance PracticeUSCDB System Principle and O&MUSCDB System Principles OverviewDS Principles and O&MPGW Principles and Operation and Maintenance5G SA UDM System Overview and Networking5G SA UDM Network Architecture and NF FunctionsMain Service ProceduresSoftware System ConceptsSoftware ArchitectureService Processing Flow5G SA UDM Subscription Data Management and FeaturesPGW Client Introduction5G Subscription Data4G-5G Interworking5G SA UDM Data Configuration and O&MData Configuration ProcedureSignaling Interconnection ConfigurationInterface CommissioningRoutine O&M5G SA UPCF Operation and Maintenance PracticeSystem Overview and NetworkingPositioningNetworkingBasic Services and FunctionsHardware and Software StructuresReliabilityTechnical SpecificationsData Configuration and CommissioningConfiguration BackgroundConfiguration ProcedureBE & FE ConfigurationFE Interconnection with NRF, SMFService Provisioning Interface ConfigurationLink Data ConfigurationService ProvisioningPGW Client IntroductionSubscriber Registration and Service SubscriptionBasic Service Policy ConfigurationPolicy PrinciplesConfigurationAnalysis and Configuration CasesN7/N15 Policy Control Using HTTP5G SA SPS Operation and Maintenance PracticeCloudSPS Product IntroductionNetwork ArchitectureProtocols and Reference InterfacesFunctions and FeaturesSoftware Architecture and Logical FunctionsCloudSPS(SCP) Basic Data ConfigurationConfiguration ProcessBasic ConfigurationSignaling Interworking ConfigurationCloudSPS(BSF) Basic Data ConfigurationConfiguration ProcessBasic ConfigurationSignaling Interworking ConfigurationCloudSPS(SCP) Feature Data ConfigurationService IntroductionSCP Routing ConceptsRouting Modes and Data ConfigurationCloudSPS(BSF) Feature Data ConfigurationHTTP Session Binding ConfigurationAging Mechanism Configuration5G SA Core Network Signaling Procedure Analysis PracticeSlice Selection SignalingRegistration SignalingSession EstablishmentSSC Anchor Change4G-5G InterworkingAMF Reallocation5G SA Core Network Troubleshooting AnalysisTroubleshooting MethodsAlarm HandlingKPI Deterioration HandlingSingle-Subscriber Fault HandlingTroubleshooting PracticeAlarm PracticeIndicator Deterioration PracticeSingle-Subscriber Fault Practice
+
+Exam
+
+HCIP-5G-Core  
+Exam Code: H35-651  
+Exam Type: Written examination  
+Format: Single-answer, Multiple-answer, True/False  
+Duration: 90 minutes  
+Passing Score/Total Score: 600/1000  
+Cost: 300 USD  
+Language: Chinese, English
+
+Knowledge Content Distribution5G Core Network Evolution and Key Technology – 5%5G Basic Principle – 5%NFV Solution and O&M Solution – 5%5G SA Core Network Product Routine O&M – 5%5G SA Core Network Deployment – 60%5G SA Core Network Advanced O&M – 20%
+
+Recertification Policy
+
+Certification
+
+HCIP-5G-Core
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification within the same technology track.
+
+Period of Invalidity
+
+Same as initial certification.

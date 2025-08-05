@@ -1,0 +1,64 @@
+HCIP-Cloud Computing Solution Architect
+
+Type
+
+Cloud Platform & Cloud Services (Cloud Computing)
+
+Capabilities to be Certified
+
+Passing the HCIP-Cloud Computing Solution Architect V1.0 certification means that you have fostered a deep understanding of the underlying architecture and principles of cloud computing and also mastered the skills needed to plan and design solutions based on Huawei Cloud Stack, as well as to innovate in business planning using cloud-native and big data services. The expertise and capabilities will make you qualified for positions such as cloud computing solution engineers and cloud computing presales engineers.
+
+Knowledge to LearnOpen-source OpenStack technologyHuawei Cloud Stack architecture and key componentsHuawei Cloud Stack networking architectureCloud native and container technologiesDatabase technologiesBig data technologiesHuawei Cloud Stack planning and design
+
+ObjectivesThe origin, version evolution, and functions of OpenStack.OpenStack architecture and its components.Understand the Huawei Cloud Stack solution and its overall architecture.Be familiar with the functions of each part in the Huawei Cloud Stack architecture.Understand the basic principles of VXLAN and VRF.Understand the functions of the Huawei Cloud Stack network planes.Understand the network traffic flows in Huawei Cloud Stack.Understand the basic concepts of cloud native.Understand the basic features of cloud native.Get a grasp of containers and the container engine containerd.Understand the application scenarios and advantages of Kubernetes.Know how to install Kubernetes.Know how to perform basic operations on workloads.Acquire a general knowledge of Helm.The architecture and features of Huawei CCE.Basic operations of Huawei CCE.The features of cloud native services, such as Application Service Mesh (ASM), AOM, and APM.Describe concepts related to database technologies.List major relational databases.Distinguish different relational data architectures.Understand major database concepts.Describe and identify the major scenarios of relational databases.Concept and 4 V's of big dataOffline batch processingReal-time stream processingBig data architecture and componentsGaussDB(DWS)MRSDataArts StudioUnderstand the architecture design principles of Huawei Cloud StackUnderstand the network design methods of Huawei Cloud StackUnderstand the deployment design methods of Huawei Cloud StackUnderstand the partition design methods of Huawei Cloud Stack
+
+Target AudienceCloud computing solution engineersCloud computing pre-sales engineersThose who desire to obtain the HCIP-Cloud Computing Solution Architect V1.0 certification
+
+PrerequisitesExaminees have learned the basic principles of virtualization
+
+Training Content
+
+Introduction to OpenStackOpenStack OverviewIntroduction to OpenStack Core Components
+
+Introduction to Huawei Cloud StackHuawei Cloud Stack Architecture and ComponentsHuawei Cloud Stack Solution ArchitectureHuawei Cloud Stack Infrastructure, Resource Pools, and Common ComponentsHuawei Cloud Stack Cloud ServicesHuawei Cloud Stack Management ComponentsHuawei Cloud Stack Networking ArchitectureBackground Knowledge of Huawei Cloud Stack Networking ArchitectureOverview of VXLANOverview of VRFIntroduction to Huawei Cloud Stack Network PlanesOverview of Huawei Cloud Stack Network Traffic FlowIntroduction to Traffic Flow of Common Network Services
+
+Introduction to Huawei Cloud Stack Advanced ServicesCloud Native and ContainersIntroduction to Cloud Native and ContainersCloud NativeCloud Native Basicscontainerd and Container ImagesContainer Orchestration Based on KubernetesIntroduction to KubernetesInstalling KubernetesBasic Operations on Kubernetes ObjectsCompilation Basics of Kubernetes YAML FilesTypical Kubernetes WorkloadsHuawei Cloud Stack Cloud-Native ServicesCCE Technical Architecture and FeaturesCCE Basic OperationsIntroduction to ASM, AOM, and APMIntroduction to Database TechnologiesData FormsDatabase Development History and Typical ProductsBasic Principles of DatabasesHuawei Cloud Stack Database ServicesIntroduction to Big Data TechnologiesBig Data OverviewBig Data ScenariosBig Data Architecture and ComponentsHuawei Cloud Stack EI Services
+
+Huawei Cloud Stack Planning and DesignHuawei Cloud Stack Architecture DesignHuawei Cloud Stack Network DesignHuawei Cloud Stack Deployment DesignHuawei Cloud Stack Resource Partition Design
+
+Exam
+
+HCIP-Cloud Computing Solution Architect  
+Exam Code: H13-528  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false  
+Time: 90min  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 300USD  
+Language: English
+
+Knowledge Content DistributionIntroduction to OpenStack 15%Huawei Cloud Stack Architecture and Components 10%Huawei Cloud Stack Networking Architecture 10%Cloud Native and Containers 25%Introduction to Database Technologies 10%Introduction to Big Data Technologies 10%Huawei Cloud Stack Planning and Design 20%
+
+Recertification Policy
+
+Certification
+
+HCIP-Cloud Computing Solution Architect
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification
+
+Period of Invalidity
+
+Same as initial certification.

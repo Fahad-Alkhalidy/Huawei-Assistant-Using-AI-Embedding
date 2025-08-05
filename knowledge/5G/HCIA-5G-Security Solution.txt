@@ -1,0 +1,92 @@
+HCIA-5G-Security Solution
+
+Type
+
+ICT Infrastructure (5G)
+
+Capabilities to be Certified
+
+Have a comprehensive understanding of 5G SA basics, 5G cyber security standards and related certifications, 5G Core security solutions, 5G slicing security solutions, 5G MEC security solutions, and 5G cloud infrastructure security solutions. Be able to complete security deployment and maintenance of 5G networks under the guidance of others
+
+Knowledge to Learn
+
+Mobile communications network evolution, 5G SA network architecture and basic principles, 5G cyber security standards and certification, and 5G core, slicing, MEC, and cloud-based infrastructure security solutions
+
+Objectives
+
+● Understand the evolution history of mobile networks and the basic architecture of 5G networks.  
+● Understand key technologies, deployment, and evolution solutions for 5GC networks.  
+● Understand the cyber security requirements of 5G networks.  
+● Understand the 5G security standards released by 3GPP R15, R16, and R17.  
+● Understand the knowledge about NESAS/SCAS security certification standards  
+● Understand the 5GC security architecture  
+● Be familiar with 5GC service security solution and user access security.  
+● Be familiar with the 5GC service security solution, NE interworking, and user information security.  
+● Understand 5GC management and operation security solution.  
+● Understand the security challenges of 5G network slicing.  
+● Be familiar with 5G network slice isolation technologies and solutions.  
+● Be familiar with the 5G network slice access process and secure access solution.  
+● Understand the basic definition and service scenarios of MEC.  
+● Understanding the MEC security architecture  
+● Be familiar with MEC security solution.  
+● Describe 5GC infrastructure security threats.  
+● Be familiar with 5GC infrastructure risk mitigation measures.
+
+Target Audience5G network maintenance personnel5G network security O&M personnel5G network solution planning personnel
+
+Prerequisites
+
+Understand basic knowledge about telecom networks
+
+Training Content
+
+Mobile Communication Network Evolution OverviewMobile Communication Network Evolution OverviewBasic Concepts of Mobile Communication NetworkEvolution of the mobile communication network5GC Network Evolution and Key Technologies
+
+5G SA Network Architecture and Basic Principles5G SA Core Network Basic Principles5G core network architectureBasic 5G Core Network ConceptsBasic 5G Core Network Process
+
+Interpretation of 5G Cyber Security Standards and Certifications3GPP 5G security standardsOverview of 5G Security Standards3GPP R15 Basic Security Architecture and Security Features3GPP Release 16 Enables Industry Security Standards3GPP R17 deepens the enablement of industry security standardsNESAS&SCAS security certification standardNESAS continues to evolve and be accepted by more marketsIntroduction to NESAS Assessment SystemNESAS-CCS Becomes EU Candidate 5G Certification Solution5G security knowledge base
+
+5G Core Security Solution5G Core Security SolutionReview of 5G Core Architecture and New Technologies5G Core Security Protection Objectives and Security Architecture5G Core Service Security Solution5G Core Deployment and O&M Security Solution
+
+5G Slicing Security Solution5G Slicing Security SolutionDefinition and Application of 5G Network SlicingSlice security threatsSlice access securitySlice isolation securitySlice management securitySlicing Case Introduction
+
+5G MEC Security Solution5G MEC Security SolutionMEC Service ScenariosMEC Security Challenges and Security Solution ArchitectureMEC Security Cases
+
+5G Cloud-based Infrastructure Security Solution5G Cloud-based Infrastructure Security SolutionNFV Cloud-based Network Infrastructure5G Cloud-based Cyber Security Threats5G Cloud-based Network Security Solution
+
+Exam
+
+HCIA-5G-Security Solution  
+Exam Code: H35-664  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false  
+Time: 90min  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 200USD  
+Language: Chinese, English
+
+Knowledge Content DistributionMobile Communication Network Evolution Overview – 10%5G SA Network Architecture and Basic Principles – 30%Interpretation of 5G Cyber Security Standards and Certifications – 20%5G Core Security Solution – 10%5G Slicing Security Solution – 10%5G MEC Security Solution – 10%5G Cloud-based Infrastructure Security Solution – 10%
+
+Recertification Policy
+
+Certification
+
+HCIA-5G-Security Solution
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification which is from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

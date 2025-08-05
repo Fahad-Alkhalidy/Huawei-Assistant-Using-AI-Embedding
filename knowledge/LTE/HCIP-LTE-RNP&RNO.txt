@@ -1,0 +1,50 @@
+HCIP-LTE-RNP&RNO
+
+Type
+
+ICT Infrastructure (LTE)
+
+Capabilities to be Certified
+
+Demonstrate the capabilities of independently completing Huawei LTE network planning and cell parameter design, evaluating and applying network optimization features, managing wireless network performance, and analyzing performance problems, and optimizing performance.
+
+Knowledge to Learn
+
+In-depth knowledge of LTE network principles, and the capabilities of design, application and optimization of LTE network features based on LTE networking features, radio network performance optimization and complaint analysis and handling, aiming at standardizing professional skills in LTE RNP&RNO.
+
+Exam
+
+HCIP-LTE-RNP&RNO  
+Exam Code: H35-561  
+Exam Type: Written examination  
+Exam Format: Single-answer Question, Multiple-answer Question, True or false  
+Time: 90 minutes  
+Passing Score/Total Score: 600/1000  
+Exam Cost: 300 USD  
+Language: Chinese, English
+
+Knowledge Content DistributionLTE Air Interface — 7%LTE Protocols and E2E Signaling — 12%LTE Radio Network Design and Planning — 7%LTE Radio Network Features — 20%LTE Interoperability — 7%LTE Radio Network Optimize Problem Analysis — 16%LTE Radio Network Performance Management — 15%LTE Voice Solution Overview — 8%LTE-A Pro Key Technology Overview — 5%NB-IoT Overview — 3%
+
+Recertification Policy
+
+Certification
+
+HCIP-LTE-RNP&RNO
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as the initial certification.

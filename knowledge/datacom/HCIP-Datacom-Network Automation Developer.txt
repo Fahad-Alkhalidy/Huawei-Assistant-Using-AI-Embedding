@@ -1,0 +1,67 @@
+HCIP-Datacom-Network Automation Developer
+
+Type
+
+ICT Infrastructure (Datacom)
+
+Capabilities to be Certified
+
+HCIP-Datacom-Network Automation Developer certified engineers have a basic knowledge in the general technologies related to network automation development and are able to proceed enterprise network automatic implementation, development, O&M by using Huawei datacom equipment.
+
+Knowledge to Learn
+
+Routing basics, OSPF, IS-IS, BGP, routing and traffic control, Ethernet switching technology, multicast, IPv6, network security, network reliability, network service and management, WLAN, and network solutions. Python Programming Basics, Git, Network Devices' Open Programmability (SSH, SNMP, NETCONF, YANG, Telemetry etc.), iMaster NCE Northbound Openness Principles (RESTful, HTTP, HTTPS etc.).
+
+ObjectivesDescribe the basic concepts and working principles of SSHUnderstand the concept of ParamikoMaster the composition and common methods of ParamikoGrasp the common methods for implementing ParamikoDescribe basic SNMP conceptsDescribe basic SNMP functionsUnderstand SNMP fundamentalsPerform basic SNMP configurationsUse PySNMP to perform SNMP operationsDescribe the problems and challenges of traditional network configuration managementDescribe the basic principles of NETCONF, YANG, and RESTCONFDescribe the differences and relationships between NETCONF, YANG, and RESTCONFUnderstand the working principles of NETCONF and RESTCONFDescribe the background of the telemetry technologyDescribe the telemetry concepts and frameworkDistinguish static and dynamic telemetry subscriptionsDescribe the concepts and functions of gRPCConfigure telemetry data samplingDescribe basic OPS conceptsDescribe basic OPS functionsUnderstand the OPS working principlesImplement the basic OPS configurationDescribe the development of SDNDescribe Huawei SDN solutionsHave full knowledge of the background, concepts, and highlights of RESTUnderstand the relationship between REST, RESTful, and RESTCONFMaster the HTTP packet format and field descriptionsUnderstand the relationship between HTTP, HTTPS, and HTTP/2Grasp basic capabilities for invoking RESTful APIsDescribe Huawei CloudCampus SolutionDescribe main open APIs of iMaster NCE-CampusDescribe typical application scenarios of iMaster NCE-CampusUnderstand the basic functions of iMaster NCE-FabricUnderstand constraints and specifications of iMaster NCE-Fabric open APIsUnderstand the main open APIs and typical application scenarios of iMaster NCE-FabricComplete the example of invoking Neutron APIs for intra-VPC communicationDescribe the requirements of network AIDescribe the iMaster NAIE services of Huawei network AI engineDescribe the basic concepts of Huawei NCE service openness and programmabilityDescribe the open and programmable architecture and working principles of NCE servicesDescribe the application scenarios of NCE service openness and programmabilityUse the iMaster NCE open programmability system (OPS) to interconnect new devices and roll out new servicesBackground of network programming and automationNetwork openness levelsOpen capabilities of Huawei iMaster NCEPositioning and capabilities of network automation engineersDescribes the classification of programming languagesDescribes the Python encoding styleDescribe the differences between centralized and distributed version control systemsDescribe Git basic conceptsPerform basic Git operationsUse the GUI-based Git client TortoiseGitPerform code hosting on HUAWEI CLOUD
+
+Target AudiencePersonnel who want to become senior datacom development engineersWho want to obtain the HCIP-Datacom-Network Automation Developer certification
+
+PrerequisitesParticipated in HCIA-Datacom learningExperience in IT and network technologies
+
+Training Content
+
+Network Device Openness and ProgrammabilitySSH Principles and PracticesBasic Features of SSHWorking Principle of SSHParamiko Component ArchitecturePython SSH Code PracticeSSH ExperimentParamiko SSH LoginParamiko SFTP File TransferSNMP Principles and PracticesBasic Features of SNMPBasic SNMP networkingSNMP Working PrinciplePython SNMP Code PracticeAutomatic SNMP Configuration ExperimentAutomatic SNMP Configuration ExperimentNETCONF YANG Principles and PracticesNETCONF BackgroundNETCONF Application ScenariosWorking Principles of NETCONFYANG Development BackgroundYANG File StructureWorking Principles of RESTCONFNETCONF Configuration ExperimentNETCONF Configuration ExperimentConfiguration File Comparison ExperimentConfiguration File Comparison ExperimentTelemetry Principles and PracticesLimitations of SNMPTelemetry Overview and Application ScenariosTelemetry Architecture and Working PrinciplesBasic Telemetry Configuration and Code PracticegRPC Remote Configuration Query ExperimentgRPC Remote Configuration Query ExperimentTelemetry Configuration ExperimentTelemetry Configuration ExperimentOpen Programmability System (OPS) Principles and PracticesIntroduction to Huawei OPS FunctionsTypical Application Scenarios of OPSIntroduction to RESTfulOPS Working PrincipleOPS Configuration PracticesOPS ExperimentOPS ExperimentNetwork Flow Analysis ExperimentNetwork Flow Analysis Experiment
+
+iMaster NCE Northbound OpennessSDN OverviewOrigin and Development of SDNHuawei CloudCampus SolutionHuawei CloudFabric SolutionRESTful Principles and PracticesREST Background, Concepts, and HighlightsREST, RESTful, and RESTCONF relationshipsWorking Principle and Packet Format of HTTPRESTful Interface Invoking PracticeIntroduction to iMaster NCE-Campus Open APIsCloudCampus Solution Capabilities and API introductionTypical CloudCampus Openness ScenariosOpen cooperation casesiMaster NCE-Campus RESTful API Invoking PracticeiMaster NCE-Campus RESTful API Invoking PracticeiMaster NCE-Campus Wireless Locating PracticeiMaster NCE-Campus Wireless Locating PracticeiMaster NCE-Campus Third-Party Authentication PracticesiMaster NCE-Campus Third-Party Authentication PracticesIntroduction to iMaster NCE-Fabric Open APICloudFabric Solution Openness CapabilitiesGeneral Constraints and Specifications for Open APIs of iMaster NCE-FabriciMaster NCE-Fabric Open APIs and Application ScenariosExample for Invoking Neutron APIs for Intra-VPC Access
+
+Network Artificial IntelligenceNetwork AI Requirements and ChallengesIntroduction to Huawei Network Artificial Intelligence Engine iMaster NAIE Service
+
+iMaster NCE Service Openness and ProgrammabilityiMaster NCE Service Openness and ProgrammabilityBackground of Open Programmability of Datacom NetworksHuawei Network Openness and Programmability PracticeiMaster NCE Service Openness Programmable NE Driver PackageiMaster NCE Service Openness Programmable Service PackageiMaster NCE Service Openness and Programmability Development ProcessConcepts related to service openness and programmability (NETCONF, YANG, and Jinjia)Practical cases
+
+Programming BasicsNetwork Programming and Automation OverviewCapability model of network automation development engineersCourse IntroductionPython Programming BasicsProgramming Language OverviewIntroduction to PythonPython Coding SpecificationsPython Code PracticePython Programming PracticesPython Programming BasicsPython - AdvancedGit Principles and PracticesVersion Control OverviewGit Basic PrinciplesCommon Git operations: clone, pull, push, and mergeCode Hosting Practice Based on HUAWEI CLOUDGit PracticeBasic Git OperationsCode Hosting Practice on HUAWEI CLOUDGitflow Workflow Practice
+
+Exam
+
+HCIP-Datacom-Core TechnologyExam Code: H12-821Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop ItemTime: 90 minPassing Score/Total Score: 600/1000Exam Cost: 300 USDLanguage: Chinese, English, Japanese
+
+HCIP-Datacom-Network Automation DeveloperExam Code: H12-881Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or false, Short Response Item, Drag and Drop ItemTime: 90 minPassing Score/Total Score: 600/1000Exam Cost: 180 USDLanguage: Chinese, English
+
+Knowledge Content Distribution
+
+HCIP-Datacom-Core TechnologyRouting Basics – 3%OSPF Core Knowledge – 16%IS-IS Core Knowledge – 8%BGP Core Knowledge – 17%Routing and Traffic Control – 10%Switching Core Knowledge – 7%Multicast Basics – 9%IPv6 Core Knowledge – 3%Network Security Basics – 9%Network Reliability Basics – 8%Network Service and Management – 2%Large-scale WLAN Architecture – 6%Network Solution – 2%
+
+HCIP-Datacom-Network Automation DeveloperProgramming Basics – 20%Device Openness and Programmability – 50%iMaster NCE Northbound Openness – 25%iMaster NCE Service Openness and Programmability – 5%
+
+Recertification Policy
+
+Certification
+
+HCIP-Datacom-Network Automation Developer
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:  
+(1) Participate and pass any exam of the current certification.  
+(2) Participate and pass any exam of the same or higher level certification which from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.

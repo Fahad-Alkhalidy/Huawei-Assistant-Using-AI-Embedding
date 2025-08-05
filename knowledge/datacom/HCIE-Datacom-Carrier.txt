@@ -1,0 +1,63 @@
+HCIE-Datacom-Carrier
+
+Type
+
+ICT Infrastructure (Datacom)
+
+Capabilities to be Certified
+
+Have a systematic understanding and proficient command of the principles, advanced features, and applications of each protocol. You also have an understanding of the network architecture, services, and network and technology evolution of the carrier network. You can independently complete the maintenance tasks of typical carriers' networks.
+
+Knowledge to Learn
+
+Advanced routing protocol features, VPN in-depth analysis, HA high reliability features, advanced multicast protocol features, IP mobile backhaul planning and deployment, MAN planning and deployment, IP MAN, backbone network planning and deployment, cloud bearer network planning and deployment, IPv6 planning and deployment, application and process orchestration.
+
+ObjectivesHave a good command of the advanced features of the OSPF/IS-IS routing protocol.Have a good command of advanced features of BGP routing protocols.Master the in-depth features of MPLS TE, SR, and SRv6 tunneling technologies.Have a good command of Layer 3 VPN in-depth feature analysis and configuration advanced features.Have a good command of Layer 2 VPN in-depth feature analysis and configuration advanced features.Master the advanced features of multicast protocols.Have a good command of QoS/HQoS in-depth features.Have a good command of IP mobile backhaul planning and deployment.Master the MAN planning and deployment.Have a good command of IP backbone network planning and deployment.Master the Cloud bearer network planning and deployment.Master network applications and process orchestration.Master the automatic O&M technology.
+
+Target Audience
+
+This program is intended for those who are to be certified by the HCIE exam.
+
+Prerequisites
+
+Have got the HCIP certification or have the equivalent technical knowledge level.
+
+Training ContentAdvanced Features of Routing Protocols PracticeSR in-depth feature analysisVPN in-depth feature analysisHA High ReliabilityAdvanced Multicast and QoS Protocol Features PracticeIP Mobile Backhaul Network Planning and DesignIP MAN and backbone network planningCloud bearer network planning and deploymentApplication and process orchestrationLarge-scale network integrated hands-on
+
+Exam
+
+HCIE-Datacom-Carrier (Written)Exam Code: H35-831Exam Type: Written examinationExam Format: Single-answer Question, Multiple-answer Question, True or FalseTime: 120 minutesPassing Score / Total Score: 600 / 1000Cost: 300 USDLanguage: Chinese, English
+
+HCIE-Datacom-Carrier (Lab)Exam Code: H35-832Exam Type: ExperimentsExam Format: Operation, Essay ItemTime: 480 minutesPassing Score / Total Score: 80 / 100Cost: 1200 USDLanguage: Chinese, English
+
+Knowledge Content Distribution
+
+HCIE-Datacom-Carrier (Written)
+
+Knowledge Areas and Weights:Advanced features of routing protocols – 15%Tunnel technology in-depth – 15%VPN in-depth feature – 15%HA high reliability – 8%Advanced multicast protocol – 6%QoS in-depth features – 5%IP mobile backhaul planning and deployment – 8%MAN planning and deployment – 8%Backbone network planning – 8%Cloud bearer network planning and deployment – 8%Overview of network orchestration technologies – 2%Automatic O&M – 2%
+
+HCIE-Datacom-Carrier (Lab)
+
+Knowledge Areas and Weights:IGP routing protocol – 10%BGP routing protocol – 10%Route selection and filtering – 7%SR and SRv6 – 12%VPN – 21%HA high reliability – 10%Mobile backhaul planning and deployment – 10%Multicast protocol – 12%Backbone network planning and deployment – 8%
+
+Recertification Policy
+
+Certification
+
+HCIE-Datacom-Carrier
+
+Period of Validity
+
+3 Years
+
+Validity of Recertification
+
+3 Years
+
+Recertification Method
+
+Before your certificate expires, you can update its validity period in either of the following ways:Participate and pass any exam of the current certification.Participate and pass any exam of the same or higher-level certification from the same technology track of the current certification.
+
+Period of Invalidity
+
+Same as initial certification.
