@@ -1,4 +1,9 @@
-import { Pinecone } from "@pinecone-database/pinecone";
+import {
+  Pinecone,
+  Index,
+  ScoredPineconeRecord,
+  QueryResponse,
+} from "@pinecone-database/pinecone";
 
 export type PineconeRecord = {
   id: string;
@@ -11,9 +16,39 @@ export type PineconeRecord = {
   };
 };
 
+export type PineconeIndexInfo = {
+  name: string;
+  dimension: number;
+  metric: string;
+  host: string;
+  spec: {
+    serverless: {
+      cloud: string;
+      region: string;
+    };
+  };
+  status: {
+    ready: boolean;
+    state: string;
+  };
+};
+
+export type PineconeIndexesResponse = {
+  indexes: PineconeIndexInfo[];
+};
+
+export type PineconeFilter = {
+  [key: string]:
+    | string
+    | number
+    | boolean
+    | PineconeFilter
+    | Array<string | number | boolean>;
+};
+
 export class PineconeClient {
   private pinecone: Pinecone;
-  private index: any;
+  private index: Index | null = null;
   private indexName: string;
 
   constructor() {
@@ -37,21 +72,21 @@ export class PineconeClient {
       console.log("📋 Available indexes:", indexes);
 
       // Check if indexes is an object with an 'indexes' property
-      const indexList =
+      const indexList: PineconeIndexInfo[] =
         indexes && typeof indexes === "object" && "indexes" in indexes
-          ? indexes.indexes
+          ? (indexes as PineconeIndexesResponse).indexes
           : Array.isArray(indexes)
-          ? indexes
+          ? (indexes as PineconeIndexInfo[])
           : [];
 
       const indexExists = indexList.some(
-        (index: any) => index.name === this.indexName
+        (index: PineconeIndexInfo) => index.name === this.indexName
       );
 
       if (!indexExists) {
         console.log(
           `❌ Index ${this.indexName} not found. Available indexes:`,
-          indexList.map((i: any) => i.name)
+          indexList.map((i: PineconeIndexInfo) => i.name)
         );
         throw new Error(
           `Index ${this.indexName} does not exist. Please create it first.`
@@ -75,7 +110,7 @@ export class PineconeClient {
       }
 
       console.log(`🔄 Upserting ${records.length} vectors to Pinecone...`);
-      await this.index.upsert(records);
+      await this.index!.upsert(records);
       console.log(`✅ Successfully upserted ${records.length} vectors`);
     } catch (error) {
       console.error("Failed to upsert vectors:", error);
@@ -83,13 +118,17 @@ export class PineconeClient {
     }
   }
 
-  async search(queryVector: number[], topK: number = 10, filter?: any) {
+  async search(
+    queryVector: number[],
+    topK: number = 10,
+    filter?: PineconeFilter
+  ): Promise<ScoredPineconeRecord[]> {
     try {
       if (!this.index) {
         await this.initialize();
       }
 
-      const searchResponse = await this.index.query({
+      const searchResponse: QueryResponse = await this.index!.query({
         vector: queryVector,
         topK: topK,
         includeMetadata: true,
@@ -110,7 +149,7 @@ export class PineconeClient {
       }
 
       console.log("🔄 Deleting all vectors from Pinecone...");
-      await this.index.deleteAll();
+      await this.index!.deleteAll();
       console.log("✅ Successfully deleted all vectors");
     } catch (error) {
       console.error("Failed to delete vectors:", error);
@@ -124,7 +163,7 @@ export class PineconeClient {
         await this.initialize();
       }
 
-      const stats = await this.index.describeIndexStats();
+      const stats = await this.index!.describeIndexStats();
       return stats;
     } catch (error) {
       console.error("Failed to get index stats:", error);

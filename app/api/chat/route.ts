@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { simpleSearch } from "@/lib/simpleSearch";
+import { simpleSearch } from "@/lib/smartSearch";
 import { AIClient } from "@/lib/aiClient";
 
 export async function POST(request: NextRequest) {

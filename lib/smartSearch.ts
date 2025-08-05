@@ -1,4 +1,4 @@
-import { vectorSearch, VectorSearchResult } from "./vectorSearch";
+import { vectorSearch } from "./vectorSearch";
 
 export type SearchResult = {
   id: number;

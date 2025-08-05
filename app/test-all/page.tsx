@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { Search, Database } from "lucide-react";
 import Image from "next/image";
-import { SearchResult } from "@/lib/simpleSearch";
+import { SearchResult } from "@/lib/smartSearch";
 
 type ChatAPI = "vector-search";
 

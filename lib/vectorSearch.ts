@@ -1,4 +1,4 @@
-import { loadAllKnowledge, chunkKnowledge, KnowledgeChunk } from "./textLoader";
+import { loadAllKnowledge, chunkKnowledge } from "./textLoader";
 import { createEmbeddingClient, EmbeddingClient } from "./embeddingClient";
 import { PineconeClient, PineconeRecord } from "./pineconeClient";
 
@@ -96,11 +96,13 @@ export class VectorSearchEngine {
       // Convert matches to search results
       const results: VectorSearchResult[] = matches.map((match) => ({
         id: match.id,
-        title: match.metadata?.title || "",
-        category: match.metadata?.category || "",
-        chunk: match.metadata?.chunk || "",
+        title: String(match.metadata?.title || ""),
+        category: String(match.metadata?.category || ""),
+        chunk: String(match.metadata?.chunk || ""),
         similarity: match.score || 0,
-        context: match.metadata?.context,
+        context: match.metadata?.context
+          ? String(match.metadata.context)
+          : undefined,
       }));
 
       return results;
@@ -128,11 +130,13 @@ export class VectorSearchEngine {
 
       const results: VectorSearchResult[] = matches.map((match) => ({
         id: match.id,
-        title: match.metadata?.title || "",
-        category: match.metadata?.category || "",
-        chunk: match.metadata?.chunk || "",
+        title: String(match.metadata?.title || ""),
+        category: String(match.metadata?.category || ""),
+        chunk: String(match.metadata?.chunk || ""),
         similarity: match.score || 0,
-        context: match.metadata?.context,
+        context: match.metadata?.context
+          ? String(match.metadata.context)
+          : undefined,
       }));
 
       return results;
