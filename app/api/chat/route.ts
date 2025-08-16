@@ -28,9 +28,7 @@ export async function POST(request: NextRequest) {
     const context = searchResults
       .map(
         (result, index) =>
-          `[Chunk ${index + 1}] ${result.title} (${result.category}):\n${
-            result.chunk
-          }`
+          `${result.title} (${result.category}):\n${result.chunk}`
       )
       .join("\n\n");
 

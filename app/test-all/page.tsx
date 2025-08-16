@@ -77,8 +77,8 @@ export default function TestAllPage() {
 
   const getAPIInfo = () => {
     return {
-      name: "AI-Powered Vector Search",
-      description: "Query → Embedding → Pinecone Search → Groq AI Response",
+      name: "Huawei Certification Search",
+      description: "Learn more about Huawei certifications and exams",
       icon: <Database className="w-4 h-4" />,
       color: "bg-purple-600",
     };
@@ -184,7 +184,7 @@ export default function TestAllPage() {
                     </div>
                   )}
 
-                  {result.searchResults && result.searchResults.length > 0 && (
+                  {/* {result.searchResults && result.searchResults.length > 0 && (
                     <div className="mt-4 text-sm">
                       <p className="font-medium text-gray-700 mb-2">
                         Search Results:
@@ -201,7 +201,7 @@ export default function TestAllPage() {
                         ))}
                       </div>
                     </div>
-                  )}
+                  )} */}
                 </div>
               );
             })}
@@ -220,10 +220,6 @@ export default function TestAllPage() {
             <li>Security solutions implementation</li>
             <li>HCIE prerequisites and preparation</li>
           </ul>
-          <p className="mt-4 text-xs text-gray-400">
-            💡 Each query is converted to a vector, searched in Pinecone, and
-            processed by Groq AI
-          </p>
         </div>
 
         <footer className="mt-10 text-xs text-gray-400 text-center">
