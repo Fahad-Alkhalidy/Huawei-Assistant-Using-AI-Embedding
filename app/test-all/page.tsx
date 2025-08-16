@@ -96,11 +96,8 @@ export default function TestAllPage() {
             className="rounded-full mx-auto w-20 h-20 sm:w-24 sm:h-24 md:w-28 md:h-28"
           />
           <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mt-4">
-            Huawei Assistant
+            Huawei Student Assistant
           </h1>
-          <p className="text-gray-600 mt-2 text-sm sm:text-base">
-            Test the Huawei chatbot with AI-powered semantic vector search!
-          </p>
         </div>
 
         <div className="bg-white rounded-lg shadow-lg p-4 sm:p-6 mb-8">
@@ -119,7 +116,7 @@ export default function TestAllPage() {
               className="px-5 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-2 text-sm"
             >
               <Search className="w-4 h-4" />
-              <span>{isLoading ? "Testing..." : "Test All APIs"}</span>
+              <span>{isLoading ? "Searching..." : "Search"}</span>
             </button>
           </div>
 
@@ -209,9 +206,7 @@ export default function TestAllPage() {
         )}
 
         <div className="mt-10 text-sm text-gray-500">
-          <p className="font-medium mb-2">
-            Test Queries for AI-Powered Vector Search:
-          </p>
+          <p className="font-medium mb-2">Some common queries you can try:</p>
           <ul className="space-y-1 pl-4 list-disc">
             <li>HCIA IoT exam requirements</li>
             <li>5G core network architecture</li>
