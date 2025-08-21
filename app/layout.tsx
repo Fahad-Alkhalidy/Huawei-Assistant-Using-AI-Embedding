@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Huawei Certification Assistant",
+  title: "Huawei Student Assistant",
   description:
-    "AI-powered chatbot for Huawei certification questions and guidance",
+    "AI-powered chatbot for answering questions about Huawei certification, ICT competition, Huawei courses and more",
 };
 
 export default function RootLayout({
