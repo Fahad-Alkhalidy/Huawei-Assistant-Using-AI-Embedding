@@ -35,18 +35,18 @@ export async function POST(request: NextRequest) {
     // Try to get AI response using free model, but fall back to keyword search if AI fails
     try {
       // Create the prompt for AI
-      const prompt = `You are a helpful assistant specializing in Huawei certifications and technologies. 
+      const prompt = `You are a helpful assistant specializing in answering questions related to Huawei certification or Huawei ICT competition. 
       
 Context from Huawei certification materials (multiple relevant chunks):
-${context}
+${context}, use this only if the question is about Huawei certifications or technologies.
 
 User question: ${message}
 
-Please provide a comprehensive and accurate response based on ALL the Huawei certification materials provided in the context. 
-Combine information from multiple chunks when relevant to give a complete answer.
-If the context doesn't contain enough information to answer the question, you can provide general guidance about Huawei certifications, but make sure to mention that you're providing general information.
+Please provide a comprehensive and accurate response based on ALL the Huawei certification materials provided in the context (if the question is related to Huawei certificates). 
+Combine information from multiple chunks when relevant to give a complete answer (if question is related to Huawei certificates).
+If the context doesn't contain enough information to answer the question, you can provide general guidance about Huawei certifications or ICT competition depending on the question, but make sure to mention that you're providing general information.
 
-Keep your response comprehensive, professional, and focused on Huawei technologies and certifications. Use information from multiple chunks when it helps provide a better answer.`;
+Keep your response comprehensive, professional, and focused on Huawei technologies either about Huawei ICT competition or certifications. Use information from multiple chunks when it helps provide a better answer. (again use chunks only if it is about Huawei certification)`;
 
       // Get AI provider from environment or default to ollama
       const aiProvider = process.env.AI_PROVIDER as "groq";
@@ -73,7 +73,7 @@ Keep your response comprehensive, professional, and focused on Huawei technologi
       );
 
       // Fall back to comprehensive keyword-based response
-      let response = `Based on my Huawei certification knowledge base, here's what I found:\n\n`;
+      let response = `Based on my Huawei knowledge base, here's what I found:\n\n`;
 
       // Show all relevant chunks with their relevance scores
       searchResults.forEach((result, index) => {
@@ -90,7 +90,7 @@ Keep your response comprehensive, professional, and focused on Huawei technologi
         response += `---\n\n`;
       });
 
-      // Add summary if there are multiple results
+      //Add summary if there are multiple results
       if (searchResults.length > 1) {
         response += `**Summary:** I found ${searchResults.length} relevant pieces of information from the Huawei certification knowledge base. The results are ordered by relevance to your query.`;
       }

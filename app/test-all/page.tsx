@@ -77,8 +77,9 @@ export default function TestAllPage() {
 
   const getAPIInfo = () => {
     return {
-      name: "Huawei Certification Search",
-      description: "Learn more about Huawei certifications and exams",
+      name: "Search",
+      description:
+        "Learn more about Huawei ICT competiton, Courses, Certifications and more.",
       icon: <Database className="w-4 h-4" />,
       color: "bg-purple-600",
     };
